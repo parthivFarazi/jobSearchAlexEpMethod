@@ -1,0 +1,33 @@
+name: Job Watcher
+on:
+  schedule:
+    - cron: "17 * * * *"      # hourly, off the :00 slot (GitHub throttles top-of-hour)
+  workflow_dispatch: {}       # adds a "Run workflow" button
+permissions:
+  contents: write             # lets the run commit seen_jobs.json and latest_new.md
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: "3.12"}
+      - run: pip install requests
+      - name: Run watcher
+        env:
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+        run: python watcher.py
+      - name: Save state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.json latest_new.md
+          git diff --quiet --cached && exit 0
+          git commit -m "Update seen jobs [skip ci]"
+          for i in 1 2 3; do git pull --rebase --autostash origin main && git push && exit 0; sleep 5; done

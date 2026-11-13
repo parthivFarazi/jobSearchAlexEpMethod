@@ -1,0 +1,1011 @@
+{
+  "_comment": "Full-time edition. Every filter here encodes a rule from Job Search Figured Out/00_OPS (spec sections 2, 3a, 11 and the work-authorisation rule in the decisions log). Change a filter, then run DRY_RUN=1 python watcher.py and read the Filter drops line.",
+  "filters": {
+    "title_require_any": [
+      "software",
+      "engineer",
+      "developer",
+      "swe",
+      "sde",
+      "machine learning",
+      "ml",
+      "ai",
+      "data",
+      "research",
+      "backend",
+      "back end",
+      "full stack",
+      "fullstack",
+      "frontend",
+      "front end",
+      "platform",
+      "infrastructure",
+      "systems",
+      "forward deployed",
+      "solutions",
+      "applied scientist",
+      "computer vision",
+      "founding",
+      "product engineer",
+      "mlops",
+      "devops",
+      "site reliability",
+      "robotics",
+      "evaluation"
+    ],
+    "title_exclude": [
+      "intern",
+      "co-op",
+      "coop",
+      "senior",
+      "sr",
+      "sr.",
+      "staff",
+      "principal",
+      "lead",
+      "director",
+      "manager",
+      "management",
+      "head",
+      "vp",
+      "vice president",
+      "chief",
+      "architect",
+      "phd",
+      "ph.d",
+      "postdoc",
+      "fellow",
+      "sales",
+      "marketing",
+      "recruiter",
+      "recruiting",
+      "human resources",
+      "account executive",
+      "mechanical",
+      "civil",
+      "chemical",
+      "electrical",
+      "hardware",
+      "asic",
+      "fpga",
+      "rtl",
+      "dft",
+      "analog",
+      "silicon",
+      "quant",
+      "quantitative",
+      "trader",
+      "trading",
+      "clearance",
+      "ts/sci",
+      "secret",
+      "iii",
+      "iv",
+      "contract",
+      "contractor",
+      "part-time",
+      "part time",
+      "apprentice",
+      "technician",
+      "nurse",
+      "counsel",
+      "attorney",
+      "finance",
+      "accountant",
+      "accounting",
+      "designer",
+      "writer",
+      "support",
+      "success",
+      "operations",
+      "procurement",
+      "supply chain",
+      "manufacturing",
+      "field service",
+      "partnerships",
+      "partner",
+      "relations",
+      "sourcer",
+      "representative",
+      "sdr",
+      "bdr",
+      "strategist",
+      "marketer",
+      "gtm",
+      "resident",
+      "residency",
+      "demo"
+    ],
+    "years": [
+      "2026",
+      "2027"
+    ],
+    "reject_cycle_phrases": [
+      "2028 new grad",
+      "class of 2028",
+      "graduating in 2028",
+      "summer 2028",
+      "2025 new grad",
+      "class of 2025",
+      "graduating in 2025"
+    ],
+    "max_years_required": 2,
+    "big_board_jobs": 60,
+    "tracker_category_keep": [
+      "Software",
+      "AI/ML/Data",
+      "Software Engineering",
+      "Data Science, AI & Machine Learning"
+    ],
+    "company_exclude": [
+      "Appian",
+      "American Express",
+      "Cargill",
+      "Falcomm",
+      "PrizePicks",
+      "Jane Street",
+      "Five Rings",
+      "Optiver",
+      "Belvedere Trading",
+      "Hudson River Trading",
+      "Citadel",
+      "Jump Trading",
+      "IMC",
+      "DRW",
+      "Susquehanna",
+      "SIG",
+      "Two Sigma",
+      "Akuna",
+      "Tower Research",
+      "Virtu",
+      "Point72",
+      "Millennium",
+      "Radix Trading",
+      "Old Mission",
+      "Flow Traders",
+      "Headlands",
+      "GTRI",
+      "Georgia Tech Research Institute",
+      "SpaceX",
+      "Blue Origin",
+      "Anduril",
+      "Lockheed Martin",
+      "Raytheon",
+      "RTX",
+      "Northrop Grumman",
+      "Boeing",
+      "General Dynamics",
+      "BAE Systems",
+      "L3Harris",
+      "Leidos",
+      "Booz Allen",
+      "Johns Hopkins Applied Physics Laboratory",
+      "MITRE",
+      "Sandia National",
+      "Los Alamos",
+      "Lawrence Livermore",
+      "Draper",
+      "Peraton",
+      "SAIC",
+      "CACI",
+      "Shield AI",
+      "Epirus"
+    ],
+    "location_exclude": [
+      "india",
+      "bangalore",
+      "bengaluru",
+      "hyderabad",
+      "pune",
+      "mumbai",
+      "chennai",
+      "gurgaon",
+      "gurugram",
+      "noida",
+      "delhi",
+      "china",
+      "beijing",
+      "shanghai",
+      "shenzhen",
+      "hangzhou",
+      "hong kong",
+      "taiwan",
+      "taipei",
+      "japan",
+      "tokyo",
+      "osaka",
+      "korea",
+      "seoul",
+      "vietnam",
+      "hanoi",
+      "ho chi minh",
+      "thailand",
+      "bangkok",
+      "indonesia",
+      "jakarta",
+      "philippines",
+      "manila",
+      "malaysia",
+      "kuala lumpur",
+      "pakistan",
+      "bangladesh",
+      "dhaka",
+      "sri lanka",
+      "uae",
+      "dubai",
+      "abu dhabi",
+      "saudi",
+      "riyadh",
+      "qatar",
+      "israel",
+      "tel aviv",
+      "turkey",
+      "istanbul",
+      "egypt",
+      "nigeria",
+      "kenya",
+      "south africa",
+      "brazil",
+      "sao paulo",
+      "mexico",
+      "argentina",
+      "buenos aires",
+      "colombia",
+      "bogota",
+      "chile",
+      "peru",
+      "costa rica",
+      "germany",
+      "berlin",
+      "munich",
+      "france",
+      "paris",
+      "spain",
+      "madrid",
+      "barcelona",
+      "netherlands",
+      "amsterdam",
+      "sweden",
+      "stockholm",
+      "switzerland",
+      "zurich",
+      "italy",
+      "milan",
+      "poland",
+      "warsaw",
+      "portugal",
+      "lisbon",
+      "czech",
+      "prague",
+      "romania",
+      "bucharest",
+      "ukraine",
+      "denmark",
+      "copenhagen",
+      "norway",
+      "oslo",
+      "finland",
+      "helsinki",
+      "belgium",
+      "brussels",
+      "austria",
+      "vienna",
+      "hungary",
+      "budapest",
+      "emea",
+      "apac",
+      "latam"
+    ],
+    "location_keep_markers": [
+      "united states",
+      "usa",
+      "u.s.",
+      "remote - us",
+      "remote (us)",
+      "remote, us",
+      "us remote",
+      "us-remote",
+      "remote us",
+      "new york",
+      "san francisco",
+      "bay area",
+      "boston",
+      "seattle",
+      "austin",
+      "chicago",
+      "los angeles",
+      "atlanta",
+      "denver",
+      "washington, d",
+      "palo alto",
+      "mountain view",
+      "menlo park",
+      "sunnyvale",
+      "santa clara",
+      "san jose",
+      "redmond",
+      "bellevue",
+      "pittsburgh",
+      "philadelphia",
+      "miami",
+      "dallas",
+      "houston",
+      "raleigh",
+      "durham",
+      "london",
+      "dublin",
+      "toronto",
+      "vancouver",
+      "sydney",
+      "melbourne",
+      "singapore"
+    ],
+    "international_markers": [
+      "london",
+      "uk",
+      "united kingdom",
+      "england",
+      "manchester",
+      "cambridge",
+      "edinburgh",
+      "dublin",
+      "ireland",
+      "toronto",
+      "vancouver",
+      "montreal",
+      "ottawa",
+      "waterloo",
+      "canada",
+      "sydney",
+      "melbourne",
+      "brisbane",
+      "australia",
+      "singapore",
+      "auckland",
+      "wellington",
+      "new zealand"
+    ]
+  },
+  "firms": [
+    {
+      "name": "SimplifyJobs New-Grad-Positions",
+      "ats": "github_json",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/New-Grad-Positions/dev/.github/scripts/listings.json"
+    },
+    {
+      "name": "vanshb03 New-Grad tracker",
+      "ats": "github_json",
+      "url": "https://raw.githubusercontent.com/vanshb03/New-Grad-2027/dev/.github/scripts/listings.json"
+    },
+    {
+      "name": "NVIDIA",
+      "ats": "workday",
+      "host": "nvidia.wd5.myworkdayjobs.com",
+      "tenant": "nvidia",
+      "site": "NVIDIAExternalCareerSite",
+      "search": "new college grad",
+      "max_pages": 6,
+      "mode": "all"
+    },
+    {
+      "name": "Salesforce",
+      "ats": "workday",
+      "host": "salesforce.wd12.myworkdayjobs.com",
+      "tenant": "salesforce",
+      "site": "External_Career_Site",
+      "search": "new grad",
+      "max_pages": 8,
+      "mode": "all"
+    },
+    {
+      "name": "Anthropic",
+      "ats": "greenhouse",
+      "token": "anthropic"
+    },
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "token": "stripe"
+    },
+    {
+      "name": "Figma",
+      "ats": "greenhouse",
+      "token": "figma"
+    },
+    {
+      "name": "Scale AI",
+      "ats": "greenhouse",
+      "token": "scaleai"
+    },
+    {
+      "name": "Databricks",
+      "ats": "greenhouse",
+      "token": "databricks"
+    },
+    {
+      "name": "Pinterest",
+      "ats": "greenhouse",
+      "token": "pinterest"
+    },
+    {
+      "name": "DoorDash",
+      "ats": "greenhouse",
+      "token": "doordashusa"
+    },
+    {
+      "name": "Affirm",
+      "ats": "greenhouse",
+      "token": "affirm"
+    },
+    {
+      "name": "Nuro",
+      "ats": "greenhouse",
+      "token": "nuro"
+    },
+    {
+      "name": "Twitch",
+      "ats": "greenhouse",
+      "token": "twitch"
+    },
+    {
+      "name": "Glean",
+      "ats": "greenhouse",
+      "token": "gleanwork"
+    },
+    {
+      "name": "Together AI",
+      "ats": "greenhouse",
+      "token": "togetherai"
+    },
+    {
+      "name": "Klaviyo Campus",
+      "ats": "greenhouse",
+      "token": "klaviyocampus"
+    },
+    {
+      "name": "Astera Early Career",
+      "ats": "greenhouse",
+      "token": "asteraearlycareer2027"
+    },
+    {
+      "name": "Cerebras",
+      "ats": "ashby",
+      "token": "cerebras"
+    },
+    {
+      "name": "Verkada",
+      "ats": "greenhouse",
+      "token": "verkada"
+    },
+    {
+      "name": "Yext",
+      "ats": "greenhouse",
+      "token": "yext"
+    },
+    {
+      "name": "Otter.ai",
+      "ats": "greenhouse",
+      "token": "otterai"
+    },
+    {
+      "name": "ID.me",
+      "ats": "greenhouse",
+      "token": "idme"
+    },
+    {
+      "name": "Arize AI",
+      "ats": "greenhouse",
+      "token": "arizeai"
+    },
+    {
+      "name": "Authentic Insurance",
+      "ats": "greenhouse",
+      "token": "authenticinsurance"
+    },
+    {
+      "name": "ZipRecruiter",
+      "ats": "greenhouse",
+      "token": "ziprecruiter"
+    },
+    {
+      "name": "Instalily",
+      "ats": "greenhouse",
+      "token": "instalilyai"
+    },
+    {
+      "name": "Instabase",
+      "ats": "greenhouse",
+      "token": "instabase",
+      "enabled": false,
+      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+    },
+    {
+      "name": "Wonderschool",
+      "ats": "greenhouse",
+      "token": "wonderschool"
+    },
+    {
+      "name": "IXL Learning",
+      "ats": "greenhouse",
+      "token": "ixllearning"
+    },
+    {
+      "name": "GumGum",
+      "ats": "greenhouse",
+      "token": "gumgum"
+    },
+    {
+      "name": "Truveta",
+      "ats": "greenhouse",
+      "token": "truveta"
+    },
+    {
+      "name": "Smartsheet",
+      "ats": "greenhouse",
+      "token": "smartsheet"
+    },
+    {
+      "name": "Sigma Computing",
+      "ats": "greenhouse",
+      "token": "sigmacomputing"
+    },
+    {
+      "name": "Pure Storage",
+      "ats": "greenhouse",
+      "token": "purestorage"
+    },
+    {
+      "name": "Pipe17",
+      "ats": "greenhouse",
+      "token": "pipe17"
+    },
+    {
+      "name": "Perpay",
+      "ats": "greenhouse",
+      "token": "perpay"
+    },
+    {
+      "name": "AssemblyAI",
+      "ats": "greenhouse",
+      "token": "assemblyai"
+    },
+    {
+      "name": "Cresta",
+      "ats": "greenhouse",
+      "token": "cresta"
+    },
+    {
+      "name": "Vercel",
+      "ats": "greenhouse",
+      "token": "vercel"
+    },
+    {
+      "name": "Discord",
+      "ats": "greenhouse",
+      "token": "discord"
+    },
+    {
+      "name": "Mercury",
+      "ats": "greenhouse",
+      "token": "mercury"
+    },
+    {
+      "name": "Duolingo",
+      "ats": "greenhouse",
+      "token": "duolingo"
+    },
+    {
+      "name": "Airtable",
+      "ats": "greenhouse",
+      "token": "airtable"
+    },
+    {
+      "name": "Harvey",
+      "ats": "ashby",
+      "token": "harvey"
+    },
+    {
+      "name": "Sim",
+      "ats": "ashby",
+      "token": "sim"
+    },
+    {
+      "name": "Vals AI",
+      "ats": "ashby",
+      "token": "vals-ai"
+    },
+    {
+      "name": "Julius",
+      "ats": "ashby",
+      "token": "julius"
+    },
+    {
+      "name": "Generalist",
+      "ats": "ashby",
+      "token": "generalist"
+    },
+    {
+      "name": "Whatnot",
+      "ats": "ashby",
+      "token": "whatnot",
+      "enabled": false,
+      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+    },
+    {
+      "name": "Sola",
+      "ats": "ashby",
+      "token": "sola-insurance"
+    },
+    {
+      "name": "Quora",
+      "ats": "ashby",
+      "token": "quora"
+    },
+    {
+      "name": "Nomic AI",
+      "ats": "ashby",
+      "token": "nomic.ai"
+    },
+    {
+      "name": "LiteLLM",
+      "ats": "ashby",
+      "token": "litellm"
+    },
+    {
+      "name": "Discernis",
+      "ats": "ashby",
+      "token": "discernis"
+    },
+    {
+      "name": "Deposco",
+      "ats": "ashby",
+      "token": "deposco"
+    },
+    {
+      "name": "Agave",
+      "ats": "ashby",
+      "token": "agave"
+    },
+    {
+      "name": "Rox",
+      "ats": "ashby",
+      "token": "rox-data-corp"
+    },
+    {
+      "name": "Ambral",
+      "ats": "ashby",
+      "token": "ambral"
+    },
+    {
+      "name": "Supabase",
+      "ats": "ashby",
+      "token": "supabase"
+    },
+    {
+      "name": "Replit",
+      "ats": "ashby",
+      "token": "replit"
+    },
+    {
+      "name": "Notion",
+      "ats": "ashby",
+      "token": "notion"
+    },
+    {
+      "name": "Nooks",
+      "ats": "ashby",
+      "token": "nooks"
+    },
+    {
+      "name": "Modal",
+      "ats": "ashby",
+      "token": "modal"
+    },
+    {
+      "name": "Endeavor AI",
+      "ats": "ashby",
+      "token": "endeavorai"
+    },
+    {
+      "name": "Cohere",
+      "ats": "ashby",
+      "token": "cohere"
+    },
+    {
+      "name": "Clark",
+      "ats": "ashby",
+      "token": "clark"
+    },
+    {
+      "name": "Charta Health",
+      "ats": "ashby",
+      "token": "chartahealth"
+    },
+    {
+      "name": "Applied",
+      "ats": "ashby",
+      "token": "applied"
+    },
+    {
+      "name": "AiPrise",
+      "ats": "ashby",
+      "token": "aiprise"
+    },
+    {
+      "name": "WHOOP",
+      "ats": "ashby",
+      "token": "whoop"
+    },
+    {
+      "name": "Rilla",
+      "ats": "ashby",
+      "token": "rilla"
+    },
+    {
+      "name": "MintMCP",
+      "ats": "ashby",
+      "token": "mintmcp",
+      "enabled": false,
+      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+    },
+    {
+      "name": "Luminai",
+      "ats": "ashby",
+      "token": "luminai"
+    },
+    {
+      "name": "Lightfield",
+      "ats": "ashby",
+      "token": "lightfield"
+    },
+    {
+      "name": "Koah Labs",
+      "ats": "ashby",
+      "token": "koahlabs"
+    },
+    {
+      "name": "idler",
+      "ats": "ashby",
+      "token": "idler"
+    },
+    {
+      "name": "Faros AI",
+      "ats": "ashby",
+      "token": "faros-ai"
+    },
+    {
+      "name": "Dialogue AI",
+      "ats": "ashby",
+      "token": "dialogueai"
+    },
+    {
+      "name": "Color Health",
+      "ats": "ashby",
+      "token": "color-health"
+    },
+    {
+      "name": "Check",
+      "ats": "ashby",
+      "token": "check-technologies"
+    },
+    {
+      "name": "Chalk",
+      "ats": "ashby",
+      "token": "chalk"
+    },
+    {
+      "name": "Bridger",
+      "ats": "ashby",
+      "token": "bridger"
+    },
+    {
+      "name": "Amplitude",
+      "ats": "ashby",
+      "token": "amplitude"
+    },
+    {
+      "name": "Abridge",
+      "ats": "ashby",
+      "token": "abridge"
+    },
+    {
+      "name": "Sierra",
+      "ats": "ashby",
+      "token": "sierra"
+    },
+    {
+      "name": "Valon",
+      "ats": "ashby",
+      "token": "valon"
+    },
+    {
+      "name": "TypeSafe AI",
+      "ats": "ashby",
+      "token": "typesafe-ai"
+    },
+    {
+      "name": "Retell AI",
+      "ats": "ashby",
+      "token": "retell-ai"
+    },
+    {
+      "name": "Pangram Labs",
+      "ats": "ashby",
+      "token": "pangramlabs"
+    },
+    {
+      "name": "Netic",
+      "ats": "ashby",
+      "token": "netic"
+    },
+    {
+      "name": "Fullstory",
+      "ats": "ashby",
+      "token": "fullstory"
+    },
+    {
+      "name": "Exa",
+      "ats": "ashby",
+      "token": "exa"
+    },
+    {
+      "name": "ElevenLabs",
+      "ats": "ashby",
+      "token": "elevenlabs"
+    },
+    {
+      "name": "Composio",
+      "ats": "ashby",
+      "token": "composio"
+    },
+    {
+      "name": "Superhuman",
+      "ats": "ashby",
+      "token": "superhuman",
+      "enabled": false,
+      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+    },
+    {
+      "name": "Roadrunner",
+      "ats": "ashby",
+      "token": "roadrunner"
+    },
+    {
+      "name": "Snowflake",
+      "ats": "ashby",
+      "token": "snowflake"
+    },
+    {
+      "name": "Sentry",
+      "ats": "ashby",
+      "token": "sentry"
+    },
+    {
+      "name": "Reducto",
+      "ats": "ashby",
+      "token": "reducto"
+    },
+    {
+      "name": "PermitFlow",
+      "ats": "ashby",
+      "token": "permitflow"
+    },
+    {
+      "name": "Northslope",
+      "ats": "ashby",
+      "token": "northslope-technologies"
+    },
+    {
+      "name": "Maximor",
+      "ats": "ashby",
+      "token": "maximor",
+      "enabled": false,
+      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+    },
+    {
+      "name": "Gen Digital",
+      "ats": "ashby",
+      "token": "gen-digital"
+    },
+    {
+      "name": "Ditto",
+      "ats": "ashby",
+      "token": "ditto"
+    },
+    {
+      "name": "Clera",
+      "ats": "ashby",
+      "token": "clera"
+    },
+    {
+      "name": "Casca",
+      "ats": "ashby",
+      "token": "casca"
+    },
+    {
+      "name": "Distyl",
+      "ats": "ashby",
+      "token": "distyl"
+    },
+    {
+      "name": "Zip",
+      "ats": "ashby",
+      "token": "zip"
+    },
+    {
+      "name": "Zello",
+      "ats": "ashby",
+      "token": "zello"
+    },
+    {
+      "name": "SpruceID",
+      "ats": "ashby",
+      "token": "spruceid"
+    },
+    {
+      "name": "SentiLink",
+      "ats": "ashby",
+      "token": "sentilink"
+    },
+    {
+      "name": "Roboflow",
+      "ats": "ashby",
+      "token": "roboflow"
+    },
+    {
+      "name": "Pylon",
+      "ats": "ashby",
+      "token": "pylon-labs"
+    },
+    {
+      "name": "Proxima",
+      "ats": "ashby",
+      "token": "proxima"
+    },
+    {
+      "name": "Percepta",
+      "ats": "ashby",
+      "token": "percepta"
+    },
+    {
+      "name": "Arch",
+      "ats": "ashby",
+      "token": "arch"
+    },
+    {
+      "name": "Ramp",
+      "ats": "ashby",
+      "token": "ramp"
+    },
+    {
+      "name": "Palantir",
+      "ats": "lever",
+      "token": "palantir"
+    },
+    {
+      "name": "Veo",
+      "ats": "lever",
+      "token": "veo"
+    },
+    {
+      "name": "CrossCountry Consulting",
+      "ats": "lever",
+      "token": "crosscountry-consulting"
+    },
+    {
+      "name": "Aprio",
+      "ats": "lever",
+      "token": "Aprio"
+    },
+    {
+      "name": "Pony.ai",
+      "ats": "workable",
+      "token": "pony-dot-ai"
+    },
+    {
+      "name": "Texas Sports Academy",
+      "ats": "workable",
+      "token": "texas-sports-academy-main"
+    }
+  ]
+}

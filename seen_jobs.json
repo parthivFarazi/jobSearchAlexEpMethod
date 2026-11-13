@@ -1,0 +1,1315 @@
+{
+  "_meta": {
+    "seeded": 187,
+    "seeded_at": "2026-11-13"
+  },
+  "jobs.ashbyhq.com/rox-data-corp": {
+    "title": "2026-05-27_Rox_ProductEngineer",
+    "url": "https://jobs.ashbyhq.com/Rox-Data-Corp",
+    "company": "Rox",
+    "seeded_from": "2026-05-27_Rox_ProductEngineer",
+    "status": "withdrawn"
+  },
+  "deshaw.com/recruit/jobs/oncampus/simplicity2024": {
+    "title": "2026-05-28_DEShaw_SoftwareDeveloper",
+    "url": "https://www.deshaw.com/recruit/jobs/Oncampus/Simplicity2024",
+    "company": "DEShaw",
+    "seeded_from": "2026-05-28_DEShaw_SoftwareDeveloper",
+    "status": "withdrawn"
+  },
+  "gatech-csm.symplicity.com/students/app/jobs/search": {
+    "title": "2026-05-28_GainServicing_SoftwareEngineer",
+    "url": "https://gatech-csm.symplicity.com/students/app/jobs/search?keywords=Gain%20Servicing&job_type=3",
+    "company": "GainServicing",
+    "seeded_from": "2026-05-28_GainServicing_SoftwareEngineer",
+    "status": "applied"
+  },
+  "janestreet.com/join-jane-street/position/8046410002": {
+    "title": "2026-05-28_JaneStreet_SoftwareEngineer",
+    "url": "https://www.janestreet.com/join-jane-street/position/8046410002/",
+    "company": "JaneStreet",
+    "seeded_from": "2026-05-28_JaneStreet_SoftwareEngineer",
+    "status": "applied"
+  },
+  "vercel.com/careers/software-engineer-next-js-5993753004": {
+    "title": "2026-05-29_Vercel_SoftwareEngineerNextjs",
+    "url": "https://vercel.com/careers/software-engineer-next-js-5993753004",
+    "company": "Vercel",
+    "seeded_from": "2026-05-29_Vercel_SoftwareEngineerNextjs",
+    "status": "applied"
+  },
+  "ats.rippling.com/en-gb/sumersports/jobs/5b6b92d4-ed99-40ef-9b78-dc2371834db2": {
+    "title": "2026-05-30_SumerSports_ComputerVisionEngineer",
+    "url": "https://ats.rippling.com/en-GB/sumersports/jobs/5b6b92d4-ed99-40ef-9b78-dc2371834db2",
+    "company": "SumerSports",
+    "seeded_from": "2026-05-30_SumerSports_ComputerVisionEngineer",
+    "status": "applied"
+  },
+  "ashby:14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e": {
+    "title": "2026-05-30_Supabase_AIToolingEngineer",
+    "url": "https://jobs.ashbyhq.com/supabase/14a99b8b-444b-4d28-b4fd-6fa8e71bcb4e",
+    "company": "Supabase",
+    "seeded_from": "2026-05-30_Supabase_AIToolingEngineer",
+    "status": "applied"
+  },
+  "ashby:da7a6690-7ca8-4695-894c-ebcf191e1d7d": {
+    "title": "2026-06-02_NomicAI_HarnessEngineer",
+    "url": "https://jobs.ashbyhq.com/nomic.ai/da7a6690-7ca8-4695-894c-ebcf191e1d7d",
+    "company": "NomicAI",
+    "seeded_from": "2026-06-02_NomicAI_HarnessEngineer",
+    "status": "applied"
+  },
+  "wd:r078081": {
+    "title": "2026-06-02_RingCentral_AIForwardDeployedEngineer",
+    "url": "https://ringcentral.wd1.myworkdayjobs.com/RingCentral_Careers/job/Belmont-California/AI-Forward-Deployed-Engineer--Early-Career-Entry-Level-_R078081",
+    "company": "RingCentral",
+    "seeded_from": "2026-06-02_RingCentral_AIForwardDeployedEngineer",
+    "status": "withdrawn"
+  },
+  "cursor.com/careers/software-engineer-agent-evaluation-and-quality": {
+    "title": "2026-06-03_Cursor_SoftwareEngineerAgentEvaluation",
+    "url": "https://cursor.com/careers/software-engineer-agent-evaluation-and-quality",
+    "company": "Cursor",
+    "seeded_from": "2026-06-03_Cursor_SoftwareEngineerAgentEvaluation",
+    "status": "applied"
+  },
+  "ashby:44b57790-528e-4f97-8613-03564316be8a": {
+    "title": "2026-06-03_Modal_CustomerEngineer",
+    "url": "https://jobs.ashbyhq.com/modal/44b57790-528e-4f97-8613-03564316be8a",
+    "company": "Modal",
+    "seeded_from": "2026-06-03_Modal_CustomerEngineer",
+    "status": "applied"
+  },
+  "gh:5238606008": {
+    "title": "2026-06-05_Anthropic_SoftwareEngineerRLData",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5238606008",
+    "company": "Anthropic",
+    "seeded_from": "2026-06-05_Anthropic_SoftwareEngineerRLData",
+    "status": "rejected"
+  },
+  "careers.garena.com/global/careers/j02134108": {
+    "title": "2026-06-05_Garena_AINativeSoftwareEngineer",
+    "url": "https://careers.garena.com/global/careers/J02134108",
+    "company": "Garena",
+    "seeded_from": "2026-06-05_Garena_AINativeSoftwareEngineer",
+    "status": "applied"
+  },
+  "ashby:e9f5fdb6-91ee-4c55-9230-41ec8865650e": {
+    "title": "2026-06-05_Sierra_SoftwareEngineerAgent",
+    "url": "https://jobs.ashbyhq.com/Sierra/e9f5fdb6-91ee-4c55-9230-41ec8865650e/application",
+    "company": "Sierra",
+    "seeded_from": "2026-06-05_Sierra_SoftwareEngineerAgent",
+    "status": "rejected"
+  },
+  "google.com/about/careers/applications/jobs/results/102008123228594886": {
+    "title": "2026-06-06_Google_ForwardDeployedEngineerGenAI",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/102008123228594886",
+    "company": "Google",
+    "seeded_from": "2026-06-06_Google_ForwardDeployedEngineerGenAI",
+    "status": "closed_posting_taken_down"
+  },
+  "lever:f8355371-1080-49c1-85dd-6a981dcec722": {
+    "title": "2026-06-06_Veo_ForwardDeployedEngineer",
+    "url": "https://jobs.lever.co/veo/f8355371-1080-49c1-85dd-6a981dcec722/apply",
+    "company": "Veo",
+    "seeded_from": "2026-06-06_Veo_ForwardDeployedEngineer",
+    "status": "rejected"
+  },
+  "ashby:b0bb160e-498d-4f32-baaa-3b4974a3cbf2": {
+    "title": "2026-06-09_Distyl_AIEngineerEvaluation",
+    "url": "https://jobs.ashbyhq.com/Distyl/b0bb160e-498d-4f32-baaa-3b4974a3cbf2",
+    "company": "Distyl",
+    "seeded_from": "2026-06-09_Distyl_AIEngineerEvaluation",
+    "status": "rejected"
+  },
+  "matroid.breezy.hr/p/fd3a99c34bf6-deep-learning-field-engineer/apply": {
+    "title": "2026-06-09_Matroid_DeepLearningFieldEngineer",
+    "url": "https://matroid.breezy.hr/p/fd3a99c34bf6-deep-learning-field-engineer/apply",
+    "company": "Matroid",
+    "seeded_from": "2026-06-09_Matroid_DeepLearningFieldEngineer",
+    "status": "applied"
+  },
+  "jobs.ashbyhq.com/reducto": {
+    "title": "2026-06-09_Reducto_BackendAIEngineer",
+    "url": "https://jobs.ashbyhq.com/reducto",
+    "company": "Reducto",
+    "seeded_from": "2026-06-09_Reducto_BackendAIEngineer",
+    "status": "applied"
+  },
+  "gatech.joinhandshake.com/job-search/11074400": {
+    "title": "2026-06-10_AIBOR_MachineLearningEngineer",
+    "url": "https://gatech.joinhandshake.com/job-search/11074400",
+    "company": "AIBOR",
+    "seeded_from": "2026-06-10_AIBOR_MachineLearningEngineer",
+    "status": "applied"
+  },
+  "gatech.joinhandshake.com/job-search/11113568": {
+    "title": "2026-06-10_AiraHealth_ForwardDeployedEngineer",
+    "url": "https://gatech.joinhandshake.com/job-search/11113568",
+    "company": "AiraHealth",
+    "seeded_from": "2026-06-10_AiraHealth_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/ml-validation-research-engineer---early-career_jr-202605769/apply": {
+    "title": "2026-06-10_GM_MLValidationEngineer",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/ML-Validation-Research-Engineer---Early-Career_JR-202605769/apply",
+    "company": "GM",
+    "seeded_from": "2026-06-10_GM_MLValidationEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/63832": {
+    "title": "2026-06-10_NexteraRobotics_AIMLEngineer",
+    "url": "https://www.workatastartup.com/jobs/63832",
+    "company": "NexteraRobotics",
+    "seeded_from": "2026-06-10_NexteraRobotics_AIMLEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/96316": {
+    "title": "2026-06-10_Syntra_ForwardDeployedEngineer",
+    "url": "https://www.workatastartup.com/jobs/96316",
+    "company": "Syntra",
+    "seeded_from": "2026-06-10_Syntra_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "gh:5993755004": {
+    "title": "2026-06-18_ArizeAI_ForwardDeployedAIEngineer",
+    "url": "https://job-boards.greenhouse.io/arizeai/jobs/5993755004 (East) + https://job-boards.greenhouse.io/arizeai/jobs/6030953004 (West)",
+    "company": "ArizeAI",
+    "seeded_from": "2026-06-18_ArizeAI_ForwardDeployedAIEngineer",
+    "status": "applied"
+  },
+  "gh:8391125002": {
+    "title": "2026-06-18_Instabase_SolutionsEngineer",
+    "url": "https://job-boards.greenhouse.io/instabase/jobs/8391125002",
+    "company": "Instabase",
+    "seeded_from": "2026-06-18_Instabase_SolutionsEngineer",
+    "status": "rejected"
+  },
+  "workatastartup.com/jobs/92563": {
+    "title": "2026-06-18_Lance_FoundingSolutionsEngineer",
+    "url": "https://www.workatastartup.com/jobs/92563",
+    "company": "Lance",
+    "seeded_from": "2026-06-18_Lance_FoundingSolutionsEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/84042": {
+    "title": "2026-06-18_LiteLLM_ForwardDeployedEngineer",
+    "url": "https://www.workatastartup.com/jobs/84042",
+    "company": "LiteLLM",
+    "seeded_from": "2026-06-18_LiteLLM_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "ashby:59bc7a80-a622-49b7-b47d-51d70a7c1075": {
+    "title": "2026-06-18_PermitFlow_ForwardDeployedEngineer",
+    "url": "https://jobs.ashbyhq.com/permitflow/59bc7a80-a622-49b7-b47d-51d70a7c1075",
+    "company": "PermitFlow",
+    "seeded_from": "2026-06-18_PermitFlow_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "wd:r1603317-1": {
+    "title": "2026-06-20_BMS_AssociateEngineerAnalyticalAI",
+    "url": "https://bristolmyerssquibb.wd5.myworkdayjobs.com/en-US/BMS/job/Associate-Engineer--Analytical-AI-Engineering_R1603317-1",
+    "company": "BMS",
+    "seeded_from": "2026-06-20_BMS_AssociateEngineerAnalyticalAI",
+    "status": "ready_to_apply"
+  },
+  "ashby:577560f5-e509-4ffe-9ff0-cbf71b64e954": {
+    "title": "2026-06-20_Casca_ForwardDeployedEngineer",
+    "url": "https://jobs.ashbyhq.com/casca/577560f5-e509-4ffe-9ff0-cbf71b64e954",
+    "company": "Casca",
+    "seeded_from": "2026-06-20_Casca_ForwardDeployedEngineer",
+    "status": "rejected"
+  },
+  "gatech.joinhandshake.com/jobs/11138434": {
+    "title": "2026-06-20_SonarMentalHealth_AISystemsEngineer",
+    "url": "https://gatech.joinhandshake.com/jobs/11138434",
+    "company": "SonarMentalHealth",
+    "seeded_from": "2026-06-20_SonarMentalHealth_AISystemsEngineer",
+    "status": "applied"
+  },
+  "ashby:5e0b677a-f677-44de-93c6-f7848ab5a8e6": {
+    "title": "2026-06-24_Julius_SoftwareEngineerProduct",
+    "url": "https://jobs.ashbyhq.com/julius/5e0b677a-f677-44de-93c6-f7848ab5a8e6",
+    "company": "Julius",
+    "seeded_from": "2026-06-24_Julius_SoftwareEngineerProduct",
+    "status": "rejected"
+  },
+  "gh:6359139003": {
+    "title": "2026-06-24_Wonderschool_EarlyCareerSWE_AppliedAI",
+    "url": "https://job-boards.greenhouse.io/wonderschool/jobs/6359139003",
+    "company": "Wonderschool",
+    "seeded_from": "2026-06-24_Wonderschool_EarlyCareerSWE_AppliedAI",
+    "status": "applied"
+  },
+  "gatech.joinhandshake.com/job-search/11115969": {
+    "title": "2026-06-30_Aven_SoftwareEngineerEarlyCareer",
+    "url": "https://gatech.joinhandshake.com/job-search/11115969",
+    "company": "Aven",
+    "seeded_from": "2026-06-30_Aven_SoftwareEngineerEarlyCareer",
+    "status": "on_hold_transcript"
+  },
+  "wd:r29022": {
+    "title": "2026-06-30_CrowdStrike_EngineerI_AgenticAI",
+    "url": "https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I---New-Grad--Agentic-AI--Hybrid-_R29022",
+    "company": "CrowdStrike",
+    "seeded_from": "2026-06-30_CrowdStrike_EngineerI_AgenticAI",
+    "status": "ready_to_apply"
+  },
+  "gh:4592324005": {
+    "title": "2026-06-30_Glean_SoftwareEngineerUniversityGrad",
+    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4592324005",
+    "company": "Glean",
+    "seeded_from": "2026-06-30_Glean_SoftwareEngineerUniversityGrad",
+    "status": "ready_to_apply"
+  },
+  "lever:2e6b0ac8-83e9-4be5-a3aa-cf319f751728": {
+    "title": "2026-06-30_Palantir_FDSENewGradCommercial",
+    "url": "https://jobs.lever.co/palantir/2e6b0ac8-83e9-4be5-a3aa-cf319f751728/apply",
+    "company": "Palantir",
+    "seeded_from": "2026-06-30_Palantir_FDSENewGradCommercial",
+    "status": "rejected"
+  },
+  "wd:jr312405-1": {
+    "title": "2026-06-30_Salesforce_AIForwardDeployedEngineer",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/AI-Forward-Deployed-Engineer--New-Grad-_JR312405-1",
+    "company": "Salesforce",
+    "seeded_from": "2026-06-30_Salesforce_AIForwardDeployedEngineer",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/job-search/11143471": {
+    "title": "2026-06-30_SpangleAI_AIAgentEngineer",
+    "url": "https://gatech.joinhandshake.com/job-search/11143471",
+    "company": "SpangleAI",
+    "seeded_from": "2026-06-30_SpangleAI_AIAgentEngineer",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/job-search/11161283": {
+    "title": "2026-06-30_WanderboatAI_MLEngineerNewGrad",
+    "url": "https://gatech.joinhandshake.com/job-search/11161283",
+    "company": "WanderboatAI",
+    "seeded_from": "2026-06-30_WanderboatAI_MLEngineerNewGrad",
+    "status": "ready_to_apply"
+  },
+  "careers.arsenal.com/jobs/8083296-research-engineer": {
+    "title": "2026-07-22_Arsenal_ResearchEngineer",
+    "url": "https://careers.arsenal.com/jobs/8083296-research-engineer",
+    "company": "Arsenal",
+    "seeded_from": "2026-07-22_Arsenal_ResearchEngineer",
+    "status": "rejected"
+  },
+  "ashby:3088555d-de93-4236-add1-41005bf0933b": {
+    "title": "2026-07-22_ChartaHealth_ForwardDeployedAIEngineer",
+    "url": "https://jobs.ashbyhq.com/chartahealth/3088555d-de93-4236-add1-41005bf0933b",
+    "company": "ChartaHealth",
+    "seeded_from": "2026-07-22_ChartaHealth_ForwardDeployedAIEngineer",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11159688": {
+    "title": "2026-07-22_Instalily_SoftwareEngineerI",
+    "url": "https://app.joinhandshake.com/job-search/11159688",
+    "company": "Instalily",
+    "seeded_from": "2026-07-22_Instalily_SoftwareEngineerI",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11192413": {
+    "title": "2026-07-22_Terrakotta_ForwardDeployedEngineer",
+    "url": "https://app.joinhandshake.com/job-search/11192413",
+    "company": "Terrakotta",
+    "seeded_from": "2026-07-22_Terrakotta_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/99049": {
+    "title": "2026-07-30_Cekura_MemberOfTechnicalStaff",
+    "url": "https://www.workatastartup.com/jobs/99049",
+    "company": "Cekura",
+    "seeded_from": "2026-07-30_Cekura_MemberOfTechnicalStaff",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/92494": {
+    "title": "2026-07-30_Revion_FoundingForwardDeployedEngineer",
+    "url": "https://www.workatastartup.com/jobs/92494",
+    "company": "Revion",
+    "seeded_from": "2026-07-30_Revion_FoundingForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "hiring.technovatime.com/careers": {
+    "title": "2026-07-30_TechNovaTime_JuniorEngineer",
+    "url": "https://hiring.technovatime.com/careers/?role=junior-engineer",
+    "company": "TechNovaTime",
+    "seeded_from": "2026-07-30_TechNovaTime_JuniorEngineer",
+    "status": "closed_soft_no"
+  },
+  "gatech.joinhandshake.com/job-search/11240110": {
+    "title": "2026-07-30_TikiAI_AIDataSoftwareEngineer",
+    "url": "https://gatech.joinhandshake.com/job-search/11240110",
+    "company": "TikiAI",
+    "seeded_from": "2026-07-30_TikiAI_AIDataSoftwareEngineer",
+    "status": "applied"
+  },
+  "gatech.joinhandshake.com/job-search/11267290": {
+    "title": "2026-08-04_Matroid_VLMVFMForwardDeployedEngineer",
+    "url": "https://gatech.joinhandshake.com/job-search/11267290",
+    "company": "Matroid",
+    "seeded_from": "2026-08-04_Matroid_VLMVFMForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "gatech.joinhandshake.com/job-search/11250041": {
+    "title": "2026-08-04_OrigamiRobotics_FullStackRoboticsSWE",
+    "url": "https://gatech.joinhandshake.com/job-search/11250041",
+    "company": "OrigamiRobotics",
+    "seeded_from": "2026-08-04_OrigamiRobotics_FullStackRoboticsSWE",
+    "status": "applied"
+  },
+  "gatech.joinhandshake.com/job-search/11263445": {
+    "title": "2026-08-04_PonyAI_SoftwareEngineerEvaluation",
+    "url": "https://gatech.joinhandshake.com/job-search/11263445",
+    "company": "PonyAI",
+    "seeded_from": "2026-08-04_PonyAI_SoftwareEngineerEvaluation",
+    "status": "applied"
+  },
+  "amazon.jobs/en/jobs/10464043": {
+    "title": "2026-08-05_Amazon_SDE1_MLInfraServices_Annapurna",
+    "url": "https://www.amazon.jobs/en/jobs/10464043",
+    "company": "Amazon",
+    "seeded_from": "2026-08-05_Amazon_SDE1_MLInfraServices_Annapurna",
+    "status": "applied"
+  },
+  "apply.careers.microsoft.com/careers/job/1970393556914839": {
+    "title": "2026-08-05_Microsoft_SoftwareEngineeringCEAI_SPAI",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556914839",
+    "company": "Microsoft",
+    "seeded_from": "2026-08-05_Microsoft_SoftwareEngineeringCEAI_SPAI",
+    "status": "applied"
+  },
+  "google.com/about/careers/applications/jobs/results/103944117418894022-partner-solutions-engineer-machine-learning-and-digitization-operations": {
+    "title": "2026-08-10_Google_PartnerSolutionsEngineer_MLDigitization",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/103944117418894022-partner-solutions-engineer-machine-learning-and-digitization-operations",
+    "company": "Google",
+    "seeded_from": "2026-08-10_Google_PartnerSolutionsEngineer_MLDigitization",
+    "status": "rejected"
+  },
+  "google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus": {
+    "title": "2026-08-10_Google_SWEEarlyCareerCampus",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/78703249065943750-software-engineer-early-career-campus",
+    "company": "Google",
+    "seeded_from": "2026-08-10_Google_SWEEarlyCareerCampus",
+    "status": "applied"
+  },
+  "google.com/about/careers/applications/jobs/results/91922649986278086-tv-partner-engineer-youtube": {
+    "title": "2026-08-10_Google_TVPartnerEngineer_YouTube",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/91922649986278086-tv-partner-engineer-youtube",
+    "company": "Google",
+    "seeded_from": "2026-08-10_Google_TVPartnerEngineer_YouTube",
+    "status": "rejected"
+  },
+  "workatastartup.com/jobs/78412": {
+    "title": "2026-08-10_HappyRobot_ForwardDeployedEngineer",
+    "url": "https://www.workatastartup.com/jobs/78412",
+    "company": "HappyRobot",
+    "seeded_from": "2026-08-10_HappyRobot_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "ashby:fc93a467-773d-4805-b342-bf470950732d": {
+    "title": "2026-08-10_Lightfield_SWEAppliedAI_EarlyCareer",
+    "url": "https://jobs.ashbyhq.com/lightfield/fc93a467-773d-4805-b342-bf470950732d",
+    "company": "Lightfield",
+    "seeded_from": "2026-08-10_Lightfield_SWEAppliedAI_EarlyCareer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/81971": {
+    "title": "2026-08-10_OnDeckAI_FoundingEngineer",
+    "url": "https://www.workatastartup.com/jobs/81971",
+    "company": "OnDeckAI",
+    "seeded_from": "2026-08-10_OnDeckAI_FoundingEngineer",
+    "status": "parked_out_of_scope_canada"
+  },
+  "ashby:37228ca3-4e4a-4e3c-9414-d8a2046ff496": {
+    "title": "2026-08-10_Rilla_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/rilla/37228ca3-4e4a-4e3c-9414-d8a2046ff496",
+    "company": "Rilla",
+    "seeded_from": "2026-08-10_Rilla_SoftwareEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/94626": {
+    "title": "2026-08-10_SID_ResearchEngineer",
+    "url": "https://www.workatastartup.com/jobs/94626",
+    "company": "SID",
+    "seeded_from": "2026-08-10_SID_ResearchEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/85536": {
+    "title": "2026-08-10_Terrakotta_SWEProductNewGrad",
+    "url": "https://www.workatastartup.com/jobs/85536",
+    "company": "Terrakotta",
+    "seeded_from": "2026-08-10_Terrakotta_SWEProductNewGrad",
+    "status": "applied"
+  },
+  "ashby:f21f0f84-b0c9-4b63-9f61-3aad6ab0eca4": {
+    "title": "2026-08-10_TypeSafeAI_ProductEngineer",
+    "url": "https://jobs.ashbyhq.com/typesafe-ai/f21f0f84-b0c9-4b63-9f61-3aad6ab0eca4",
+    "company": "TypeSafeAI",
+    "seeded_from": "2026-08-10_TypeSafeAI_ProductEngineer",
+    "status": "applied"
+  },
+  "ashby:a837cbd6-9fe4-4d74-a2dc-84f602c40694": {
+    "title": "2026-08-19_AppliedIntuition_SWENewGrad_Dec2026",
+    "url": "https://jobs.ashbyhq.com/applied/a837cbd6-9fe4-4d74-a2dc-84f602c40694",
+    "company": "AppliedIntuition",
+    "seeded_from": "2026-08-19_AppliedIntuition_SWENewGrad_Dec2026",
+    "status": "applied"
+  },
+  "ashby:01e0e7ad-44a2-44e8-9340-64ca70eff491": {
+    "title": "2026-08-19_Composio_FullstackEngineer_ProductNewGrad",
+    "url": "https://jobs.ashbyhq.com/composio/01e0e7ad-44a2-44e8-9340-64ca70eff491",
+    "company": "Composio",
+    "seeded_from": "2026-08-19_Composio_FullstackEngineer_ProductNewGrad",
+    "status": "applied"
+  },
+  "ashby:e32799d2-8ef8-4803-8189-c72514afa816": {
+    "title": "2026-08-19_Notion_SWENewGrad_Dec2026",
+    "url": "https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816",
+    "company": "Notion",
+    "seeded_from": "2026-08-19_Notion_SWENewGrad_Dec2026",
+    "status": "rejected"
+  },
+  "ashby:5c3196c7-f3d6-4dba-9c41-c886df4b2421": {
+    "title": "2026-08-19_Sentry_SWENewGrad2027",
+    "url": "https://jobs.ashbyhq.com/sentry/5c3196c7-f3d6-4dba-9c41-c886df4b2421",
+    "company": "Sentry",
+    "seeded_from": "2026-08-19_Sentry_SWENewGrad2027",
+    "status": "applied"
+  },
+  "ashby:7d6ae2be-cd53-466c-8151-2dae2e87aace": {
+    "title": "2026-09-01_Abridge_SWEEarlyCareer",
+    "url": "https://jobs.ashbyhq.com/abridge/7d6ae2be-cd53-466c-8151-2dae2e87aace",
+    "company": "Abridge",
+    "seeded_from": "2026-09-01_Abridge_SWEEarlyCareer",
+    "status": "rejected"
+  },
+  "ashby:d9bcb6a2-0e54-4cb3-baec-43f2d74db18f": {
+    "title": "2026-09-01_Netic_SWEAgentPlatform_NewGrad",
+    "url": "https://jobs.ashbyhq.com/netic/d9bcb6a2-0e54-4cb3-baec-43f2d74db18f",
+    "company": "Netic",
+    "seeded_from": "2026-09-01_Netic_SWEAgentPlatform_NewGrad",
+    "status": "applied"
+  },
+  "ashby:7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9": {
+    "title": "2026-09-01_Retell_FDENewGrad",
+    "url": "https://jobs.ashbyhq.com/retell-ai/7a23a933-cc70-43c9-a0d8-9f0c08ea4fd9",
+    "company": "Retell",
+    "seeded_from": "2026-09-01_Retell_FDENewGrad",
+    "status": "applied"
+  },
+  "mujin.bamboohr.com/careers/180": {
+    "title": "2026-09-15_Mujin_SoftwareDeveloperDevicesIO",
+    "url": "https://mujin.bamboohr.com/careers/180",
+    "company": "Mujin",
+    "seeded_from": "2026-09-15_Mujin_SoftwareDeveloperDevicesIO",
+    "status": "applied"
+  },
+  "ashby:c8ca6f48-bec5-4489-bfc0-fa96e9e3028e": {
+    "title": "2026-09-18_Deposco_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/deposco/c8ca6f48-bec5-4489-bfc0-fa96e9e3028e",
+    "company": "Deposco",
+    "seeded_from": "2026-09-18_Deposco_SoftwareEngineer",
+    "status": "applied"
+  },
+  "ashby:13d02313-e987-46ee-8b1c-426ea58e8bd6": {
+    "title": "2026-09-18_ValsAI_EvaluationsEngineer",
+    "url": "https://jobs.ashbyhq.com/vals-ai/13d02313-e987-46ee-8b1c-426ea58e8bd6",
+    "company": "ValsAI",
+    "seeded_from": "2026-09-18_ValsAI_EvaluationsEngineer",
+    "status": "rejected"
+  },
+  "linkedin.com/jobs/view/ml-software-engineer-intern-ai-cad-integration-at-falcomm-4469940443": {
+    "title": "2026-09-23_Falcomm_MLSWEIntern_AICAD",
+    "url": "https://www.linkedin.com/jobs/view/ml-software-engineer-intern-ai-cad-integration-at-falcomm-4469940443/",
+    "company": "Falcomm",
+    "seeded_from": "2026-09-23_Falcomm_MLSWEIntern_AICAD",
+    "status": "BLOCKED_PENDING_ITAR_ANSWER"
+  },
+  "gh:4730836005": {
+    "title": "2026-09-23_ScaleAI_SWENewGrad_SF",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730836005",
+    "company": "ScaleAI",
+    "seeded_from": "2026-09-23_ScaleAI_SWENewGrad_SF",
+    "status": "applied"
+  },
+  "bloomberg.avature.net/careers/private": {
+    "title": "2026-10-02_Bloomberg_2027SWE_NewYork",
+    "url": "https://bloomberg.avature.net/careers/Private?jobId=21414",
+    "company": "Bloomberg",
+    "seeded_from": "2026-10-02_Bloomberg_2027SWE_NewYork",
+    "status": "rejected"
+  },
+  "ashby:4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc": {
+    "title": "2026-10-05_Harvey_SWENewGrad2027",
+    "url": "https://jobs.ashbyhq.com/harvey/4d8dc9ba-eb86-4d88-af7d-65d2fdaf3fdc",
+    "company": "Harvey",
+    "seeded_from": "2026-10-05_Harvey_SWENewGrad2027",
+    "status": "applied"
+  },
+  "ashby:b26bbbec-f7cb-446a-8882-3f3d034c24d8": {
+    "title": "2026-10-05_Sim_ForwardDeployedEngineer",
+    "url": "https://jobs.ashbyhq.com/sim/b26bbbec-f7cb-446a-8882-3f3d034c24d8",
+    "company": "Sim",
+    "seeded_from": "2026-10-05_Sim_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "ashby:8bb8c0ec-babf-4923-ae78-7e35bee2cca6": {
+    "title": "2026-10-05_Sim_SWEAgentHarness",
+    "url": "https://jobs.ashbyhq.com/sim/8bb8c0ec-babf-4923-ae78-7e35bee2cca6",
+    "company": "Sim",
+    "seeded_from": "2026-10-05_Sim_SWEAgentHarness",
+    "status": "applied"
+  },
+  "mechanize.work/apply/software-engineer": {
+    "title": "2026-10-06_Mechanize_JuniorSWE",
+    "url": "https://www.mechanize.work/apply/software-engineer/",
+    "company": "Mechanize",
+    "seeded_from": "2026-10-06_Mechanize_JuniorSWE",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11601339": {
+    "title": "2026-10-07_Aven_SWEEarlyCareer2027",
+    "url": "https://app.joinhandshake.com/job-search/11601339",
+    "company": "Aven",
+    "seeded_from": "2026-10-07_Aven_SWEEarlyCareer2027",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/68954": {
+    "title": "2026-10-07_BlandAI_AIMLEngineer",
+    "url": "https://www.workatastartup.com/jobs/68954",
+    "company": "BlandAI",
+    "seeded_from": "2026-10-07_BlandAI_AIMLEngineer",
+    "status": "approved_awaiting_send"
+  },
+  "gh:8804558002": {
+    "title": "2026-10-07_C3ai_FDENewGrad2027",
+    "url": "https://c3.ai/job-description/8804558002?gh_jid=8804558002",
+    "company": "C3ai",
+    "seeded_from": "2026-10-07_C3ai_FDENewGrad2027",
+    "status": "applied"
+  },
+  "ashby:6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6": {
+    "title": "2026-10-07_ElevenLabs_FDE_USA",
+    "url": "https://jobs.ashbyhq.com/elevenlabs/6c4c57c1-ec72-42ba-af3a-eb7aebbde2e6",
+    "company": "ElevenLabs",
+    "seeded_from": "2026-10-07_ElevenLabs_FDE_USA",
+    "status": "applied"
+  },
+  "ashby:c542d672-691c-46c1-9741-856d66f2c2ea": {
+    "title": "2026-10-07_Exa_FDE_NYC",
+    "url": "https://jobs.ashbyhq.com/exa/c542d672-691c-46c1-9741-856d66f2c2ea",
+    "company": "Exa",
+    "seeded_from": "2026-10-07_Exa_FDE_NYC",
+    "status": "applied"
+  },
+  "ashby:67d0c7d0-fddb-4b8d-aed8-0647337a988e": {
+    "title": "2026-10-07_Maximor_SWENewGrad",
+    "url": "https://jobs.ashbyhq.com/maximor/67d0c7d0-fddb-4b8d-aed8-0647337a988e",
+    "company": "Maximor",
+    "seeded_from": "2026-10-07_Maximor_SWENewGrad",
+    "status": "applied"
+  },
+  "mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288": {
+    "title": "2026-10-07_McKinsey_QuantumBlack_AIDataEngineer",
+    "url": "https://www.mckinsey.com/careers/search-jobs/jobs/aidataengineer-quantumblackaibymckinsey-112288",
+    "company": "McKinsey",
+    "seeded_from": "2026-10-07_McKinsey_QuantumBlack_AIDataEngineer",
+    "status": "recruiter_screen_invited"
+  },
+  "workatastartup.com/jobs/80744": {
+    "title": "2026-10-07_OffDeal_FullStackNewGrad",
+    "url": "https://www.workatastartup.com/jobs/80744",
+    "company": "OffDeal",
+    "seeded_from": "2026-10-07_OffDeal_FullStackNewGrad",
+    "status": "approved_awaiting_send"
+  },
+  "ashby:52d3bc99-944f-4ed7-ae61-8ed5333fff1d": {
+    "title": "2026-10-07_PangramLabs_MLEngineerJunior",
+    "url": "https://jobs.ashbyhq.com/pangramlabs/52d3bc99-944f-4ed7-ae61-8ed5333fff1d",
+    "company": "PangramLabs",
+    "seeded_from": "2026-10-07_PangramLabs_MLEngineerJunior",
+    "status": "applied"
+  },
+  "gh:7838591": {
+    "title": "2026-10-07_Pinterest_UniversityGradSWE2027",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838591",
+    "company": "Pinterest",
+    "seeded_from": "2026-10-07_Pinterest_UniversityGradSWE2027",
+    "status": "applied"
+  },
+  "ashby:cf34f80e-fe5c-454d-bc9a-4c59993ffda0": {
+    "title": "2026-10-07_Quora_SWENewGrad_MLPlatform",
+    "url": "https://jobs.ashbyhq.com/quora/cf34f80e-fe5c-454d-bc9a-4c59993ffda0",
+    "company": "Quora",
+    "seeded_from": "2026-10-07_Quora_SWENewGrad_MLPlatform",
+    "status": "applied"
+  },
+  "ashby:c82b1987-bb02-4420-8fa2-b79075b04480": {
+    "title": "2026-10-07_Roadrunner_FDENewGrad",
+    "url": "https://jobs.ashbyhq.com/Roadrunner/c82b1987-bb02-4420-8fa2-b79075b04480",
+    "company": "Roadrunner",
+    "seeded_from": "2026-10-07_Roadrunner_FDENewGrad",
+    "status": "recruiter_screen_scheduled"
+  },
+  "gh:8128744": {
+    "title": "2026-10-07_Stripe_SWENewGrad",
+    "url": "https://stripe.com/jobs/search?gh_jid=8128744",
+    "company": "Stripe",
+    "seeded_from": "2026-10-07_Stripe_SWENewGrad",
+    "status": "applied"
+  },
+  "ashby:da5e147c-f957-4ba1-9712-1b2dde377cb0": {
+    "title": "2026-10-07_Superhuman_SWEEarlyCareer",
+    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/da5e147c-f957-4ba1-9712-1b2dde377cb0",
+    "company": "Superhuman",
+    "seeded_from": "2026-10-07_Superhuman_SWEEarlyCareer",
+    "status": "applied"
+  },
+  "ashby:e08ad09a-4408-4210-8c1b-da6510f83324": {
+    "title": "2026-10-07_Valon_SWENewGrad",
+    "url": "https://jobs.ashbyhq.com/valon/e08ad09a-4408-4210-8c1b-da6510f83324",
+    "company": "Valon",
+    "seeded_from": "2026-10-07_Valon_SWENewGrad",
+    "status": "applied"
+  },
+  "imanagecom.applytojob.com/apply/2sedqwy08t/applied-ai-engineer-new-or-recent-grad": {
+    "title": "2026-10-07_iManage_AppliedAIEngineerNewGrad",
+    "url": "https://imanagecom.applytojob.com/apply/2sEdqwy08T/Applied-AI-Engineer-New-Or-Recent-Grad",
+    "company": "iManage",
+    "seeded_from": "2026-10-07_iManage_AppliedAIEngineerNewGrad",
+    "status": "applied"
+  },
+  "gh:8008649003": {
+    "title": "2026-10-08_Affirm_SWEEarlyCareer_NYC",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+    "company": "Affirm",
+    "seeded_from": "2026-10-08_Affirm_SWEEarlyCareer_NYC",
+    "status": "applied"
+  },
+  "ashby:9c43576b-d16f-4192-a366-7c9eb689c4be": {
+    "title": "2026-10-08_Amplitude_SWEI_AgentAnalytics",
+    "url": "https://jobs.ashbyhq.com/amplitude/9c43576b-d16f-4192-a366-7c9eb689c4be",
+    "company": "Amplitude",
+    "seeded_from": "2026-10-08_Amplitude_SWEI_AgentAnalytics",
+    "status": "applied"
+  },
+  "ashby:9fde8d03-9f47-44ac-bd14-53829722c06d": {
+    "title": "2026-10-08_Arch_SWEEarlyCareers2027",
+    "url": "https://jobs.ashbyhq.com/arch.co/9fde8d03-9f47-44ac-bd14-53829722c06d",
+    "company": "Arch",
+    "seeded_from": "2026-10-08_Arch_SWEEarlyCareers2027",
+    "status": "applied"
+  },
+  "ashby:927c74a5-1b40-490d-b3be-a29baec4db6f": {
+    "title": "2026-10-08_Chalk_SWENewGrad",
+    "url": "https://jobs.ashbyhq.com/chalk/927c74a5-1b40-490d-b3be-a29baec4db6f",
+    "company": "Chalk",
+    "seeded_from": "2026-10-08_Chalk_SWENewGrad",
+    "status": "applied"
+  },
+  "gh:8862043002": {
+    "title": "2026-10-08_IXL_SWENewGrad_SanMateo",
+    "url": "https://www.ixl.com/company/jobs?gh_jid=8862043002",
+    "company": "IXL",
+    "seeded_from": "2026-10-08_IXL_SWENewGrad_SanMateo",
+    "status": "applied"
+  },
+  "gh:8248317": {
+    "title": "2026-10-08_Nuro_ProductEngineeringNewGrad",
+    "url": "https://job-boards.greenhouse.io/nuro/jobs/8248317",
+    "company": "Nuro",
+    "seeded_from": "2026-10-08_Nuro_ProductEngineeringNewGrad",
+    "status": "applied"
+  },
+  "gh:8016078003": {
+    "title": "2026-10-08_OtterAI_FrontEndNewGrad",
+    "url": "https://otter.ai/careers?gh_jid=8016078003",
+    "company": "OtterAI",
+    "seeded_from": "2026-10-08_OtterAI_FrontEndNewGrad",
+    "status": "rejected"
+  },
+  "app.joinhandshake.com/jobs/11444413": {
+    "title": "2026-10-08_OversightSystems_SWEI_Atlanta",
+    "url": "https://app.joinhandshake.com/jobs/11444413",
+    "company": "OversightSystems",
+    "seeded_from": "2026-10-08_OversightSystems_SWEI_Atlanta",
+    "status": "applied"
+  },
+  "wd:106966": {
+    "title": "2026-10-08_Remitly_AINativeSWE_Seattle",
+    "url": "https://remitly.wd5.myworkdayjobs.com/Remitly_Careers/job/Seattle-Washington-United-States/AI-Native-Software-Engineer_R_106966",
+    "company": "Remitly",
+    "seeded_from": "2026-10-08_Remitly_AINativeSWE_Seattle",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/jobs/11480225": {
+    "title": "2026-10-08_Thatch_SWENewGrad",
+    "url": "https://app.joinhandshake.com/jobs/11480225",
+    "company": "Thatch",
+    "seeded_from": "2026-10-08_Thatch_SWENewGrad",
+    "status": "applied"
+  },
+  "gh:8127108": {
+    "title": "2026-10-08_ZipRecruiter_SWENewGrad",
+    "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8127108",
+    "company": "ZipRecruiter",
+    "seeded_from": "2026-10-08_ZipRecruiter_SWENewGrad",
+    "status": "applied"
+  },
+  "ashby:baf8a79b-d035-4bc1-8b12-4ef48e0257ba": {
+    "title": "2026-10-11_AiPrise_SWEI_SanJose",
+    "url": "https://jobs.ashbyhq.com/aiprise/baf8a79b-d035-4bc1-8b12-4ef48e0257ba",
+    "company": "AiPrise",
+    "seeded_from": "2026-10-11_AiPrise_SWEI_SanJose",
+    "status": "filled_awaiting_submit"
+  },
+  "app.joinhandshake.com/jobs/11516987": {
+    "title": "2026-10-11_AppCard_SWE_NYC",
+    "url": "https://app.joinhandshake.com/jobs/11516987",
+    "company": "AppCard",
+    "seeded_from": "2026-10-11_AppCard_SWE_NYC",
+    "status": "applied"
+  },
+  "ashby:5a4a77e4-31a0-40c6-8e3d-9b5c6205943f": {
+    "title": "2026-10-11_Bridger_EarlyCareerProductEngineer",
+    "url": "https://jobs.ashbyhq.com/bridger/5a4a77e4-31a0-40c6-8e3d-9b5c6205943f",
+    "company": "Bridger",
+    "seeded_from": "2026-10-11_Bridger_EarlyCareerProductEngineer",
+    "status": "applied"
+  },
+  "ashby:e39423ba-10f6-44bb-a20f-5ccd33d53c52": {
+    "title": "2026-10-11_Clark_JuniorFDE_NYC",
+    "url": "https://jobs.ashbyhq.com/clark/e39423ba-10f6-44bb-a20f-5ccd33d53c52",
+    "company": "Clark",
+    "seeded_from": "2026-10-11_Clark_JuniorFDE_NYC",
+    "status": "applied"
+  },
+  "ashby:e397ddef-2102-40e5-82e8-cd1e126f9da8": {
+    "title": "2026-10-11_EndeavorAI_FDEEarlyCareer",
+    "url": "https://jobs.ashbyhq.com/endeavorai/e397ddef-2102-40e5-82e8-cd1e126f9da8",
+    "company": "EndeavorAI",
+    "seeded_from": "2026-10-11_EndeavorAI_FDEEarlyCareer",
+    "status": "rejected"
+  },
+  "wd:jr-2604100": {
+    "title": "2026-10-11_GlobalFoundries_SWE2027NCG",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Software-Engineer--2027-New-College-Graduate-_JR-2604100",
+    "company": "GlobalFoundries",
+    "seeded_from": "2026-10-11_GlobalFoundries_SWE2027NCG",
+    "status": "route_changed_reapply_via_eightfold"
+  },
+  "gh:8003259003": {
+    "title": "2026-10-11_Klaviyo_AIEngineerI",
+    "url": "https://job-boards.greenhouse.io/klaviyocampus/jobs/8003259003",
+    "company": "Klaviyo",
+    "seeded_from": "2026-10-11_Klaviyo_AIEngineerI",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/jobs/11462682": {
+    "title": "2026-10-11_MeadowAI_AIEngineer",
+    "url": "https://app.joinhandshake.com/jobs/11462682",
+    "company": "MeadowAI",
+    "seeded_from": "2026-10-11_MeadowAI_AIEngineer",
+    "status": "applied"
+  },
+  "wd:jr2027431": {
+    "title": "2026-10-11_NVIDIA_CppInfraToolsNCG2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/C---Software-Engineer--Infrastructure-Tools---New-College-Grad-2027_JR2027431",
+    "company": "NVIDIA",
+    "seeded_from": "2026-10-11_NVIDIA_CppInfraToolsNCG2027",
+    "status": "deprioritised_no_referral"
+  },
+  "app.joinhandshake.com/jobs/11516756": {
+    "title": "2026-10-11_Node_SWEBackendFullStack_Boston",
+    "url": "https://app.joinhandshake.com/jobs/11516756",
+    "company": "Node",
+    "seeded_from": "2026-10-11_Node_SWEBackendFullStack_Boston",
+    "status": "applied"
+  },
+  "ashby:311d6e70-5cfa-4e80-89f6-fe00ac1f9f53": {
+    "title": "2026-10-11_Nooks_SWENewGrad",
+    "url": "https://jobs.ashbyhq.com/nooks/311d6e70-5cfa-4e80-89f6-fe00ac1f9f53",
+    "company": "Nooks",
+    "seeded_from": "2026-10-11_Nooks_SWENewGrad",
+    "status": "applied"
+  },
+  "ashby:b5e81eae-06f9-4798-8988-2d06ca936dbc": {
+    "title": "2026-10-11_Replit_SWENewGrad2027",
+    "url": "https://jobs.ashbyhq.com/replit/b5e81eae-06f9-4798-8988-2d06ca936dbc",
+    "company": "Replit",
+    "seeded_from": "2026-10-11_Replit_SWENewGrad2027",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/jobs/11332554": {
+    "title": "2026-10-11_Revley_FullStackAIEngineer_NYC",
+    "url": "https://app.joinhandshake.com/jobs/11332554",
+    "company": "Revley",
+    "seeded_from": "2026-10-11_Revley_FullStackAIEngineer_NYC",
+    "status": "applied"
+  },
+  "gh:5211582007": {
+    "title": "2026-10-11_TogetherAI_SWENewGrad2027",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5211582007",
+    "company": "TogetherAI",
+    "seeded_from": "2026-10-11_TogetherAI_SWENewGrad2027",
+    "status": "applied"
+  },
+  "ashby:ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3": {
+    "title": "2026-10-11_WHOOP_SWEI_FrontendAIPlatform",
+    "url": "https://jobs.ashbyhq.com/whoop/ae351985-e5cf-4bd8-b8a1-6f8c2d5b5de3",
+    "company": "WHOOP",
+    "seeded_from": "2026-10-11_WHOOP_SWEI_FrontendAIPlatform",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/jobs/11614524": {
+    "title": "2026-10-11_commaai_FullStackSWE",
+    "url": "https://app.joinhandshake.com/jobs/11614524",
+    "company": "commaai",
+    "seeded_from": "2026-10-11_commaai_FullStackSWE",
+    "status": "ready_to_apply"
+  },
+  "gh:7829676003": {
+    "title": "2026-10-12_PrizePicks_GameOperationsAnalyst",
+    "url": "https://www.prizepicks.com/position?gh_jid=7829676003",
+    "company": "PrizePicks",
+    "seeded_from": "2026-10-12_PrizePicks_GameOperationsAnalyst",
+    "status": "applied"
+  },
+  "ashby:44047e96-9d96-4ea9-9287-dcd112a9542a": {
+    "title": "2026-10-13_Ditto_ForwardDeployedEngineer",
+    "url": "https://jobs.ashbyhq.com/ditto/44047e96-9d96-4ea9-9287-dcd112a9542a",
+    "company": "Ditto",
+    "seeded_from": "2026-10-13_Ditto_ForwardDeployedEngineer",
+    "status": "ready_to_apply"
+  },
+  "gthackerhouse.com/events/notacareerfair/dashboard/companies": {
+    "title": "2026-10-13_Wron_SoftwareEngineer",
+    "url": "https://www.gthackerhouse.com/events/notacareerfair/dashboard/companies",
+    "company": "Wron",
+    "seeded_from": "2026-10-13_Wron_SoftwareEngineer",
+    "status": "ready_to_apply"
+  },
+  "workable:b282b3fabb": {
+    "title": "2026-10-14_Falcomm_AICADSoftwareEngineer",
+    "url": "https://apply.workable.com/falcomm/j/B282B3FABB/",
+    "company": "Falcomm",
+    "seeded_from": "2026-10-14_Falcomm_AICADSoftwareEngineer",
+    "status": "applied"
+  },
+  "workatastartup.com/jobs/75835": {
+    "title": "2026-10-14_Reframe_FullStackEngineer",
+    "url": "https://www.workatastartup.com/jobs/75835",
+    "company": "Reframe",
+    "seeded_from": "2026-10-14_Reframe_FullStackEngineer",
+    "status": "applied"
+  },
+  "ashby:dae9be85-cdee-4743-ad34-60a1d7322922": {
+    "title": "2026-10-14_Sola_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/sola-insurance/dae9be85-cdee-4743-ad34-60a1d7322922",
+    "company": "Sola",
+    "seeded_from": "2026-10-14_Sola_SoftwareEngineer",
+    "status": "applied"
+  },
+  "wd:100000484": {
+    "title": "2026-10-19_Aderant_AssociateSWE_Atlanta",
+    "url": "https://aderant.wd5.myworkdayjobs.com/Aderant_External_Careers/job/Atlanta-Georgia/Associate-Software-Engineer_REQ_100000484",
+    "company": "Aderant",
+    "seeded_from": "2026-10-19_Aderant_AssociateSWE_Atlanta",
+    "status": "expired_posting_closed"
+  },
+  "fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2678": {
+    "title": "2026-10-19_Akamai_SWEI_ControlPlane",
+    "url": "https://fa-extu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2678",
+    "company": "Akamai",
+    "seeded_from": "2026-10-19_Akamai_SWEI_ControlPlane",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/stu/jobs/11628472": {
+    "title": "2026-10-19_ArulHealth_FullStackFounding",
+    "url": "https://app.joinhandshake.com/stu/jobs/11628472",
+    "company": "ArulHealth",
+    "seeded_from": "2026-10-19_ArulHealth_FullStackFounding",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/stu/jobs/11661672": {
+    "title": "2026-10-19_AscendAI_ForwardDeployedAIEngineer",
+    "url": "https://app.joinhandshake.com/stu/jobs/11661672",
+    "company": "AscendAI",
+    "seeded_from": "2026-10-19_AscendAI_ForwardDeployedAIEngineer",
+    "status": "ready_to_apply"
+  },
+  "gh:4731594005": {
+    "title": "2026-10-19_AsteraLabs_AppliedAINCG",
+    "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4731594005",
+    "company": "AsteraLabs",
+    "seeded_from": "2026-10-19_AsteraLabs_AppliedAINCG",
+    "status": "applied"
+  },
+  "gh:4114318009": {
+    "title": "2026-10-19_Authentic_NewGradSWE",
+    "url": "https://job-boards.greenhouse.io/authenticinsurance/jobs/4114318009",
+    "company": "Authentic",
+    "seeded_from": "2026-10-19_Authentic_NewGradSWE",
+    "status": "applied"
+  },
+  "bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate": {
+    "title": "2026-10-19_Bitdeer_AIEngineeringNCG2027",
+    "url": "https://bitdeer.breezy.hr/p/826249d5dbdc-2027-us-ai-engineering-new-college-graduate",
+    "company": "Bitdeer",
+    "seeded_from": "2026-10-19_Bitdeer_AIEngineeringNCG2027",
+    "status": "ready_to_apply"
+  },
+  "ashby:1647b178-a07b-4e62-b2e1-122e6fdbd134": {
+    "title": "2026-10-19_Check_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/check-technologies/1647b178-a07b-4e62-b2e1-122e6fdbd134/application",
+    "company": "Check",
+    "seeded_from": "2026-10-19_Check_SoftwareEngineer",
+    "status": "filled_awaiting_submit"
+  },
+  "app.joinhandshake.com/stu/jobs/11517389": {
+    "title": "2026-10-19_Clerkie_FullStackEngineer",
+    "url": "https://app.joinhandshake.com/stu/jobs/11517389",
+    "company": "Clerkie",
+    "seeded_from": "2026-10-19_Clerkie_FullStackEngineer",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/stu/jobs/11598682": {
+    "title": "2026-10-19_CollegeBoard_SWEI_NewGrad",
+    "url": "https://app.joinhandshake.com/stu/jobs/11598682",
+    "company": "CollegeBoard",
+    "seeded_from": "2026-10-19_CollegeBoard_SWEI_NewGrad",
+    "status": "ready_to_apply"
+  },
+  "ashby:41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96": {
+    "title": "2026-10-19_ColorHealth_SWENewGrad2026",
+    "url": "https://jobs.ashbyhq.com/color-health/41fa6f16-b2f2-46c6-bdb4-9aae3b9b5b96/application",
+    "company": "ColorHealth",
+    "seeded_from": "2026-10-19_ColorHealth_SWENewGrad2026",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/stu/jobs/11556360": {
+    "title": "2026-10-19_CoralBricksAI_AIInfrastructureEngineer",
+    "url": "https://app.joinhandshake.com/stu/jobs/11556360",
+    "company": "CoralBricksAI",
+    "seeded_from": "2026-10-19_CoralBricksAI_AIInfrastructureEngineer",
+    "status": "ready_to_apply"
+  },
+  "jobs.gem.com/deep-infra/am9icg9zddqczfob7ykpsvaclbskdgau": {
+    "title": "2026-10-19_DeepInfra_SWEEarlyCareer",
+    "url": "https://jobs.gem.com/deep-infra/am9icG9zdDqCZFOb7YKPSVAclbSkDgAu",
+    "company": "DeepInfra",
+    "seeded_from": "2026-10-19_DeepInfra_SWEEarlyCareer",
+    "status": "applied"
+  },
+  "wd:jr121398": {
+    "title": "2026-10-19_Dexcom_SDE1_Remote",
+    "url": "https://dexcom.wd1.myworkdayjobs.com/Dexcom/job/Remote-California/SW-Development-Engineer-1_JR121398",
+    "company": "Dexcom",
+    "seeded_from": "2026-10-19_Dexcom_SDE1_Remote",
+    "status": "expired_posting_closed"
+  },
+  "ashby:48219357-056f-4089-981a-0c773b196130": {
+    "title": "2026-10-19_DialogueAI_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/dialogueai/48219357-056f-4089-981a-0c773b196130/application",
+    "company": "DialogueAI",
+    "seeded_from": "2026-10-19_DialogueAI_SoftwareEngineer",
+    "status": "applied"
+  },
+  "gh:8163709": {
+    "title": "2026-10-19_DoorDash_SWEI_EntryLevel",
+    "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8163709",
+    "company": "DoorDash",
+    "seeded_from": "2026-10-19_DoorDash_SWEI_EntryLevel",
+    "status": "ready_to_apply"
+  },
+  "ashby:622e1f1e-4a39-4e7c-8526-1189ca588066": {
+    "title": "2026-10-19_FarosAI_SWENewGrad",
+    "url": "https://jobs.ashbyhq.com/faros-ai/622e1f1e-4a39-4e7c-8526-1189ca588066/application",
+    "company": "FarosAI",
+    "seeded_from": "2026-10-19_FarosAI_SWENewGrad",
+    "status": "applied"
+  },
+  "gh:8011089003": {
+    "title": "2026-10-19_IDme_SWEII_DeveloperPortal_NewGrad",
+    "url": "https://job-boards.greenhouse.io/idme/jobs/8011089003",
+    "company": "IDme",
+    "seeded_from": "2026-10-19_IDme_SWEII_DeveloperPortal_NewGrad",
+    "status": "filled_awaiting_submit"
+  },
+  "jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536": {
+    "title": "2026-10-19_Intuit_SoftwareEngineer1",
+    "url": "https://jobs.intuit.com/job/mountain-view/software-engineer-1/27595/102012325536",
+    "company": "Intuit",
+    "seeded_from": "2026-10-19_Intuit_SoftwareEngineer1",
+    "status": "ready_to_apply"
+  },
+  "ashby:197c931d-3cda-44b3-b26b-470976730808": {
+    "title": "2026-10-19_KoahLabs_SWEEarlyCareer",
+    "url": "https://jobs.ashbyhq.com/koahlabs/197c931d-3cda-44b3-b26b-470976730808/application",
+    "company": "KoahLabs",
+    "seeded_from": "2026-10-19_KoahLabs_SWEEarlyCareer",
+    "status": "ready_to_apply"
+  },
+  "wd:r-68529": {
+    "title": "2026-10-19_Kyndryl_ForwardDeployedEngineer",
+    "url": "https://kyndryl.wd5.myworkdayjobs.com/en-US/KyndrylProfessionalCareers/job/Dallas-USDALFRI-Frisco-AI-HUB/Forward-Deployed-Engineer_R-68529",
+    "company": "Kyndryl",
+    "seeded_from": "2026-10-19_Kyndryl_ForwardDeployedEngineer",
+    "status": "expired_posting_closed"
+  },
+  "ashby:ba606839-0f3b-47db-bd36-12406aec5a37": {
+    "title": "2026-10-19_Luminai_ForwardDeployedEngineer",
+    "url": "https://jobs.ashbyhq.com/luminai/ba606839-0f3b-47db-bd36-12406aec5a37/application",
+    "company": "Luminai",
+    "seeded_from": "2026-10-19_Luminai_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "ashby:dc911c27-5a3b-4dbf-96b6-e3cc36a2e005": {
+    "title": "2026-10-19_Mintive_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/mintmcp/dc911c27-5a3b-4dbf-96b6-e3cc36a2e005/application",
+    "company": "Mintive",
+    "seeded_from": "2026-10-19_Mintive_SoftwareEngineer",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/stu/jobs/11310145": {
+    "title": "2026-10-19_NectarSocial_SWEEarlyCareer",
+    "url": "https://app.joinhandshake.com/stu/jobs/11310145",
+    "company": "NectarSocial",
+    "seeded_from": "2026-10-19_NectarSocial_SWEEarlyCareer",
+    "status": "ready_to_apply"
+  },
+  "gh:4722721005": {
+    "title": "2026-10-19_Precisely_AssociateSWE_PythonAI",
+    "url": "https://www.precisely.com/careers-and-culture/us-jobs/job/4722721005?gh_jid=4722721005",
+    "company": "Precisely",
+    "seeded_from": "2026-10-19_Precisely_AssociateSWE_PythonAI",
+    "status": "applied"
+  },
+  "ashby:cce9ab39-0ab0-489d-bbf9-4df74c2baeee": {
+    "title": "2026-10-19_idler_SoftwareEngineer",
+    "url": "https://jobs.ashbyhq.com/idler/cce9ab39-0ab0-489d-bbf9-4df74c2baeee/application",
+    "company": "idler",
+    "seeded_from": "2026-10-19_idler_SoftwareEngineer",
+    "status": "ready_to_apply"
+  },
+  "wellfound.com/jobs/4869703-member-of-technical-staff": {
+    "title": "2026-10-26_KNOWIDEA_MemberOfTechnicalStaff",
+    "url": "https://wellfound.com/jobs/4869703-member-of-technical-staff",
+    "company": "KNOWIDEA",
+    "seeded_from": "2026-10-26_KNOWIDEA_MemberOfTechnicalStaff",
+    "status": "applied_thread_live"
+  },
+  "wd:r172083": {
+    "title": "2026-11-04_Adobe_2027UG_SoftwareEngineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Software-Engineer_R172083",
+    "company": "Adobe",
+    "seeded_from": "2026-11-04_Adobe_2027UG_SoftwareEngineer",
+    "status": "ready_to_apply"
+  },
+  "ashby:73bd2c98-bf87-4eaa-aea8-35e7b6131d0e": {
+    "title": "2026-11-04_Agave_FullStackSWE_NewGrad",
+    "url": "https://jobs.ashbyhq.com/agave/73bd2c98-bf87-4eaa-aea8-35e7b6131d0e",
+    "company": "Agave",
+    "seeded_from": "2026-11-04_Agave_FullStackSWE_NewGrad",
+    "status": "applied"
+  },
+  "amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us": {
+    "title": "2026-11-04_Amazon_SDE_EarlyCareer2027",
+    "url": "https://www.amazon.jobs/en/jobs/10583340/software-development-engineer-early-career-2027-us",
+    "company": "Amazon",
+    "seeded_from": "2026-11-04_Amazon_SDE_EarlyCareer2027",
+    "status": "ready_to_apply"
+  },
+  "ashby:bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90": {
+    "title": "2026-11-04_Ambral_MTS_NewGrad",
+    "url": "https://jobs.ashbyhq.com/Ambral/bfcfbd07-03b9-4e7c-82b1-b17d7c3a5e90",
+    "company": "Ambral",
+    "seeded_from": "2026-11-04_Ambral_MTS_NewGrad",
+    "status": "applied"
+  },
+  "careers.cisco.com/global/en/job/2028784": {
+    "title": "2026-11-04_Cisco_SWE_FullStackBackendI",
+    "url": "https://careers.cisco.com/global/en/job/2028784",
+    "company": "Cisco",
+    "seeded_from": "2026-11-04_Cisco_SWE_FullStackBackendI",
+    "status": "ready_to_apply"
+  },
+  "lever:f294b6dd-b2dc-46c5-9139-9ba93163ba5c": {
+    "title": "2026-11-04_CrossCountry_FDSE_RecentGraduate",
+    "url": "https://jobs.lever.co/crosscountry-consulting/f294b6dd-b2dc-46c5-9139-9ba93163ba5c",
+    "company": "CrossCountry",
+    "seeded_from": "2026-11-04_CrossCountry_FDSE_RecentGraduate",
+    "status": "applied"
+  },
+  "gh:6865698002": {
+    "title": "2026-11-04_Databricks_SWE_NewGrad2027",
+    "url": "https://boards.greenhouse.io/embed/job_app?token=6865698002",
+    "company": "Databricks",
+    "seeded_from": "2026-11-04_Databricks_SWE_NewGrad2027",
+    "status": "binned_rejected_on_same_req"
+  },
+  "ashby:53496201-b984-4e50-938e-19c21cf26667": {
+    "title": "2026-11-04_Discernis_SoftwareEngineer_NYC",
+    "url": "https://jobs.ashbyhq.com/discernis/53496201-b984-4e50-938e-19c21cf26667",
+    "company": "Discernis",
+    "seeded_from": "2026-11-04_Discernis_SoftwareEngineer_NYC",
+    "status": "applied"
+  },
+  "app.dover.com/apply/draftwise/3dfc51ea-ae72-4b93-947d-73ef8f5cfaec": {
+    "title": "2026-11-04_Draftwise_FDE_AIBackend_NYC",
+    "url": "https://app.dover.com/apply/draftwise/3dfc51ea-ae72-4b93-947d-73ef8f5cfaec",
+    "company": "Draftwise",
+    "seeded_from": "2026-11-04_Draftwise_FDE_AIBackend_NYC",
+    "status": "applied"
+  },
+  "ashby:88d48e83-127f-4035-a271-9592cef5402f": {
+    "title": "2026-11-04_Generalist_ForwardDeployedEngineer",
+    "url": "https://jobs.ashbyhq.com/generalist/88d48e83-127f-4035-a271-9592cef5402f",
+    "company": "Generalist",
+    "seeded_from": "2026-11-04_Generalist_ForwardDeployedEngineer",
+    "status": "applied"
+  },
+  "google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career": {
+    "title": "2026-11-04_Google_SWEII_EarlyCareer",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/109116638069957318-software-engineer-ii-early-career",
+    "company": "Google",
+    "seeded_from": "2026-11-04_Google_SWEII_EarlyCareer",
+    "status": "ready_to_apply"
+  },
+  "wd:jr0288523": {
+    "title": "2026-11-04_Intel_SoftwareApplicationDevEngineer",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Arizona-Phoenix/Software-Application-Development-Engineer_JR0288523",
+    "company": "Intel",
+    "seeded_from": "2026-11-04_Intel_SoftwareApplicationDevEngineer",
+    "status": "ready_to_apply"
+  },
+  "wd:r120836-1": {
+    "title": "2026-11-04_LexisNexisRisk_TechAccelerate_SWEI",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Alpharetta-GA/Tech-Accelerate-Graduate-Program_R120836-1",
+    "company": "LexisNexisRisk",
+    "seeded_from": "2026-11-04_LexisNexisRisk_TechAccelerate_SWEI",
+    "status": "ready_to_apply"
+  },
+  "ashby:769df1b5-70bb-40fe-b2e2-ef052eb3afa3": {
+    "title": "2026-11-04_LiteLLM_FDE_NewGrad",
+    "url": "https://jobs.ashbyhq.com/litellm/769df1b5-70bb-40fe-b2e2-ef052eb3afa3",
+    "company": "LiteLLM",
+    "seeded_from": "2026-11-04_LiteLLM_FDE_NewGrad",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11800567": {
+    "title": "2026-11-04_Monarch_FoundingEngineer_AppliedAI",
+    "url": "https://app.joinhandshake.com/job-search/11800567",
+    "company": "Monarch",
+    "seeded_from": "2026-11-04_Monarch_FoundingEngineer_AppliedAI",
+    "status": "applied"
+  },
+  "wd:req-059108": {
+    "title": "2026-11-04_Morningstar_MDP_AssociateSWE_AI",
+    "url": "https://morningstar.wd5.myworkdayjobs.com/Morningstar/job/Chicago/Associate-Software-Engineer--Central-Tech-AI-_REQ-059108",
+    "company": "Morningstar",
+    "seeded_from": "2026-11-04_Morningstar_MDP_AssociateSWE_AI",
+    "status": "dropped_start_date_conflict"
+  },
+  "linkedin.com/jobs/view/4461293821": {
+    "title": "2026-11-04_Nuvo_NewGradAIEngineer_NYC",
+    "url": "https://www.linkedin.com/jobs/view/4461293821/",
+    "company": "Nuvo",
+    "seeded_from": "2026-11-04_Nuvo_NewGradAIEngineer_NYC",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/job-search/11856023": {
+    "title": "2026-11-04_Pomo_SWE_NewGrad",
+    "url": "https://app.joinhandshake.com/job-search/11856023",
+    "company": "Pomo",
+    "seeded_from": "2026-11-04_Pomo_SWE_NewGrad",
+    "status": "applied"
+  },
+  "gh:8325652": {
+    "title": "2026-11-04_Qualtrics_SWEI_XMD_Seattle",
+    "url": "https://www.qualtrics.com/careers/us/en/job/8325652?gh_jid=8325652",
+    "company": "Qualtrics",
+    "seeded_from": "2026-11-04_Qualtrics_SWEI_XMD_Seattle",
+    "status": "applied"
+  },
+  "gh:6240725004": {
+    "title": "2026-11-04_SambaNova_MLE_NewGrad",
+    "url": "https://sambanova.ai/sambanova-available-positions/?gh_jid=6240725004",
+    "company": "SambaNova",
+    "seeded_from": "2026-11-04_SambaNova_MLE_NewGrad",
+    "status": "applied"
+  },
+  "jobs.smartrecruiters.com/servicenow/744000159509479-software-engineer-agent-eval-platform": {
+    "title": "2026-11-04_ServiceNow_SWE_AgentEvalPlatform",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000159509479-software-engineer-agent-eval-platform?oga=true",
+    "company": "ServiceNow",
+    "seeded_from": "2026-11-04_ServiceNow_SWE_AgentEvalPlatform",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11850470": {
+    "title": "2026-11-04_THIA_MachineLearningEngineer",
+    "url": "https://app.joinhandshake.com/job-search/11850470",
+    "company": "THIA",
+    "seeded_from": "2026-11-04_THIA_MachineLearningEngineer",
+    "status": "applied"
+  },
+  "careers.tiktokusds.com/usds/position/7692944776280443141/detail": {
+    "title": "2026-11-04_TikTokUSDS_SWEGraduate_Search",
+    "url": "https://careers.tiktokusds.com/usds/position/7692944776280443141/detail",
+    "company": "TikTokUSDS",
+    "seeded_from": "2026-11-04_TikTokUSDS_SWEGraduate_Search",
+    "status": "ready_to_apply"
+  },
+  "gh:5280545007": {
+    "title": "2026-11-04_Verkada_BackendSWE_UG2027",
+    "url": "https://job-boards.greenhouse.io/verkada/jobs/5280545007",
+    "company": "Verkada",
+    "seeded_from": "2026-11-04_Verkada_BackendSWE_UG2027",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11774297": {
+    "title": "2026-11-04_Wanderboat_MLE_NewGrad",
+    "url": "https://app.joinhandshake.com/job-search/11774297",
+    "company": "Wanderboat",
+    "seeded_from": "2026-11-04_Wanderboat_MLE_NewGrad",
+    "status": "expired_posting_closed"
+  },
+  "ashby:29bad846-de60-4be7-a222-69b97e044930": {
+    "title": "2026-11-04_Whatnot_SWE_2027NewGrad",
+    "url": "https://jobs.ashbyhq.com/whatnot/29bad846-de60-4be7-a222-69b97e044930",
+    "company": "Whatnot",
+    "seeded_from": "2026-11-04_Whatnot_SWE_2027NewGrad",
+    "status": "applied"
+  },
+  "witlore.com/careers.html": {
+    "title": "2026-11-04_Witlore_ForwardDeployedAIEngineer",
+    "url": "https://witlore.com/careers.html",
+    "company": "Witlore",
+    "seeded_from": "2026-11-04_Witlore_ForwardDeployedAIEngineer",
+    "status": "applied"
+  },
+  "gh:8334973": {
+    "title": "2026-11-04_Yext_SoftwareEngineer_NYC",
+    "url": "https://job-boards.greenhouse.io/yext/jobs/8334973",
+    "company": "Yext",
+    "seeded_from": "2026-11-04_Yext_SoftwareEngineer_NYC",
+    "status": "applied"
+  },
+  "app.joinhandshake.com/job-search/11834226": {
+    "title": "2026-11-04_forml_SoftwareEngineer",
+    "url": "https://app.joinhandshake.com/job-search/11834226",
+    "company": "forml",
+    "seeded_from": "2026-11-04_forml_SoftwareEngineer",
+    "status": "applied"
+  },
+  "ashby:2eb1f64d-dd44-480b-a08a-5557ae0e765f": {
+    "title": "2026-11-11_Fullstory_SolutionsConsultant_Atlanta",
+    "url": "https://jobs.ashbyhq.com/fullstory/2eb1f64d-dd44-480b-a08a-5557ae0e765f",
+    "company": "Fullstory",
+    "seeded_from": "2026-11-11_Fullstory_SolutionsConsultant_Atlanta",
+    "status": "filled_awaiting_submit"
+  }
+}
