@@ -92,6 +92,32 @@ def fetch_ashby(firm):
                     "posted_at": _epoch(j.get("publishedAt")), "date_is_original": True})   # spec 3a: Ashby publishedAt is NOT freshness
     return out
 
+def _ashby_app_data(page_html):
+    """The hosted Ashby board embeds window.__appData = {...}. Parse exactly that one JSON value."""
+    i = page_html.find("window.__appData")
+    if i < 0: raise ValueError("no __appData on page")
+    return json.JSONDecoder().raw_decode(page_html, page_html.find("{", i))[0]
+
+def fetch_ashby_page(firm):
+    """Fallback for Ashby boards whose public posting API is switched off (Whatnot did this in 2026-11 while the hosted
+    board kept working). Reads the board page's embedded appData. The list carries no bodies, so bodies
+    are fetched from each job page for title-relevant jobs only (cap 40). Neither page carries a publish date."""
+    tok, hdr = firm["token"], {**HEADERS, "Accept": "text/html"}
+    r = requests.get(f"https://jobs.ashbyhq.com/{tok}", headers=hdr, timeout=TIMEOUT); r.raise_for_status()
+    posts = (_ashby_app_data(r.text).get("jobBoard") or {}).get("jobPostings") or []
+    out = []
+    for p in posts:
+        locs = [p.get("locationName") or ""] + [s.get("locationName") or "" for s in (p.get("secondaryLocations") or [])]
+        out.append({"id": str(p.get("id")), "title": p.get("title") or "", "location": ", ".join(x for x in locs if x),
+                    "url": f"https://jobs.ashbyhq.com/{tok}/{p.get('id')}", "content": "", "posted_at": None})
+    for j in [j for j in out if _title_passes(j["title"], FILTERS)][:40]:
+        try:
+            d = _ashby_app_data(requests.get(j["url"], headers=hdr, timeout=TIMEOUT).text).get("posting") or {}
+            j["content"] = _plain(d.get("descriptionHtml") or d.get("descriptionPlain") or "")
+            # the hosted job page carries no publish date, so ashby_page boards show "age ?" (never a filter anyway)
+        except Exception: pass
+    return out
+
 def fetch_workable(firm):
     r = requests.get(f"https://apply.workable.com/api/v1/widget/accounts/{firm['token']}?details=true", headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
@@ -146,7 +172,7 @@ def fetch_github_json(firm):
                     "degrees": j.get("degrees") or [], "tracker": firm["name"]})
     return out
 
-FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby,
+FETCHERS = {"greenhouse": fetch_greenhouse, "lever": fetch_lever, "ashby": fetch_ashby, "ashby_page": fetch_ashby_page,
             "workable": fetch_workable, "workday": fetch_workday, "github_json": fetch_github_json}
 
 # --------------------------------- filters ---------------------------------- #
@@ -421,9 +447,7 @@ def main():
     if DROPS:   # log every drop; silent filtering is the most dangerous bug class
         print("Filter drops: " + drops_line())
 
-    grouped = {} if first_run else new
-    if first_run:
-        for j in current.values(): grouped.setdefault(j["company"], []).append(j)
+    grouped = new   # on the first run this is the baseline minus anything seeded from the main workspace (already applied or packaged)
     total = sum(len(v) for v in grouped.values())
     md = build_markdown(grouped, f, first_run)
     if total:

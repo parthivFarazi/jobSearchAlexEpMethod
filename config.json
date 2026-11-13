@@ -517,7 +517,7 @@
       "ats": "greenhouse",
       "token": "instabase",
       "enabled": false,
-      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+      "_note": "No public board as of 2026-11-13. Greenhouse board 'instabase' and its job pages 404, and instabase.com/careers/jobs shows 'No jobs available'. Re-probe monthly: python watcher.py probe Instabase"
     },
     {
       "name": "Wonderschool",
@@ -626,10 +626,9 @@
     },
     {
       "name": "Whatnot",
-      "ats": "ashby",
+      "ats": "ashby_page",
       "token": "whatnot",
-      "enabled": false,
-      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+      "_note": "Whatnot switched off the Ashby public posting API in 2026-11 but the hosted board still works, so this reads the board page. Applied here 2026-11-04 (SWE 2027 New Grad)."
     },
     {
       "name": "Sola",
@@ -742,11 +741,10 @@
       "token": "rilla"
     },
     {
-      "name": "MintMCP",
+      "name": "Mintive",
       "ats": "ashby",
-      "token": "mintmcp",
-      "enabled": false,
-      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+      "token": "mintive",
+      "_note": "MintMCP rebranded to Mintive, token changed 2026-11-13. Applied here 2026-10-19 under the old token, same Ashby job ids."
     },
     {
       "name": "Luminai",
@@ -861,9 +859,8 @@
     {
       "name": "Superhuman",
       "ats": "ashby",
-      "token": "superhuman",
-      "enabled": false,
-      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+      "token": "Superhuman%20Platform%20Inc",
+      "_note": "Ashby token has spaces, keep it URL-encoded. Grammarly owns Superhuman now and the website points at a Grammarly Greenhouse board whose API is private, so this Ashby board is the pollable one."
     },
     {
       "name": "Roadrunner",
@@ -896,11 +893,10 @@
       "token": "northslope-technologies"
     },
     {
-      "name": "Maximor",
+      "name": "Hyphenate",
       "ats": "ashby",
-      "token": "maximor",
-      "enabled": false,
-      "_note": "board returned 404 on 2026-11-13, re-probe with: python watcher.py probe <name>"
+      "token": "hyphenate",
+      "_note": "Maximor rebranded to Hyphenate, token changed 2026-11-13. 49/60 package 2026-10-07 said 'We support OPT'."
     },
     {
       "name": "Gen Digital",

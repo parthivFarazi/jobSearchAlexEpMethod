@@ -94,8 +94,10 @@ Workday needs host, tenant and site, read from the careers URL (`nvidia.wd5.mywo
 and a `search` term so the list is not the whole company. Google, Meta, Apple, Microsoft and Amazon careers pages are
 JavaScript apps that cannot be polled. Set native alerts there and rely on the trackers.
 
+If a company's Ashby board page works but `api.ashbyhq.com` returns 404, the company switched the public posting API off. Use `"ats": "ashby_page"` with the same token and the watcher reads the hosted board page instead (Whatnot, since 2026-11). Tokens with spaces stay URL-encoded, as in `Superhuman%20Platform%20Inc`.
+
 Per-firm `"mode": "all"` forces every passing role through, `"mode": "entry"` forces the entry-signal requirement.
-`"enabled": false` parks a board. Five boards from old sourcing docs are parked that way because they 404 now.
+`"enabled": false` parks a board. Instabase is parked that way because it has no public board at all as of 2026-11-13.
 
 ## Tuning filters without silently breaking things
 
