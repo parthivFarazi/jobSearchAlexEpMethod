@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "seeded": 217,
-    "seeded_at": "2026-11-17",
+    "seeded": 219,
+    "seeded_at": "2026-11-18",
     "baseline_done": true,
     "last_run": "2026-11-18T01:00Z"
   },
@@ -14741,5 +14741,19 @@
     "url": "https://go.vansh.nyc/1BG",
     "company": "CDM Smith",
     "first_seen": "2026-11-18"
+  },
+  "wd:1213068": {
+    "title": "2026-11-17_HPE_AIAutomationEngineerGraduate",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/ACJobSite/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068",
+    "company": "HPE",
+    "seeded_from": "2026-11-17_HPE_AIAutomationEngineerGraduate",
+    "status": "ready_to_apply"
+  },
+  "jobs.smartrecruiters.com/mirantis/744000162186029-software-engineer-backend-go-": {
+    "title": "2026-11-17_Mirantis_SWE_BackendGo_NewGrad",
+    "url": "https://jobs.smartrecruiters.com/Mirantis/744000162186029-software-engineer-backend-go-?oga=true",
+    "company": "Mirantis",
+    "seeded_from": "2026-11-17_Mirantis_SWE_BackendGo_NewGrad",
+    "status": "ready_to_apply"
   }
 }
