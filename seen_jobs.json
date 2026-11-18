@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "seeded": 219,
+    "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
     "last_run": "2026-11-18T18:07Z"
@@ -14947,5 +14947,12 @@
     "url": "https://go.vansh.nyc/1Cc",
     "company": "Adyen",
     "first_seen": "2026-11-18"
+  },
+  "micron.eightfold.ai/careers/job/44144084": {
+    "title": "2026-11-18_Micron_NCG_SWE_Boise",
+    "url": "https://micron.eightfold.ai/careers/job/44144084",
+    "company": "Micron",
+    "seeded_from": "2026-11-18_Micron_NCG_SWE_Boise",
+    "status": "ready_to_apply"
   }
 }
