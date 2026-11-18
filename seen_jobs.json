@@ -3,7 +3,7 @@
     "seeded": 219,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-18T01:00Z"
+    "last_run": "2026-11-18T08:34Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -14755,5 +14755,77 @@
     "company": "Mirantis",
     "seeded_from": "2026-11-17_Mirantis_SWE_BackendGo_NewGrad",
     "status": "ready_to_apply"
+  },
+  "workable:bb739f3fed": {
+    "title": "Data Analyst",
+    "url": "https://apply.workable.com/executive-title-agency/j/BB739F3FED/apply",
+    "company": "Executive Title Agency",
+    "first_seen": "2026-11-18"
+  },
+  "idplans1.bamboohr.com/careers/318": {
+    "title": "Field Data Specialist",
+    "url": "https://idplans1.bamboohr.com/careers/318/",
+    "company": "ID Plans",
+    "first_seen": "2026-11-18"
+  },
+  "elutions.bamboohr.com/careers/184": {
+    "title": "Domain Engineer",
+    "url": "https://elutions.bamboohr.com/careers/184/",
+    "company": "Elutions",
+    "first_seen": "2026-11-18"
+  },
+  "arcadion.bamboohr.com/careers/52": {
+    "title": "Junior AI Developer",
+    "url": "https://arcadion.bamboohr.com/careers/52/",
+    "company": "Arcadion",
+    "first_seen": "2026-11-18"
+  },
+  "wd:r2206-1": {
+    "title": "Entry-Level Modeling & Simulation Software Engineer",
+    "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry-Level-Modeling---Simulation-Software-Engineer_R2206-1",
+    "company": "Torch Technologies",
+    "first_seen": "2026-11-18"
+  },
+  "bloomadsglobalmedia.bamboohr.com/careers/141": {
+    "title": "Data Analytics Coordinator",
+    "url": "https://bloomadsglobalmedia.bamboohr.com/careers/141/",
+    "company": "Bloom Ads",
+    "first_seen": "2026-11-18"
+  },
+  "go.vansh.nyc/1c3": {
+    "title": "Software Engineer",
+    "url": "https://go.vansh.nyc/1C3",
+    "company": "Micron Technology",
+    "first_seen": "2026-11-18"
+  },
+  "amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027": {
+    "title": "Software Development Engineer - Robotics",
+    "url": "https://amazon.jobs/en/jobs/10607764/software-development-engineer-robotics-2027",
+    "company": "Amazon",
+    "first_seen": "2026-11-18"
+  },
+  "idplans1.bamboohr.com/careers/316": {
+    "title": "Field Data Specialist",
+    "url": "https://idplans1.bamboohr.com/careers/316/",
+    "company": "ID Plans",
+    "first_seen": "2026-11-18"
+  },
+  "idplans1.bamboohr.com/careers/319": {
+    "title": "Field Data Specialist",
+    "url": "https://idplans1.bamboohr.com/careers/319/",
+    "company": "ID Plans",
+    "first_seen": "2026-11-18"
+  },
+  "elutions.bamboohr.com/careers/172": {
+    "title": "Domain Engineer",
+    "url": "https://elutions.bamboohr.com/careers/172/",
+    "company": "Elutions",
+    "first_seen": "2026-11-18"
+  },
+  "go.vansh.nyc/1c2": {
+    "title": "New Grad 2027: Software Development Engineer, Robotics",
+    "url": "https://go.vansh.nyc/1C2",
+    "company": "Amazon",
+    "first_seen": "2026-11-18"
   }
 }
