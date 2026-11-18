@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "seeded": 187,
-    "seeded_at": "2026-11-13"
+    "seeded": 217,
+    "seeded_at": "2026-11-17"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -1311,5 +1311,215 @@
     "company": "Fullstory",
     "seeded_from": "2026-11-11_Fullstory_SolutionsConsultant_Atlanta",
     "status": "filled_awaiting_submit"
+  },
+  "gh:8181183003": {
+    "title": "2026-11-16_Affirm_SWEI_Backend_CD",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8181183003",
+    "company": "Affirm",
+    "seeded_from": "2026-11-16_Affirm_SWEI_Backend_CD",
+    "status": "ready_to_apply"
+  },
+  "jobs.akamai.com/en/sites/cx_1/job/4454": {
+    "title": "2026-11-16_Akamai_SWE_SecurityCloud_Frontend",
+    "url": "https://jobs.akamai.com/en/sites/CX_1/job/4454/",
+    "company": "Akamai",
+    "seeded_from": "2026-11-16_Akamai_SWE_SecurityCloud_Frontend",
+    "status": "ready_to_apply"
+  },
+  "gh:8385978": {
+    "title": "2026-11-16_CMT_SWEI_Cloud",
+    "url": "https://job-boards.greenhouse.io/cmt/jobs/8385978",
+    "company": "CMT",
+    "seeded_from": "2026-11-16_CMT_SWEI_Cloud",
+    "status": "ready_to_apply"
+  },
+  "gh:5120675008": {
+    "title": "2026-11-16_CaseGuard_MLE_ComputerVision",
+    "url": "https://job-boards.greenhouse.io/caseguard/jobs/5120675008",
+    "company": "CaseGuard",
+    "seeded_from": "2026-11-16_CaseGuard_MLE_ComputerVision",
+    "status": "ready_to_apply"
+  },
+  "ashby:ea5b2346-51f4-4fd9-800b-5cda50702070": {
+    "title": "2026-11-16_Clera_FoundingFullStack_NYC",
+    "url": "https://jobs.ashbyhq.com/Clera/ea5b2346-51f4-4fd9-800b-5cda50702070",
+    "company": "Clera",
+    "seeded_from": "2026-11-16_Clera_FoundingFullStack_NYC",
+    "status": "ready_to_apply"
+  },
+  "lever:9ec61f1b-1eeb-44c8-8be2-f25167b83267": {
+    "title": "2026-11-16_ESRT_AppliedAIEngineerI",
+    "url": "https://jobs.lever.co/esrtreit/9ec61f1b-1eeb-44c8-8be2-f25167b83267",
+    "company": "ESRT",
+    "seeded_from": "2026-11-16_ESRT_AppliedAIEngineerI",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/job-search/11977528": {
+    "title": "2026-11-16_Mintegral_MLE_AdsRanking",
+    "url": "https://app.joinhandshake.com/job-search/11977528",
+    "company": "Mintegral",
+    "seeded_from": "2026-11-16_Mintegral_MLE_AdsRanking",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/job-search/11934522": {
+    "title": "2026-11-16_MomentuumBlue_AssociateFDE",
+    "url": "https://app.joinhandshake.com/job-search/11934522",
+    "company": "MomentuumBlue",
+    "seeded_from": "2026-11-16_MomentuumBlue_AssociateFDE",
+    "status": "ready_to_apply"
+  },
+  "lever:73e946d4-0561-4afb-a7c2-a18aab947ddc": {
+    "title": "2026-11-16_REEKON_SoftwareEngineer_Boston",
+    "url": "https://jobs.lever.co/reekon-tools/73e946d4-0561-4afb-a7c2-a18aab947ddc",
+    "company": "REEKON",
+    "seeded_from": "2026-11-16_REEKON_SoftwareEngineer_Boston",
+    "status": "ready_to_apply"
+  },
+  "schwabjobs.com/job/austin/associate-software-engineer/33727/101977388560": {
+    "title": "2026-11-16_Schwab_AssociateSWE_Austin",
+    "url": "https://www.schwabjobs.com/job/austin/associate-software-engineer/33727/101977388560",
+    "company": "Schwab",
+    "seeded_from": "2026-11-16_Schwab_AssociateSWE_Austin",
+    "status": "ready_to_apply"
+  },
+  "gh:4728305006": {
+    "title": "2026-11-16_SharkNinja_FDE_EntryLevel",
+    "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4728305006",
+    "company": "SharkNinja",
+    "seeded_from": "2026-11-16_SharkNinja_FDE_EntryLevel",
+    "status": "ready_to_apply"
+  },
+  "gh:8943553002": {
+    "title": "2026-11-16_Twitch_SWEI_Payments",
+    "url": "https://job-boards.greenhouse.io/twitch/jobs/8943553002",
+    "company": "Twitch",
+    "seeded_from": "2026-11-16_Twitch_SWEI_Payments",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/job-search/11949646": {
+    "title": "2026-11-16_UnoWallet_SoftwareEngineer",
+    "url": "https://app.joinhandshake.com/job-search/11949646",
+    "company": "UnoWallet",
+    "seeded_from": "2026-11-16_UnoWallet_SoftwareEngineer",
+    "status": "ready_to_apply"
+  },
+  "ashby:d31312c2-236a-45f1-8da7-61a7ca8d1622": {
+    "title": "2026-11-16_WHOOP_SWEI_BackendGrowth",
+    "url": "https://jobs.ashbyhq.com/whoop/d31312c2-236a-45f1-8da7-61a7ca8d1622",
+    "company": "WHOOP",
+    "seeded_from": "2026-11-16_WHOOP_SWEI_BackendGrowth",
+    "status": "ready_to_apply"
+  },
+  "ashby:28a44d44-b138-476f-acda-65384f1623dc": {
+    "title": "2026-11-16_ZettaSquared_ForwardEngineer_GradProgram",
+    "url": "https://jobs.ashbyhq.com/zetta2/28a44d44-b138-476f-acda-65384f1623dc",
+    "company": "ZettaSquared",
+    "seeded_from": "2026-11-16_ZettaSquared_ForwardEngineer_GradProgram",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/job-search/11933066": {
+    "title": "2026-11-17_3ci_FullStackDeveloper_EntryLevel_Atlanta",
+    "url": "https://app.joinhandshake.com/job-search/11933066",
+    "company": "3ci",
+    "seeded_from": "2026-11-17_3ci_FullStackDeveloper_EntryLevel_Atlanta",
+    "status": "ready_to_apply"
+  },
+  "gh:8202446003": {
+    "title": "2026-11-17_Celonis_GalaxyGraduate_AssocTechConsultant_NYC",
+    "url": "https://job-boards.greenhouse.io/celonis/jobs/8202446003",
+    "company": "Celonis",
+    "seeded_from": "2026-11-17_Celonis_GalaxyGraduate_AssocTechConsultant_NYC",
+    "status": "ready_to_apply"
+  },
+  "wd:r031608": {
+    "title": "2026-11-17_Ciena_WaveLogicSWDev_NewGrad_Atlanta",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Developer---New-Grad_R031608",
+    "company": "Ciena",
+    "seeded_from": "2026-11-17_Ciena_WaveLogicSWDev_NewGrad_Atlanta",
+    "status": "ready_to_apply"
+  },
+  "app.joinhandshake.com/job-search/11913509": {
+    "title": "2026-11-17_Composable_SWE_ProductionFDE_Cambridge",
+    "url": "https://app.joinhandshake.com/job-search/11913509",
+    "company": "Composable",
+    "seeded_from": "2026-11-17_Composable_SWE_ProductionFDE_Cambridge",
+    "status": "ready_to_apply"
+  },
+  "wd:req-040139": {
+    "title": "2026-11-17_Conagra_FDE_Palantir_Omaha",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Forward-Deployed-Engineer--Palantir_Req-040139",
+    "company": "Conagra",
+    "seeded_from": "2026-11-17_Conagra_FDE_Palantir_Omaha",
+    "status": "ready_to_apply"
+  },
+  "lever:dc96666d-77b0-4bc8-b209-a0b9250324a0": {
+    "title": "2026-11-17_CrossCountry_JrFDSE_Georgia",
+    "url": "https://jobs.lever.co/crosscountry-consulting/dc96666d-77b0-4bc8-b209-a0b9250324a0",
+    "company": "CrossCountry",
+    "seeded_from": "2026-11-17_CrossCountry_JrFDSE_Georgia",
+    "status": "ready_to_apply"
+  },
+  "gh:6255572004": {
+    "title": "2026-11-17_Edmentum_SWEI",
+    "url": "https://job-boards.greenhouse.io/edmentum/jobs/6255572004",
+    "company": "Edmentum",
+    "seeded_from": "2026-11-17_Edmentum_SWEI",
+    "status": "ready_to_apply"
+  },
+  "epic.avature.net/careers/folderdetail/software-developer/740": {
+    "title": "2026-11-17_Epic_EntryLevelSoftwareDeveloper",
+    "url": "https://epic.avature.net/Careers/FolderDetail/Software-Developer/740",
+    "company": "Epic",
+    "seeded_from": "2026-11-17_Epic_EntryLevelSoftwareDeveloper",
+    "status": "ready_to_apply"
+  },
+  "wd1.myworkdaysite.com/recruiting/fmr/targeted/job/westlake-tx/april-2027---leap-software-engineer_2133870/apply": {
+    "title": "2026-11-17_Fidelity_LeapSWE_April2027",
+    "url": "https://wd1.myworkdaysite.com/recruiting/fmr/targeted/job/Westlake-TX/April-2027---Leap-Software-Engineer_2133870/apply?source=Handshake",
+    "company": "Fidelity",
+    "seeded_from": "2026-11-17_Fidelity_LeapSWE_April2027",
+    "status": "ready_to_apply"
+  },
+  "wd:1213624-1": {
+    "title": "2026-11-17_HPE_SoftwareEngineerGraduate",
+    "url": "https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Graduate_1213624-1",
+    "company": "HPE",
+    "seeded_from": "2026-11-17_HPE_SoftwareEngineerGraduate",
+    "status": "ready_to_apply"
+  },
+  "apply.careers.microsoft.com/careers/job/1970393557072925": {
+    "title": "2026-11-17_Microsoft_SWE_AzurePostgreSQL",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557072925",
+    "company": "Microsoft",
+    "seeded_from": "2026-11-17_Microsoft_SWE_AzurePostgreSQL",
+    "status": "ready_to_apply"
+  },
+  "wd:nx-4260": {
+    "title": "2026-11-17_Nextpower_FDE_AI_Fremont",
+    "url": "https://nextracker.wd5.myworkdayjobs.com/nextpower_careers/job/Fremont-South-Bldg-California---USA/Forward-Deployed-Engineer--AI-_NX-4260",
+    "company": "Nextpower",
+    "seeded_from": "2026-11-17_Nextpower_FDE_AI_Fremont",
+    "status": "ready_to_apply"
+  },
+  "linkedin.com/jobs/view/4490156312": {
+    "title": "2026-11-17_Paychex_SWEI_Cincinnati",
+    "url": "https://www.linkedin.com/jobs/view/4490156312/",
+    "company": "Paychex",
+    "seeded_from": "2026-11-17_Paychex_SWEI_Cincinnati",
+    "status": "ready_to_apply"
+  },
+  "gh:8227548": {
+    "title": "2026-11-17_SeatGeek_SWE_NewGrad_NYC",
+    "url": "https://seatgeek.com/jobs/8227548?gh_jid=8227548",
+    "company": "SeatGeek",
+    "seeded_from": "2026-11-17_SeatGeek_SWE_NewGrad_NYC",
+    "status": "ready_to_apply"
+  },
+  "wd:r8392": {
+    "title": "2026-11-17_Symbotic_SWE_CoreSystems",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer--Core-Systems---Platform-Services_R8392",
+    "company": "Symbotic",
+    "seeded_from": "2026-11-17_Symbotic_SWE_CoreSystems",
+    "status": "ready_to_apply"
   }
 }
