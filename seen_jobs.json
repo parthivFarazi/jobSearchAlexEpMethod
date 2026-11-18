@@ -3,7 +3,7 @@
     "seeded": 219,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-18T08:34Z"
+    "last_run": "2026-11-18T18:07Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -14826,6 +14826,126 @@
     "title": "New Grad 2027: Software Development Engineer, Robotics",
     "url": "https://go.vansh.nyc/1C2",
     "company": "Amazon",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:6e78e213-2129-4a5b-90d2-19ad5b61f0a5": {
+    "title": "Sensing Engineer",
+    "url": "https://jobs.ashbyhq.com/applied/6e78e213-2129-4a5b-90d2-19ad5b61f0a5",
+    "company": "Applied",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:88b84fd4-fb0e-4a38-b54f-859aa717a105": {
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Mintive/88b84fd4-fb0e-4a38-b54f-859aa717a105",
+    "company": "Mintive",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:0698ee30-bbc4-45d7-9bf4-7006cfcf3d68": {
+    "title": "Developer Growth",
+    "url": "https://jobs.ashbyhq.com/koahlabs/0698ee30-bbc4-45d7-9bf4-7006cfcf3d68",
+    "company": "Koah Labs",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:2f66e84d-aee6-4cbf-b041-2ef10678c6e0": {
+    "title": "AI Researcher / Engineer",
+    "url": "https://jobs.ashbyhq.com/Clera/2f66e84d-aee6-4cbf-b041-2ef10678c6e0",
+    "company": "Clera",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:84556737-4ba6-4811-aed1-e99285520d17": {
+    "title": "Research Engineer, Synthetic Data",
+    "url": "https://jobs.ashbyhq.com/Clera/84556737-4ba6-4811-aed1-e99285520d17",
+    "company": "Clera",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:1f19b698-f188-4172-93d5-f7cb5634d67f": {
+    "title": "Research Engineer, Benchmarks",
+    "url": "https://jobs.ashbyhq.com/Clera/1f19b698-f188-4172-93d5-f7cb5634d67f",
+    "company": "Clera",
+    "first_seen": "2026-11-18"
+  },
+  "ashby:89a3221b-9c53-45cc-97d0-ae541ace4275": {
+    "title": "Research Engineer, Privacy and Anonymization",
+    "url": "https://jobs.ashbyhq.com/Clera/89a3221b-9c53-45cc-97d0-ae541ace4275",
+    "company": "Clera",
+    "first_seen": "2026-11-18"
+  },
+  "lifeattiktok.com/search/7669654422861383941": {
+    "title": "Data Scientist Graduate - TikTok Product",
+    "url": "https://lifeattiktok.com/search/7669654422861383941",
+    "company": "TikTok",
+    "first_seen": "2026-11-18"
+  },
+  "wd:req2026933": {
+    "title": "Software Engineer - Java - Paze",
+    "url": "https://earlywarning.wd5.myworkdayjobs.com/earlywarningcareers/job/Scottsdale/Software-Engineer---Java--Paze_REQ2026933",
+    "company": "Early Warning",
+    "first_seen": "2026-11-18"
+  },
+  "gh:5019821101": {
+    "title": "Software Engineer – Early Career",
+    "url": "https://www.asm.com/open-vacancies/?gh_jid=5019821101",
+    "company": "ASM International",
+    "first_seen": "2026-11-18"
+  },
+  "workable:e001ce3e7f": {
+    "title": "Founding Full Stack Engineer - Fintech & Edtech",
+    "url": "https://apply.workable.com/eqltech/j/E001CE3E7F/apply",
+    "company": "EQL Tech",
+    "first_seen": "2026-11-18"
+  },
+  "lever:e8ba867c-9479-41f2-a5a1-088a9f7daacb": {
+    "title": "AI Voice Recording Contributor - Scottish",
+    "url": "https://jobs.lever.co/rws/e8ba867c-9479-41f2-a5a1-088a9f7daacb/apply",
+    "company": "RWS",
+    "first_seen": "2026-11-18"
+  },
+  "epyc.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/165185": {
+    "title": "Associate Data & Analytics Developer",
+    "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/165185",
+    "company": "Clean Harbors",
+    "first_seen": "2026-11-18"
+  },
+  "wd:r-100000346": {
+    "title": "Junior C++ Developer",
+    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-C---junior_R-100000346",
+    "company": "GIRO",
+    "first_seen": "2026-11-18"
+  },
+  "wd:r-100000287": {
+    "title": "Front-End Web Developer",
+    "url": "https://giro.wd10.myworkdayjobs.com/GIRO/job/Montreal-Rosemont/Dveloppeur-ou-Dveloppeuse-web--Front-end_R-100000287",
+    "company": "GIRO",
+    "first_seen": "2026-11-18"
+  },
+  "fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/10006023": {
+    "title": "Software Engineer - Bhepg",
+    "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10006023",
+    "company": "Berkshire Hathaway Energy",
+    "first_seen": "2026-11-18"
+  },
+  "gh:8068230": {
+    "title": "Junior Full-Stack Developer - Docs Experience Engineering Team",
+    "url": "https://job-boards.greenhouse.io/adyen/jobs/8068230",
+    "company": "Adyen",
+    "first_seen": "2026-11-18"
+  },
+  "go.vansh.nyc/1cb": {
+    "title": "Software Engineer",
+    "url": "https://go.vansh.nyc/1Cb",
+    "company": "Argonne National Laboratory",
+    "first_seen": "2026-11-18"
+  },
+  "go.vansh.nyc/1ce": {
+    "title": "New Grad 2027: Electronic Systems Engineer - Software",
+    "url": "https://go.vansh.nyc/1Ce",
+    "company": "Cummins",
+    "first_seen": "2026-11-18"
+  },
+  "go.vansh.nyc/1cc": {
+    "title": "Junior Full-Stack Developer, Docs Experience Engineering Team",
+    "url": "https://go.vansh.nyc/1Cc",
+    "company": "Adyen",
     "first_seen": "2026-11-18"
   }
 }
