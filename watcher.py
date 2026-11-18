@@ -313,7 +313,9 @@ def tags(job, f):
         mins = yoe_minimums(content)
         if mins: t.append("yoe " + "/".join(f"{n}+" for n in sorted(set(mins))[:3]))
     else: t.append("no body, screen manually")
-    if loc and any(_has_term(loc, m) for m in f.get("international_markers", [])) and not any(m.lower() in loc for m in f.get("location_keep_markers", [])): t.append("non-US")
+    intl = f.get("international_markers", [])
+    us_markers = [m for m in f.get("location_keep_markers", []) if m.lower() not in {x.lower() for x in intl}]   # London etc. sit in both lists
+    if loc and any(_has_term(loc, m) for m in intl) and not any(m.lower() in loc for m in us_markers): t.append("non-US")
     if job.get("tracker"): t.append(f"via {job['tracker']}")
     return t
 

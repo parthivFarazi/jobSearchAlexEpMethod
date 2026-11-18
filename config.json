@@ -114,7 +114,11 @@
       "gtm",
       "resident",
       "residency",
-      "demo"
+      "demo",
+      "firmware",
+      "embedded",
+      "verification",
+      "controls"
     ],
     "years": [
       "2026",
