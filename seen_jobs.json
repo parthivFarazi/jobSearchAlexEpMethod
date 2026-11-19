@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-19T08:51Z"
+    "last_run": "2026-11-19T18:19Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15037,6 +15037,114 @@
     "title": "Research Associate - Upstream",
     "url": "https://woodmac.wd3.myworkdayjobs.com/woodmaccareers/job/Edinburgh-GB/Research-Associate---Upstream_JR3524",
     "company": "Wood Mackenzie",
+    "first_seen": "2026-11-19"
+  },
+  "gh:8393948": {
+    "title": "Associate Systems Engineer",
+    "url": "https://job-boards.greenhouse.io/purestorage/jobs/8393948",
+    "company": "Pure Storage",
+    "first_seen": "2026-11-19"
+  },
+  "ashby:1235b960-2f21-40ee-a5ac-29887c2bcfd5": {
+    "title": "Talent AI Operator",
+    "url": "https://jobs.ashbyhq.com/Clera/1235b960-2f21-40ee-a5ac-29887c2bcfd5",
+    "company": "Clera",
+    "first_seen": "2026-11-19"
+  },
+  "ashby:60f23b98-6ec5-4edd-ab16-6938e4eb5baa": {
+    "title": "Research Engineer, Privacy and Anonymization",
+    "url": "https://jobs.ashbyhq.com/Clera/60f23b98-6ec5-4edd-ab16-6938e4eb5baa",
+    "company": "Clera",
+    "first_seen": "2026-11-19"
+  },
+  "ashby:9e25827b-7e7b-465e-b7a4-52db80db5df1": {
+    "title": "Founding Engineer",
+    "url": "https://jobs.ashbyhq.com/Clera/9e25827b-7e7b-465e-b7a4-52db80db5df1",
+    "company": "Clera",
+    "first_seen": "2026-11-19"
+  },
+  "jobs.smartrecruiters.com/erpanalysts1/743999677352777": {
+    "title": "Software Developer",
+    "url": "https://jobs.smartrecruiters.com/ERPAnalysts1/743999677352777",
+    "company": "ERPA",
+    "first_seen": "2026-11-19"
+  },
+  "gh:8924924002": {
+    "title": "Frontend Software Engineer",
+    "url": "https://job-boards.greenhouse.io/capitalontap/jobs/8924924002",
+    "company": "Capital on Tap",
+    "first_seen": "2026-11-19"
+  },
+  "jobs.apple.com/en-us/details/200688625": {
+    "title": "OS Software Engineer - Evaluation",
+    "url": "https://jobs.apple.com/en-us/details/200688625",
+    "company": "Apple",
+    "first_seen": "2026-11-19"
+  },
+  "gh:8743513002": {
+    "title": "Android Software Engineer - Lyft Urban Solutions",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8743513002?gh_jid=8743513002",
+    "company": "Lyft",
+    "first_seen": "2026-11-19"
+  },
+  "careers.medpace.com/jobs/12908": {
+    "title": "Shiny App Developer",
+    "url": "https://careers.medpace.com/jobs/12908?icims=1&lang=en-us",
+    "company": "Medpace",
+    "first_seen": "2026-11-19"
+  },
+  "jobs.supermicro.com/job/san-jose-software-engineer-cali/1430200500": {
+    "title": "Software Engineer",
+    "url": "https://jobs.supermicro.com/job/San-Jose-Software-Engineer-Cali/1430200500/?ats=successfactors",
+    "company": "Super Micro Computer",
+    "first_seen": "2026-11-19"
+  },
+  "careers-reisystems.icims.com/jobs/3511/job": {
+    "title": "Junior Associate Software Engineer - Java Full Stack",
+    "url": "https://careers-reisystems.icims.com/jobs/3511/job?mobile=true&needsRedirect=false",
+    "company": "REI Systems",
+    "first_seen": "2026-11-19"
+  },
+  "careers.huntingtoningalls.com/job/newport-news-engineer-software-1-virg/1452128000": {
+    "title": "Software Engineer 1",
+    "url": "https://careers.huntingtoningalls.com/job/Newport-News-ENGINEER-SOFTWARE-1-Virg/1452128000/?ats=successfactors",
+    "company": "Huntington Ingalls Industries",
+    "first_seen": "2026-11-19"
+  },
+  "intelliforceitsolutionsgroup.applytojob.com/apply/kocwkm5eht/junior-software-engineer-prime": {
+    "title": "Junior Software Engineer - Prime",
+    "url": "https://intelliforceitsolutionsgroup.applytojob.com/apply/kocWKm5EhT/Junior-Software-Engineer-Prime",
+    "company": "Intelliforce-IT Solutions Group",
+    "first_seen": "2026-11-19"
+  },
+  "ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d": {
+    "title": "Junior Data Integration Developer",
+    "url": "https://ats.rippling.com/journaltech/jobs/c16c782e-f2e0-490a-b3fc-061a5df2fa8d",
+    "company": "Journal Technologies",
+    "first_seen": "2026-11-19"
+  },
+  "go.vansh.nyc/1ck": {
+    "title": "Software Engineer, Platform Engineering",
+    "url": "https://go.vansh.nyc/1CK",
+    "company": "Segment",
+    "first_seen": "2026-11-19"
+  },
+  "go.vansh.nyc/1cl": {
+    "title": "Linux Software Engineer",
+    "url": "https://go.vansh.nyc/1CL",
+    "company": "Hpe Simplivity",
+    "first_seen": "2026-11-19"
+  },
+  "go.vansh.nyc/1cm": {
+    "title": "New Grad: Engineering",
+    "url": "https://go.vansh.nyc/1CM",
+    "company": "Eight Sleep",
+    "first_seen": "2026-11-19"
+  },
+  "go.vansh.nyc/1co": {
+    "title": "New Grad 2027: Design-for-Test Engineer",
+    "url": "https://go.vansh.nyc/1CO",
+    "company": "GlobalFoundries",
     "first_seen": "2026-11-19"
   }
 }
