@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-18T18:07Z"
+    "last_run": "2026-11-19T00:26Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -14954,5 +14954,77 @@
     "company": "Micron",
     "seeded_from": "2026-11-18_Micron_NCG_SWE_Boise",
     "status": "ready_to_apply"
+  },
+  "gh:4759563008": {
+    "title": "Junior Machine Learning Engineer",
+    "url": "https://job-boards.greenhouse.io/taxreliefadvocates/jobs/4759563008",
+    "company": "Tax Relief Advocates",
+    "first_seen": "2026-11-19"
+  },
+  "ejko.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_3/job/15154": {
+    "title": "Analyst Trainee - Data Analysis - Customer Service",
+    "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15154",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "first_seen": "2026-11-19"
+  },
+  "ashby:d92f1ac9-1abb-448c-b039-22643d9bb8a7": {
+    "title": "Software Engineer Entry Level",
+    "url": "https://jobs.ashbyhq.com/kira/d92f1ac9-1abb-448c-b039-22643d9bb8a7/application?embed=true",
+    "company": "Kira Learning",
+    "first_seen": "2026-11-19"
+  },
+  "jobs.keysight.com/jobs/58059": {
+    "title": "AI Productivity Specialist - Corporate Communications",
+    "url": "https://jobs.keysight.com/jobs/58059?icims=1&lang=en-us",
+    "company": "Keysight Technologies",
+    "first_seen": "2026-11-19"
+  },
+  "wyetech.applytojob.com/apply/oruqyoznab/swe0software-engineer": {
+    "title": "Software Engineer 0 – Full Stack Development",
+    "url": "https://wyetech.applytojob.com/apply/orUQyoZnAb/SWE0Software-Engineer",
+    "company": "Wyetech",
+    "first_seen": "2026-11-19"
+  },
+  "lever:c6d372ce-1203-4d34-bd3e-f637e7d23483": {
+    "title": "Data Scientist",
+    "url": "https://jobs.lever.co/zoox/c6d372ce-1203-4d34-bd3e-f637e7d23483/apply",
+    "company": "Zoox",
+    "first_seen": "2026-11-19"
+  },
+  "digitalai.bamboohr.com/careers/75": {
+    "title": "Associate Software Engineer",
+    "url": "https://digitalai.bamboohr.com/careers/75/",
+    "company": "Digital.ai",
+    "first_seen": "2026-11-19"
+  },
+  "careers-americansystems.icims.com/jobs/5620/job": {
+    "title": "Java Developer 1",
+    "url": "https://careers-americansystems.icims.com/jobs/5620/job?mobile=true&needsRedirect=false",
+    "company": "AMERICAN SYSTEMS",
+    "first_seen": "2026-11-19"
+  },
+  "bostonscientific.eightfold.ai/careers/job/563602813942507": {
+    "title": "Health AI Engineer 1 - Data Science & Business Intelligence",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813942507",
+    "company": "Boston Scientific",
+    "first_seen": "2026-11-19"
+  },
+  "workable:1bc6285a3c": {
+    "title": "AI Agent R&D Trainee - Full-Stack Engineer - Bilingual Mandarin",
+    "url": "https://apply.workable.com/cwill-us/j/1BC6285A3C/apply",
+    "company": "CWILL",
+    "first_seen": "2026-11-19"
+  },
+  "go.vansh.nyc/1cd": {
+    "title": "AI Agent R&D Trainee - Full-Stack Engineer",
+    "url": "https://go.vansh.nyc/1CD",
+    "company": "CWILL",
+    "first_seen": "2026-11-19"
+  },
+  "careers-americansystems.icims.com/jobs/5162/job": {
+    "title": "Java Developer 1",
+    "url": "https://careers-americansystems.icims.com/jobs/5162/job?mobile=true&needsRedirect=false",
+    "company": "AMERICAN SYSTEMS",
+    "first_seen": "2026-11-19"
   }
 }
