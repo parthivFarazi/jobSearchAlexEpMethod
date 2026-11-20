@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-20T10:04Z"
+    "last_run": "2026-11-20T18:39Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15445,6 +15445,102 @@
     "title": "Software Engineer 1",
     "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127431",
     "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20"
+  },
+  "gh:8406660": {
+    "title": "Integration Reliability Engineer, Payments",
+    "url": "https://stripe.com/jobs/search?gh_jid=8406660",
+    "company": "Stripe",
+    "first_seen": "2026-11-20"
+  },
+  "ashby:1d0f8572-491f-40d7-a8bd-ec83f7444807": {
+    "title": "Researcher II",
+    "url": "https://jobs.ashbyhq.com/whoop/1d0f8572-491f-40d7-a8bd-ec83f7444807",
+    "company": "WHOOP",
+    "first_seen": "2026-11-20"
+  },
+  "ashby:3bc46821-29f8-41cf-8e05-b1726533ba0e": {
+    "title": "Quality Systems Specialist I, Digital Health",
+    "url": "https://jobs.ashbyhq.com/whoop/3bc46821-29f8-41cf-8e05-b1726533ba0e",
+    "company": "WHOOP",
+    "first_seen": "2026-11-20"
+  },
+  "ashby:f6fb829e-bdcd-4a37-922d-7f8834db3db0": {
+    "title": "Platform Engineer (Kubernetes)",
+    "url": "https://jobs.ashbyhq.com/Clera/f6fb829e-bdcd-4a37-922d-7f8834db3db0",
+    "company": "Clera",
+    "first_seen": "2026-11-20"
+  },
+  "ashby:de528e45-b9ad-434a-905e-943ed5046b8b": {
+    "title": "Founding Content Producer",
+    "url": "https://jobs.ashbyhq.com/Clera/de528e45-b9ad-434a-905e-943ed5046b8b",
+    "company": "Clera",
+    "first_seen": "2026-11-20"
+  },
+  "gh:5199607007": {
+    "title": "Junior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/freedomconsulting/jobs/5199607007",
+    "company": "Freedom Technology Solutions Group",
+    "first_seen": "2026-11-20"
+  },
+  "mdanalytics.bamboohr.com/careers/85": {
+    "title": "Market Research Associate",
+    "url": "https://mdanalytics.bamboohr.com/careers/85/",
+    "company": "MD Analytics",
+    "first_seen": "2026-11-20"
+  },
+  "octaipipe.bamboohr.com/careers/49": {
+    "title": "Applied Scientist - Machine Learning",
+    "url": "https://octaipipe.bamboohr.com/careers/49/",
+    "company": "OctaiPipe",
+    "first_seen": "2026-11-20"
+  },
+  "wd:jr-03521": {
+    "title": "Financial Data and Analytics Consultant",
+    "url": "https://plantemoran.wd1.myworkdayjobs.com/pmexternalcareers/job/Southfield/Financial-Data-and-Analytics-Consultant_JR-03521",
+    "company": "Plante Moran",
+    "first_seen": "2026-11-20"
+  },
+  "wd:jr18196": {
+    "title": "Traffic & Revenue Junior Engineer Trainee",
+    "url": "https://ferrovial.wd3.myworkdayjobs.com/ferrovial_career_site/job/Manassas-VA/Traffic---Revenue-Junior-Engineer_JR18196",
+    "company": "Ferrovial",
+    "first_seen": "2026-11-20"
+  },
+  "usan.bamboohr.com/careers/204": {
+    "title": "Application Developer New Grad",
+    "url": "https://usan.bamboohr.com/careers/204/",
+    "company": "USAN",
+    "first_seen": "2026-11-20"
+  },
+  "spa.jibeapply.com/jobs/23894": {
+    "title": "Junior Modeling and Simulation Engineer",
+    "url": "https://spa.jibeapply.com/jobs/23894?icims=1&lang=en-us",
+    "company": "Systems Planning and Analysis",
+    "first_seen": "2026-11-20"
+  },
+  "go.vansh.nyc/1er": {
+    "title": "Software Developer in Test",
+    "url": "https://go.vansh.nyc/1Er",
+    "company": "Stryker",
+    "first_seen": "2026-11-20"
+  },
+  "go.vansh.nyc/1el": {
+    "title": "New Grad 2027: Junior Machine Learning Engineering",
+    "url": "https://go.vansh.nyc/1EL",
+    "company": "Rolls-Royce",
+    "first_seen": "2026-11-20"
+  },
+  "mdanalytics.bamboohr.com/careers/86": {
+    "title": "Market Research Associate",
+    "url": "https://mdanalytics.bamboohr.com/careers/86/",
+    "company": "MD Analytics",
+    "first_seen": "2026-11-20"
+  },
+  "mdanalytics.bamboohr.com/careers/87": {
+    "title": "Market Research Associate",
+    "url": "https://mdanalytics.bamboohr.com/careers/87/",
+    "company": "MD Analytics",
     "first_seen": "2026-11-20"
   }
 }
