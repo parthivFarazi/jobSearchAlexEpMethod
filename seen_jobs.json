@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-20T01:18Z"
+    "last_run": "2026-11-20T10:04Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15361,6 +15361,90 @@
     "title": "Software Engineer - AI Agents",
     "url": "https://go.vansh.nyc/1DC",
     "company": "Koch Industries",
+    "first_seen": "2026-11-20"
+  },
+  "ataengineering.applytojob.com/apply/ivxsyvzo4i/engineering-software-programmer": {
+    "title": "Engineering Software Programmer",
+    "url": "https://ataengineering.applytojob.com/apply/ivXsyvzO4I/Engineering-Software-Programmer",
+    "company": "ATA Engineering",
+    "first_seen": "2026-11-20"
+  },
+  "jobs.apple.com/en-us/details/200696147": {
+    "title": "AR/VR Software Engineer - Spatial System UI - Vision Products Software",
+    "url": "https://jobs.apple.com/en-us/details/200696147",
+    "company": "Apple",
+    "first_seen": "2026-11-20"
+  },
+  "zeptolife.bamboohr.com/careers/143": {
+    "title": "Software Developer 1",
+    "url": "https://zeptolife.bamboohr.com/careers/143/",
+    "company": "Zepto Life Technology",
+    "first_seen": "2026-11-20"
+  },
+  "workforcenow.adp.com/job": {
+    "title": "Software Engineer 1",
+    "url": "https://workforcenow.adp.com/job?cid=025c6b1c-d982-48ca-a361-edd0625dd097&jobId=9204447887026_1",
+    "company": "Rise Internet",
+    "first_seen": "2026-11-20"
+  },
+  "omnimed.bamboohr.com/careers/73": {
+    "title": "ML Developer - Junior or Intermediate",
+    "url": "https://omnimed.bamboohr.com/careers/73/",
+    "company": "Omnimed",
+    "first_seen": "2026-11-20"
+  },
+  "icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/99125642": {
+    "title": "Software Engineer 1",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/99125642",
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20"
+  },
+  "icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/120249": {
+    "title": "Information Systems & Data Science New Grad",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120249",
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20"
+  },
+  "icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/120524": {
+    "title": "Software Engineering New Grad",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120524",
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20"
+  },
+  "icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/120265": {
+    "title": "Software Engineer Recent Grad",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/120265",
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20"
+  },
+  "go.vansh.nyc/1dr": {
+    "title": "Data Science Analyst I",
+    "url": "https://go.vansh.nyc/1DR",
+    "company": "Blue Cross Blue Shield of Michigan",
+    "first_seen": "2026-11-20"
+  },
+  "go.vansh.nyc/1e0": {
+    "title": "Systems / Software Engineer I",
+    "url": "https://go.vansh.nyc/1E0",
+    "company": "HPE",
+    "first_seen": "2026-11-20"
+  },
+  "go.vansh.nyc/1e1": {
+    "title": "AI Innovation Research Engineer (Master's)",
+    "url": "https://go.vansh.nyc/1E1",
+    "company": "Micron Technology",
+    "first_seen": "2026-11-20"
+  },
+  "go.vansh.nyc/1ee": {
+    "title": "New Grad 2027: Software Engineering",
+    "url": "https://go.vansh.nyc/1Ee",
+    "company": "Honeywell Aerospace",
+    "first_seen": "2026-11-20"
+  },
+  "icfcjb.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/aerospace/job/127431": {
+    "title": "Software Engineer 1",
+    "url": "https://icfcjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Aerospace/job/127431",
+    "company": "Honeywell Aerospace",
     "first_seen": "2026-11-20"
   }
 }
