@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-21T08:19Z"
+    "last_run": "2026-11-21T16:49Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15865,6 +15865,60 @@
     "title": "Data Collection Operator - Optimus",
     "url": "https://www.tesla.com/careers/search/job/266837",
     "company": "Tesla",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:bee0e82d-889f-47eb-b310-2f50b8ad9954": {
+    "title": "Automation Engineer, Dealership Integrations",
+    "url": "https://jobs.ashbyhq.com/Clera/bee0e82d-889f-47eb-b310-2f50b8ad9954",
+    "company": "Clera",
+    "first_seen": "2026-11-21"
+  },
+  "ejta.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_2001/job/10881": {
+    "title": "Associate, Data Analytics and Engineering Track",
+    "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10881",
+    "company": "Fortive",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:0c96afd7-4469-4121-9232-847e8f8f4502": {
+    "title": "Software Engineer - Full Stack",
+    "url": "https://jobs.ashbyhq.com/kobalt%20labs/0c96afd7-4469-4121-9232-847e8f8f4502/application?embed=true",
+    "company": "Kobalt Labs",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d": {
+    "title": "Software Engineer - Federal",
+    "url": "https://jobs.ashbyhq.com/starbridge/7a86e5d3-0871-4a1f-a65d-bfadb7be3b4d/application?embed=true",
+    "company": "Starbridge",
+    "first_seen": "2026-11-21"
+  },
+  "wd:jr6518": {
+    "title": "Data Analyst 1",
+    "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Empire-State-Building-New-York-New-York/Senior-PMO-Specailist_JR6518",
+    "company": "STV",
+    "first_seen": "2026-11-21"
+  },
+  "wd:r-2674054-1": {
+    "title": "Software Engineer 3",
+    "url": "https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-VIZIO-SERVICES-DENVER-CO-DENVER-Home-Office/XMLNAME--USA--Software-Engineer-III_R-2674054-1",
+    "company": "Walmart",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:ab69f040-9b87-4420-9150-edc6e4f54cfb": {
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/secureframe/ab69f040-9b87-4420-9150-edc6e4f54cfb/application?embed=true",
+    "company": "Secureframe",
+    "first_seen": "2026-11-21"
+  },
+  "wd:r0008071": {
+    "title": "Robotics Teleoperator",
+    "url": "https://welocalize.wd1.myworkdayjobs.com/welocalize/job/CA-Client-Field-Office-San-Fran-Bay-Area/Project-Dorado---Robotics-Teleoperator_R0008071",
+    "company": "Welocalize",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1gc": {
+    "title": "Software Developer",
+    "url": "https://go.vansh.nyc/1Gc",
+    "company": "Trend Micro",
     "first_seen": "2026-11-21"
   }
 }
