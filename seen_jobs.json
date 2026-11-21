@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-21T16:49Z"
+    "last_run": "2026-11-21T22:12Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15919,6 +15919,12 @@
     "title": "Software Developer",
     "url": "https://go.vansh.nyc/1Gc",
     "company": "Trend Micro",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1gh": {
+    "title": "New Grad 2027: Software Engineer",
+    "url": "https://go.vansh.nyc/1Gh",
+    "company": "Secureframe",
     "first_seen": "2026-11-21"
   }
 }
