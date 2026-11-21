@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-21T00:50Z"
+    "last_run": "2026-11-21T08:19Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15811,6 +15811,60 @@
     "title": "Junior Software Developer",
     "url": "https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer",
     "company": "Laansu",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8201471003": {
+    "title": "Software Engineer I, Backend (Streaming Infra)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003",
+    "company": "Affirm",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8201469003": {
+    "title": "Software Engineer I, Backend (Streaming Infra)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003",
+    "company": "Affirm",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:2f86e8ee-1e44-40b4-bf47-a0db71a2d246": {
+    "title": "Software Engineer, Video Pipeline",
+    "url": "https://jobs.ashbyhq.com/Clera/2f86e8ee-1e44-40b4-bf47-a0db71a2d246",
+    "company": "Clera",
+    "first_seen": "2026-11-21"
+  },
+  "owlco.na.teamtailor.com/jobs/719055-part-time-data-quality-analyst": {
+    "title": "Data Quality Analyst",
+    "url": "https://owlco.na.teamtailor.com/jobs/719055-part-time-data-quality-analyst?ats=teamtailor",
+    "company": "Owl.co",
+    "first_seen": "2026-11-21"
+  },
+  "wd:10340846": {
+    "title": "Software Engineer",
+    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10340846",
+    "company": "Toyota",
+    "first_seen": "2026-11-21"
+  },
+  "gradientmsp.bamboohr.com/careers/72": {
+    "title": "Junior Full Stack Developer",
+    "url": "https://gradientmsp.bamboohr.com/careers/72/",
+    "company": "Gradient MSP",
+    "first_seen": "2026-11-21"
+  },
+  "wd:r05211": {
+    "title": "Developer - Digital Solutions and Analytics - Liquid Markets",
+    "url": "https://cdpq.wd10.myworkdayjobs.com/CDPQ/job/Montreal/Analyste--Analytique---Marchs-boursiers_R05211",
+    "company": "CDPQ",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1g4": {
+    "title": "Security Platform Engineer I – Splunk, Analytics & Automation",
+    "url": "https://go.vansh.nyc/1G4",
+    "company": "Zotec Partners",
+    "first_seen": "2026-11-21"
+  },
+  "tesla.com/careers/search/job/266837": {
+    "title": "Data Collection Operator - Optimus",
+    "url": "https://www.tesla.com/careers/search/job/266837",
+    "company": "Tesla",
     "first_seen": "2026-11-21"
   }
 }
