@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-20T18:39Z"
+    "last_run": "2026-11-21T00:50Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15542,5 +15542,275 @@
     "url": "https://mdanalytics.bamboohr.com/careers/87/",
     "company": "MD Analytics",
     "first_seen": "2026-11-20"
+  },
+  "gh:8261012": {
+    "title": "Software Engineer, Payments and Risk",
+    "url": "https://stripe.com/jobs/search?gh_jid=8261012",
+    "company": "Stripe",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8356222": {
+    "title": "Solutions Engineer - Ads Product & Innovation",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8356222",
+    "company": "Pinterest",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8196691003": {
+    "title": "Software Engineer I, Fullstack (Disputes Platform)",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/8196691003",
+    "company": "Affirm",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:d910b5bd-0580-45cb-bce8-93ee8deb2215": {
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Mintive/d910b5bd-0580-45cb-bce8-93ee8deb2215",
+    "company": "Mintive",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:19eb22cd-9540-49ed-840b-6422714413b5": {
+    "title": "Software Engineer New Grad - AI Entities",
+    "url": "https://jobs.ashbyhq.com/evenup/19eb22cd-9540-49ed-840b-6422714413b5/application?embed=true",
+    "company": "EvenUp",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/aqu1000aque/jobboard/8a380b89-3c6f-4511-8697-2fe5c64de6ac/opportunitydetail": {
+    "title": "AI Data Analyst",
+    "url": "https://recruiting.ultipro.com/AQU1000AQUE/JobBoard/8a380b89-3c6f-4511-8697-2fe5c64de6ac/OpportunityDetail?opportunityId=aa154c5d-996c-468e-964a-6559881157cc",
+    "company": "Aquestive Therapeutics",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/afl1002/jobboard/d535bad2-e3ea-c8c8-2fb2-63621892e293/opportunitydetail": {
+    "title": "Power BI Developer",
+    "url": "https://recruiting.ultipro.com/afl1002/JobBoard/d535bad2-e3ea-c8c8-2fb2-63621892e293/OpportunityDetail?opportunityId=c4051a9d-b490-4999-a395-f6f822be86d6",
+    "company": "AFL",
+    "first_seen": "2026-11-21"
+  },
+  "jobs.apple.com/en-us/details/200695965": {
+    "title": "Engineer New Grad - Evolve - An Apple Services Rotation Program",
+    "url": "https://jobs.apple.com/en-us/details/200695965",
+    "company": "Apple",
+    "first_seen": "2026-11-21"
+  },
+  "eeho.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_45001/job/350824": {
+    "title": "Software Engineer New Grad - Oracle Cloud Infrastructure",
+    "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/350824",
+    "company": "Oracle",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting2.ultipro.com/goo1038gomn/jobboard/75022464-9dbd-43d2-af44-2840603d5823/opportunitydetail": {
+    "title": "Data Analyst",
+    "url": "https://recruiting2.ultipro.com/goo1038gomn/JobBoard/75022464-9dbd-43d2-af44-2840603d5823/OpportunityDetail?opportunityId=88b91d78-999a-48e1-907b-b68d9f5e68f0",
+    "company": "Daikin Comfort",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting2.ultipro.com/aud1001audv/jobboard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/opportunitydetail": {
+    "title": "Associate Application Developer",
+    "url": "https://recruiting2.ultipro.com/AUD1001AUDV/JobBoard/b1e2129f-5d09-48e8-b7ff-4e900458d8a9/OpportunityDetail?opportunityId=bf6ce5bb-f991-46de-a0cb-50f4f9577ee9",
+    "company": "Encore",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/ecp1000ecpi/jobboard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/opportunitydetail": {
+    "title": "Associate Software Developer",
+    "url": "https://recruiting.ultipro.com/ecp1000ecpi/JobBoard/e017f5e5-4f5e-4a98-a5d2-83db591e186f/OpportunityDetail?opportunityId=4b69f6b1-0298-4c53-9d7a-5555320c1c56",
+    "company": "ECPI University",
+    "first_seen": "2026-11-21"
+  },
+  "gh:4727237006": {
+    "title": "Software Engineer",
+    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4727237006",
+    "company": "STR",
+    "first_seen": "2026-11-21"
+  },
+  "wd:r-26937-1": {
+    "title": "Software Engineer - DevOps/.NET/Azure",
+    "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/HES/DevOps-Engineer_R-26937-1",
+    "company": "Varian",
+    "first_seen": "2026-11-21"
+  },
+  "gh:5283494007": {
+    "title": "Software Development Engineer",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5283494007",
+    "company": "Zscaler",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting2.ultipro.com/pho1004phox/jobboard/acd90700-5979-43ba-b9f1-2d34847188e0/opportunitydetail": {
+    "title": "Software Engineer 1",
+    "url": "https://recruiting2.ultipro.com/pho1004phox/JobBoard/acd90700-5979-43ba-b9f1-2d34847188e0/OpportunityDetail?opportunityId=887af972-6506-40d8-a121-db264168ce36",
+    "company": "Phoenix Defense",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/mia1004mhlp/jobboard/b34868a3-6ce1-4a28-b8fb-afb1cd5be9d3/opportunitydetail": {
+    "title": "Front-End Web Developer",
+    "url": "https://recruiting.ultipro.com/mia1004mhlp/JobBoard/b34868a3-6ce1-4a28-b8fb-afb1cd5be9d3/OpportunityDetail?opportunityId=8e02edd4-aa49-4769-87af-48efdcbc9984",
+    "company": "Miami HEAT",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:9da9bb8e-d7f1-4247-b6da-8392ebc852bd": {
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/keplar/9da9bb8e-d7f1-4247-b6da-8392ebc852bd/application?embed=true",
+    "company": "Keplar",
+    "first_seen": "2026-11-21"
+  },
+  "careers.nrgenergy.com/nrg/job/houston-developer-analyst-i-tx-77010/1452758500": {
+    "title": "AI-Enabled Developer Analyst 1",
+    "url": "https://careers.nrgenergy.com/nrg/job/Houston-Developer-Analyst-I-TX-77010/1452758500/?ats=successfactors",
+    "company": "NRG Energy",
+    "first_seen": "2026-11-21"
+  },
+  "gh:4517555009": {
+    "title": "Junior AI Engineer",
+    "url": "https://job-boards.greenhouse.io/vertexservicepartners/jobs/4517555009",
+    "company": "Vertex Service Partners",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting2.ultipro.com/mil1017/jobboard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/opportunitydetail": {
+    "title": "Client Engineer 1",
+    "url": "https://recruiting2.ultipro.com/MIL1017/JobBoard/f54234e9-dfde-b183-fd20-4fbdb19cba7a/OpportunityDetail?opportunityId=15f57ffc-5a1e-4431-8c7b-b7177171d600",
+    "company": "Milliman",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8932674002": {
+    "title": "Entry-Level AI/Data Engineer",
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932674002",
+    "company": "Further",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8932692002": {
+    "title": "Analytics Developer New Grad",
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8932692002",
+    "company": "Further",
+    "first_seen": "2026-11-21"
+  },
+  "gh:8906198002": {
+    "title": "Entry Level Developer New Grad",
+    "url": "https://job-boards.greenhouse.io/furtherearlycareer/jobs/8906198002",
+    "company": "Further",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/ame1065/jobboard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/opportunitydetail": {
+    "title": "Software Engineer 1/2/3",
+    "url": "https://recruiting.ultipro.com/ame1065/JobBoard/cdfdf806-e3aa-dfb4-4c6e-c7c656217b40/OpportunityDetail?opportunityId=2bb4b550-39c1-4e1c-9123-39b08c6f0fd7",
+    "company": "Wellabe",
+    "first_seen": "2026-11-21"
+  },
+  "ashby:5b30aa69-b2a6-480b-b5b9-3ad5d67f1a55": {
+    "title": "Early Software Engineer - AI-Native",
+    "url": "https://jobs.ashbyhq.com/multiplyai/5b30aa69-b2a6-480b-b5b9-3ad5d67f1a55/application?embed=true",
+    "company": "Multiply",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/app1010arai/jobboard/07442cec-d18e-4589-ab15-8342edc29af7/opportunitydetail": {
+    "title": "Autonomy Engineer",
+    "url": "https://recruiting.ultipro.com/APP1010ARAI/JobBoard/07442cec-d18e-4589-ab15-8342edc29af7/OpportunityDetail?opportunityId=31bb25e4-a32f-485c-8659-e9409cc97d3a",
+    "company": "Applied Research Associates",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/usa1002usal/jobboard/003df104-d0d0-4233-8068-07ba35aacc79/opportunitydetail": {
+    "title": "Web Developer 1 or 2",
+    "url": "https://recruiting.ultipro.com/USA1002USAL/JobBoard/003df104-d0d0-4233-8068-07ba35aacc79/OpportunityDetail?opportunityId=1699a66a-9f61-40ed-9973-aa7b91dd0306",
+    "company": "USAble Life",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting2.ultipro.com/her1001acfin/jobboard/ab33798a-3521-417b-8db8-a8e435c475fa/opportunitydetail": {
+    "title": "Software Engineer 1",
+    "url": "https://recruiting2.ultipro.com/her1001acfin/JobBoard/ab33798a-3521-417b-8db8-a8e435c475fa/OpportunityDetail?opportunityId=2621ceb4-172b-4f80-b042-b76aab90a2df",
+    "company": "Acuity Insurance",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting2.ultipro.com/tra1034tnsc/jobboard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/opportunitydetail": {
+    "title": "Software Engineer 1 - SQL Development",
+    "url": "https://recruiting2.ultipro.com/TRA1034TNSC/JobBoard/0885e26f-46c3-45cc-8f3a-b849c09d3bdd/OpportunityDetail?opportunityId=3ce5c847-8e02-470d-aed6-9630544aa893",
+    "company": "TransCore",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/mic1007/jobboard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/opportunitydetail": {
+    "title": "Software Engineer - Front-End/Full Stack - Mobile/Website/Core",
+    "url": "https://recruiting.ultipro.com/MIC1007/JobBoard/24c0bd68-a7ff-5460-0b4e-fe75a81b0396/OpportunityDetail?opportunityId=8c5ed6c6-dd4a-4bd3-88cb-7af4a764b2d3",
+    "company": "MSU Federal Credit Union",
+    "first_seen": "2026-11-21"
+  },
+  "gh:6263422004": {
+    "title": "Data & AI Analyst - Talent Acquisition",
+    "url": "https://job-boards.greenhouse.io/boomilp/jobs/6263422004",
+    "company": "Boomi",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/mer1018mmic/jobboard/1b36f9bd-51dd-d343-e324-b2b56c792814/opportunitydetail": {
+    "title": "Junior SQL Developer",
+    "url": "https://recruiting.ultipro.com/mer1018mmic/JobBoard/1b36f9bd-51dd-d343-e324-b2b56c792814/OpportunityDetail?opportunityId=47ed54ca-64f0-4dd1-8ffd-c275f0cf58db",
+    "company": "Merchants Insurance Group",
+    "first_seen": "2026-11-21"
+  },
+  "recruiting.ultipro.com/com1019ctdi1/jobboard/ab728dae-48cf-43af-8869-6b591e5d9495/opportunitydetail": {
+    "title": "Robotics Engineer",
+    "url": "https://recruiting.ultipro.com/COM1019CTDI1/JobBoard/ab728dae-48cf-43af-8869-6b591e5d9495/OpportunityDetail?opportunityId=168662f8-1340-4fdc-a4c4-10f604134f65",
+    "company": "CTDI",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1eq": {
+    "title": "New Grad 2027: Software Engineer, Oracle Cloud Infrastructure (OCI)",
+    "url": "https://go.vansh.nyc/1EQ",
+    "company": "OPOWER",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1ev": {
+    "title": "DevOps Engineer I",
+    "url": "https://go.vansh.nyc/1EV",
+    "company": "CPI Card Group",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1ew": {
+    "title": "Junior Business Systems & Automation Developer",
+    "url": "https://go.vansh.nyc/1EW",
+    "company": "Logan A/C & Heat Services",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1f0": {
+    "title": "New Grad 2027: Software Engineer, DL Kernel Libraries",
+    "url": "https://go.vansh.nyc/1F0",
+    "company": "NVIDIA",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1fm": {
+    "title": "New Grad 2027: Engineer - Evolve - An Apple Services Rotation Program",
+    "url": "https://go.vansh.nyc/1Fm",
+    "company": "Apple",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1fl": {
+    "title": "New Grad: Software Engineer",
+    "url": "https://go.vansh.nyc/1FL",
+    "company": "Keplar",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1fo": {
+    "title": "New Grad 2027: Analytics Developer",
+    "url": "https://go.vansh.nyc/1FO",
+    "company": "Further",
+    "first_seen": "2026-11-21"
+  },
+  "go.vansh.nyc/1fp": {
+    "title": "New Grad 2027: Entry Level Developer",
+    "url": "https://go.vansh.nyc/1FP",
+    "company": "Further",
+    "first_seen": "2026-11-21"
+  },
+  "apply.careers.microsoft.com/careers/job/1970393557053350": {
+    "title": "Software Engineer",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557053350",
+    "company": "Microsoft",
+    "first_seen": "2026-11-21"
+  },
+  "careers.garmin.com/jobs/21486": {
+    "title": "Software Engineer 1",
+    "url": "https://careers.garmin.com/jobs/21486?icims=1&lang=en-us",
+    "company": "Garmin",
+    "first_seen": "2026-11-21"
+  },
+  "laansu.applytojob.com/apply/vlgxkibuqz/junior-software-developer": {
+    "title": "Junior Software Developer",
+    "url": "https://laansu.applytojob.com/apply/VlgxKiBUqZ/Junior-Software-Developer",
+    "company": "Laansu",
+    "first_seen": "2026-11-21"
   }
 }
