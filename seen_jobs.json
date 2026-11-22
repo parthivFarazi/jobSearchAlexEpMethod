@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-22T02:16Z"
+    "last_run": "2026-11-22T09:55Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15943,6 +15943,36 @@
     "title": "Analyst, Data Analytics",
     "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Analyst--Automation_R-028700",
     "company": "Warner Music",
+    "first_seen": "2026-11-22"
+  },
+  "wd:r0012117": {
+    "title": "Early Career Data Engineer",
+    "url": "https://specialized.wd5.myworkdayjobs.com/Specialized_External_Career_Site/job/United-States-CA-Morgan-Hill-Office/Early-Career-Data-Engineer_R0012117",
+    "company": "Specialized",
+    "first_seen": "2026-11-22"
+  },
+  "wd:req-49083": {
+    "title": "Associate Investment Data Integrity Analyst",
+    "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/MN---Minneapolis/Associate-Investment-Data-Integrity-Analyst_REQ-49083",
+    "company": "Thrivent",
+    "first_seen": "2026-11-22"
+  },
+  "wd:423698": {
+    "title": "Software Engineer",
+    "url": "https://argonne.wd1.myworkdayjobs.com/Argonne_Careers/job/Lemont-IL-USA/Software-Engineer_423698",
+    "company": "Argonne National Laboratory",
+    "first_seen": "2026-11-22"
+  },
+  "wd:r57662-1": {
+    "title": "Junior to Mid-Level Front-End React Engineer",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/UK---Remote/React-Frontend-Engineer_R57662-1",
+    "company": "Trimble",
+    "first_seen": "2026-11-22"
+  },
+  "wd:r0031418": {
+    "title": "Software Engineer 1",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418",
+    "company": "Sierra Nevada Corporation",
     "first_seen": "2026-11-22"
   }
 }
