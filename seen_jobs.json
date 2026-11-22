@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-21T22:12Z"
+    "last_run": "2026-11-22T02:16Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15926,5 +15926,23 @@
     "url": "https://go.vansh.nyc/1Gh",
     "company": "Secureframe",
     "first_seen": "2026-11-21"
+  },
+  "wd:20261527": {
+    "title": "Process Automation Software Engineer - MEMS",
+    "url": "https://lumentum.wd5.myworkdayjobs.com/LITE/job/Canada---Ottawa-Bill-Leathem/Process-Automation-Software-Engineer---MEMS_20261527",
+    "company": "Lumentum",
+    "first_seen": "2026-11-22"
+  },
+  "wd:r-4410": {
+    "title": "Associate Developer - C#/.Net",
+    "url": "https://oldrepublic.wd1.myworkdayjobs.com/oldrepublictitle/job/FL-Orlando-6545-Corporate-Ctr-Blvd/Associate-Developer---C--NET_R-4410",
+    "company": "Old Republic Title",
+    "first_seen": "2026-11-22"
+  },
+  "wd:r-028700": {
+    "title": "Analyst, Data Analytics",
+    "url": "https://wmg.wd1.myworkdayjobs.com/WMGUS/job/USA---Los-Angeles---777-S-Santa-Fe-Ave/Analyst--Automation_R-028700",
+    "company": "Warner Music",
+    "first_seen": "2026-11-22"
   }
 }
