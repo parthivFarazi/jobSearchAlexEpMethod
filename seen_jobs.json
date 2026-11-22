@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-22T17:51Z"
+    "last_run": "2026-11-22T23:39Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15991,6 +15991,42 @@
     "title": "Forward Deployed Engineer",
     "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
     "company": "GrayMatter Robotics",
+    "first_seen": "2026-11-22"
+  },
+  "ashby:d2e3ea5a-a4de-44df-813d-9d5b5039207f": {
+    "title": "Security Engineer",
+    "url": "https://jobs.ashbyhq.com/Roadrunner/d2e3ea5a-a4de-44df-813d-9d5b5039207f",
+    "company": "Roadrunner",
+    "first_seen": "2026-11-22"
+  },
+  "wd:jr-2502471-1": {
+    "title": "Tapeout Biz Products & Engineering New Grad",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Global-Tapeout-and-Mask-Operations--Biz-App-and-Data-Engineer--2026-New-College-Graduate-_JR-2502471-1",
+    "company": "GlobalFoundries",
+    "first_seen": "2026-11-22"
+  },
+  "calyxcontainers.applytojob.com/apply/hhsphztcc2/junior-software-developer-print-packaging": {
+    "title": "Junior Software Developer - Print & Packaging",
+    "url": "https://calyxcontainers.applytojob.com/apply/HHSphZTCc2/Junior-Software-Developer-Print-Packaging",
+    "company": "Calyx Containers",
+    "first_seen": "2026-11-22"
+  },
+  "go.vansh.nyc/1gs": {
+    "title": "New Grad 2027: Software Engineer, Agent",
+    "url": "https://go.vansh.nyc/1Gs",
+    "company": "Sierra",
+    "first_seen": "2026-11-22"
+  },
+  "go.vansh.nyc/1gu": {
+    "title": "New Grad 2027: Forward Deployed Engineer",
+    "url": "https://go.vansh.nyc/1Gu",
+    "company": "Applied Intuition",
+    "first_seen": "2026-11-22"
+  },
+  "go.vansh.nyc/1gw": {
+    "title": "New Grad: Forward Deployed Engineer",
+    "url": "https://go.vansh.nyc/1Gw",
+    "company": "RoadRunner",
     "first_seen": "2026-11-22"
   }
 }
