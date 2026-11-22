@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-22T09:55Z"
+    "last_run": "2026-11-22T17:51Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -15973,6 +15973,24 @@
     "title": "Software Engineer 1",
     "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031418",
     "company": "Sierra Nevada Corporation",
+    "first_seen": "2026-11-22"
+  },
+  "wd:jr115682": {
+    "title": "Data Scientist - AI for Business Functions",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Data-Scientist--AI-for-Business-Functions_JR115682",
+    "company": "Micron Technology",
+    "first_seen": "2026-11-22"
+  },
+  "wd:r015080-1": {
+    "title": "Software Developer Graduate",
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate---UK_R015080-1",
+    "company": "AVEVA",
+    "first_seen": "2026-11-22"
+  },
+  "ashby:7f806a1c-2874-4a0b-a64c-d8e8e87822bf": {
+    "title": "Forward Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/graymatter-robotics/7f806a1c-2874-4a0b-a64c-d8e8e87822bf/application?embed=true",
+    "company": "GrayMatter Robotics",
     "first_seen": "2026-11-22"
   }
 }
