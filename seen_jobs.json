@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-22T23:39Z"
+    "last_run": "2026-11-23T07:44Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16028,5 +16028,35 @@
     "url": "https://go.vansh.nyc/1Gw",
     "company": "RoadRunner",
     "first_seen": "2026-11-22"
+  },
+  "gh:8910846002": {
+    "title": "Associate Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910846002",
+    "company": "Databricks",
+    "first_seen": "2026-11-23"
+  },
+  "gh:8907988002": {
+    "title": "Associate Forward Deployed Engineer",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907988002",
+    "company": "Databricks",
+    "first_seen": "2026-11-23"
+  },
+  "wd:r26393-1": {
+    "title": "Software Engineer 1 - Ground Software",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/Software-Engineer-I---Ground-Software_R26393-1",
+    "company": "Sierra Space",
+    "first_seen": "2026-11-23"
+  },
+  "wd:jr15400": {
+    "title": "Associate Data Engineer",
+    "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Associate-Data-Engineer_JR15400",
+    "company": "DraftKings",
+    "first_seen": "2026-11-23"
+  },
+  "wd:r2876172-1": {
+    "title": "Digital Graduate Program - Product Analyst - Data and AI Engineer",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1",
+    "company": "Sanofi",
+    "first_seen": "2026-11-23"
   }
 }
