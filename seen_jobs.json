@@ -3,7 +3,7 @@
     "seeded": 220,
     "seeded_at": "2026-11-18",
     "baseline_done": true,
-    "last_run": "2026-11-23T07:44Z"
+    "last_run": "2026-11-23T20:16Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16057,6 +16057,84 @@
     "title": "Digital Graduate Program - Product Analyst - Data and AI Engineer",
     "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Toronto-ON/XMLNAME-2027-Digital-Graduate-Program--Product-Analyst--Data-and-AI-Engineer_R2876172-1",
     "company": "Sanofi",
+    "first_seen": "2026-11-23"
+  },
+  "wd:jr368057": {
+    "title": "Talent Advisor, AI Labs",
+    "url": "https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Talent-Advisor--AI-Labs_JR368057",
+    "company": "Salesforce",
+    "first_seen": "2026-11-23"
+  },
+  "gh:8411988": {
+    "title": "Software Engineer, Core Technology",
+    "url": "https://stripe.com/jobs/search?gh_jid=8411988",
+    "company": "Stripe",
+    "first_seen": "2026-11-23"
+  },
+  "gh:8399893": {
+    "title": "Employee Data Analyst (Hybrid Eligible - Costa Rica)",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8399893",
+    "company": "Smartsheet",
+    "first_seen": "2026-11-23"
+  },
+  "gh:8412232": {
+    "title": "Software Engineer II, AI Experience (Remote Eligible)",
+    "url": "https://job-boards.greenhouse.io/smartsheet/jobs/8412232",
+    "company": "Smartsheet",
+    "first_seen": "2026-11-23"
+  },
+  "ashby:93705fde-0daa-49ce-94be-4551d3ac662d": {
+    "title": "Security Engineer",
+    "url": "https://jobs.ashbyhq.com/litellm/93705fde-0daa-49ce-94be-4551d3ac662d",
+    "company": "LiteLLM",
+    "first_seen": "2026-11-23"
+  },
+  "ashby:3c5c84c6-141d-44d2-8f33-8eaaf067c774": {
+    "title": "Security Field Engineer",
+    "url": "https://jobs.ashbyhq.com/modal/3c5c84c6-141d-44d2-8f33-8eaaf067c774",
+    "company": "Modal",
+    "first_seen": "2026-11-23"
+  },
+  "ashby:bfb0a100-8053-440c-ad41-19c978a8b1cb": {
+    "title": "Expert Talent Pool, Physical AI (Associate, 0-5 Years)",
+    "url": "https://jobs.ashbyhq.com/Clera/bfb0a100-8053-440c-ad41-19c978a8b1cb",
+    "company": "Clera",
+    "first_seen": "2026-11-23"
+  },
+  "gh:5044422101": {
+    "title": "Product Engineer",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5044422101",
+    "company": "Proton",
+    "first_seen": "2026-11-23"
+  },
+  "us-erac.icims.com/jobs/595973/job": {
+    "title": "Data Scientist 1",
+    "url": "https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false",
+    "company": "Enterprise Holdings",
+    "first_seen": "2026-11-23"
+  },
+  "wyetech.applytojob.com/apply/xzmg4uglyj/swe-0-software-engineer": {
+    "title": "Software Engineer Level 0 - Full Stack Development",
+    "url": "https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer",
+    "company": "Wyetech",
+    "first_seen": "2026-11-23"
+  },
+  "go.vansh.nyc/1gr": {
+    "title": "New Grad: Software Developer",
+    "url": "https://go.vansh.nyc/1GR",
+    "company": "Quantiq",
+    "first_seen": "2026-11-23"
+  },
+  "idplans1.bamboohr.com/careers/312": {
+    "title": "Field Data Specialist",
+    "url": "https://idplans1.bamboohr.com/careers/312/",
+    "company": "ID Plans",
+    "first_seen": "2026-11-23"
+  },
+  "go.vansh.nyc/1h3": {
+    "title": "Software Developer",
+    "url": "https://go.vansh.nyc/1H3",
+    "company": "Trend Micro",
     "first_seen": "2026-11-23"
   }
 }
