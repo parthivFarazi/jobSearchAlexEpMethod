@@ -3,7 +3,7 @@
     "seeded": 235,
     "seeded_at": "2026-11-24",
     "baseline_done": true,
-    "last_run": "2026-11-24T04:51Z"
+    "last_run": "2026-11-24T15:55Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16354,6 +16354,72 @@
     "title": "Analytics Engineer, Department of Pharmacy",
     "url": "https://go.vansh.nyc/1HG",
     "company": "Duke University",
+    "first_seen": "2026-11-24"
+  },
+  "workable:b90591bee2": {
+    "title": "Computer Systems Analyst 1 - Geospatial - Technical Analyst",
+    "url": "https://apply.workable.com/saalex/j/B90591BEE2/apply",
+    "company": "Saalex",
+    "first_seen": "2026-11-24"
+  },
+  "workable:2d1b9d4a3c": {
+    "title": "Junior Data Integrity Engineer - Avionics Software & Data Analysis",
+    "url": "https://apply.workable.com/saalex/j/2D1B9D4A3C/apply",
+    "company": "Saalex",
+    "first_seen": "2026-11-24"
+  },
+  "ashby:4d39773e-f4c3-49c1-87c3-812a9804fb15": {
+    "title": "AI Platform Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true",
+    "company": "Brain Co.",
+    "first_seen": "2026-11-24"
+  },
+  "gh:8930382002": {
+    "title": "Junior AI and Automation Engineer",
+    "url": "https://boards.greenhouse.io/myriad360/jobs/8930382002",
+    "company": "Myriad360",
+    "first_seen": "2026-11-24"
+  },
+  "workable:2bd3d4f4de": {
+    "title": "Software Engineer 1",
+    "url": "https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply",
+    "company": "Serko",
+    "first_seen": "2026-11-24"
+  },
+  "se.jibeapply.com/jobs/141336": {
+    "title": "Engineer I - Software",
+    "url": "https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us",
+    "company": "Schneider Electric",
+    "first_seen": "2026-11-24"
+  },
+  "gh:5397642008": {
+    "title": "Entry Level Software Engineer",
+    "url": "https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008",
+    "company": "DMC Engineering",
+    "first_seen": "2026-11-24"
+  },
+  "ashby:3804635c-b86b-430f-9314-c9c92c85e6df": {
+    "title": "Data Collection Operator",
+    "url": "https://jobs.ashbyhq.com/genesis/3804635c-b86b-430f-9314-c9c92c85e6df/application?embed=true",
+    "company": "Genesis AI",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1hz": {
+    "title": "Software Test Engineer I",
+    "url": "https://go.vansh.nyc/1HZ",
+    "company": "Iridium Communications",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1i7": {
+    "title": "Software Engineer, Agentic Developer",
+    "url": "https://go.vansh.nyc/1I7",
+    "company": "Pismo",
+    "first_seen": "2026-11-24"
+  },
+  "lever:df8bf76b-2626-4bb2-b4f2-dbefb165228a": {
+    "title": "Production Programmer – Entry Level SQL Developer",
+    "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
+    "company": "Datalab USA",
     "first_seen": "2026-11-24"
   }
 }
