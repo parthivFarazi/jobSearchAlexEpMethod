@@ -3,7 +3,7 @@
     "seeded": 235,
     "seeded_at": "2026-11-24",
     "baseline_done": true,
-    "last_run": "2026-11-23T20:16Z"
+    "last_run": "2026-11-24T04:51Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16241,5 +16241,119 @@
     "company": "Twilio",
     "seeded_from": "2026-11-23_Twilio_SWEI_PlatformEngineering",
     "status": "ready_to_apply"
+  },
+  "ashby:88e821ac-6a98-446e-829e-2188c0e67f64": {
+    "title": "Performance Engineer, Load Testing",
+    "url": "https://jobs.ashbyhq.com/litellm/88e821ac-6a98-446e-829e-2188c0e67f64",
+    "company": "LiteLLM",
+    "first_seen": "2026-11-24"
+  },
+  "workable:d6136d8314": {
+    "title": "R&D Trainee - Full-Stack Engineer - Backend",
+    "url": "https://apply.workable.com/cwill-us/j/D6136D8314/apply",
+    "company": "CWILL",
+    "first_seen": "2026-11-24"
+  },
+  "jobs.smartrecruiters.com/abbvie/3743990017034256": {
+    "title": "AI Engineer",
+    "url": "https://jobs.smartrecruiters.com/AbbVie/3743990017034256",
+    "company": "AbbVie",
+    "first_seen": "2026-11-24"
+  },
+  "ats.rippling.com/saliense/jobs/4bc9e33f-5579-4138-9294-17b43e37d8b4": {
+    "title": "System Security Status Reporting/Metrics Engineer",
+    "url": "https://ats.rippling.com/saliense/jobs/4bc9e33f-5579-4138-9294-17b43e37d8b4",
+    "company": "Saliense",
+    "first_seen": "2026-11-24"
+  },
+  "gh:8944769002": {
+    "title": "Associate Software Engineer",
+    "url": "https://job-boards.greenhouse.io/koddi/jobs/8944769002",
+    "company": "Koddi",
+    "first_seen": "2026-11-24"
+  },
+  "edmn.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/92189": {
+    "title": "Enterprise Data Services Analyst 1",
+    "url": "https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92189",
+    "company": "Caesars Entertainment",
+    "first_seen": "2026-11-24"
+  },
+  "wyetech.applytojob.com/apply/erj5wqf10w/software-engineer-level-1": {
+    "title": "Software Engineer Level 1",
+    "url": "https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1",
+    "company": "Wyetech",
+    "first_seen": "2026-11-24"
+  },
+  "recruiting2.ultipro.com/sor1001sore/jobboard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263/opportunitydetail": {
+    "title": "Software Engineer",
+    "url": "https://recruiting2.ultipro.com/sor1001sore/JobBoard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263/OpportunityDetail?opportunityId=06b49418-36cf-4c00-9ff1-e3e181278d25",
+    "company": "Sorenson",
+    "first_seen": "2026-11-24"
+  },
+  "ejov.fa.ca2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/29509": {
+    "title": "Graduate Developer",
+    "url": "https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509",
+    "company": "GHD",
+    "first_seen": "2026-11-24"
+  },
+  "careers.duke.edu/job/durham-developer-analytics-engineer-department-of-pharmacy-nc-27710/1431149100": {
+    "title": "Analytics Engineer - Department of Pharmacy",
+    "url": "https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Department-of-Pharmacy-NC-27710/1431149100/?ats=successfactors",
+    "company": "Duke University",
+    "first_seen": "2026-11-24"
+  },
+  "ashby:571ff25a-c3ad-44f5-8f35-f4a7944899df": {
+    "title": "Junior Software Developer",
+    "url": "https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df/application?embed=true",
+    "company": "WebAI",
+    "first_seen": "2026-11-24"
+  },
+  "apply.careers.microsoft.com/careers/job/1970393557073425": {
+    "title": "Software Engineer-Securing AI",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557073425",
+    "company": "Microsoft",
+    "first_seen": "2026-11-24"
+  },
+  "gh:8959513002": {
+    "title": "AI/ML Engineer & Applied Researcher - Early Stage Projects",
+    "url": "https://x.company/careers/8959513002?gh_jid=8959513002",
+    "company": "X Development",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1hy": {
+    "title": "New Grad 2027: Research Scientist (Master's)",
+    "url": "https://go.vansh.nyc/1Hy",
+    "company": "Adobe",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1hf": {
+    "title": "Developer",
+    "url": "https://go.vansh.nyc/1HF",
+    "company": "GHD",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1hl": {
+    "title": "New Grad 2027: AI & Analytics Associate",
+    "url": "https://go.vansh.nyc/1HL",
+    "company": "Philips",
+    "first_seen": "2026-11-24"
+  },
+  "idplans1.bamboohr.com/careers/314": {
+    "title": "Field Data Specialist",
+    "url": "https://idplans1.bamboohr.com/careers/314/",
+    "company": "ID Plans",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1hx": {
+    "title": "Software Engineer",
+    "url": "https://go.vansh.nyc/1Hx",
+    "company": "Sorenson",
+    "first_seen": "2026-11-24"
+  },
+  "go.vansh.nyc/1hg": {
+    "title": "Analytics Engineer, Department of Pharmacy",
+    "url": "https://go.vansh.nyc/1HG",
+    "company": "Duke University",
+    "first_seen": "2026-11-24"
   }
 }

@@ -1,34 +1,49 @@
-# Job watcher, new roles, 2026-11-23 20:16 UTC
+# Job watcher, new roles, 2026-11-24 04:51 UTC
 
-## Smartsheet
-- [Software Engineer II, AI Experience (Remote Eligible)](https://job-boards.greenhouse.io/smartsheet/jobs/8412232) ( -REMOTE, USA-). today (+2). yoe 1+
-- [Employee Data Analyst (Hybrid Eligible - Costa Rica)](https://job-boards.greenhouse.io/smartsheet/jobs/8399893) (San Jose, CR). today (+2). yoe 2+/4+
+## Microsoft
+- [Software Engineer-Securing AI](https://apply.careers.microsoft.com/careers/job/1970393557073425) (Redmond, WA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Modal
-- [Security Field Engineer](https://jobs.ashbyhq.com/modal/3c5c84c6-141d-44d2-8f33-8eaaf067c774) (New York). published 2026-11-23 (Ashby original date, not freshness). 
+## X Development
+- [AI/ML Engineer & Applied Researcher - Early Stage Projects](https://x.company/careers/8959513002?gh_jid=8959513002) (Mountain View, CA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Stripe
-- [Software Engineer, Core Technology](https://stripe.com/jobs/search?gh_jid=8411988) (South San Francisco, CA). today (+2). yoe 1+
+## Philips
+- [New Grad 2027: AI & Analytics Associate](https://go.vansh.nyc/1HL) (Nashville, TN). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
 
-## Clera
-- [Expert Talent Pool, Physical AI (Associate, 0-5 Years)](https://jobs.ashbyhq.com/Clera/bfb0a100-8053-440c-ad41-19c978a8b1cb) (remote). published 2026-11-23 (Ashby original date, not freshness). entry-level title; yoe 0+/5+
+## GHD
+- [Developer](https://go.vansh.nyc/1HF) (Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Philadelphia, PA, Rosemont, IL, Chicago, IL, Golden, CO). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
+- [Graduate Developer](https://ejov.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/29509) (Farmington Hills, MI, King of Prussia, PA, Houston, TX, Dallas, TX, Philadelphia, PA, Rosemont, IL, Chicago, IL, Golden, CO). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Quantiq
-- [New Grad: Software Developer](https://go.vansh.nyc/1GR) (Austin, TX). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+## Duke University
+- [Analytics Engineer - Department of Pharmacy](https://careers.duke.edu/job/Durham-Developer-Analytics-Engineer-Department-of-Pharmacy-NC-27710/1431149100/?ats=successfactors) (Durham, NC). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Enterprise Holdings
-- [Data Scientist 1](https://us-erac.icims.com/jobs/595973/job?mobile=true&needsRedirect=false) (St. Louis, MO). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Adobe
+- [New Grad 2027: Research Scientist (Master's)](https://go.vansh.nyc/1Hy) (San Jose, CA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+
+## WebAI
+- [Junior Software Developer](https://jobs.ashbyhq.com/webai/571ff25a-c3ad-44f5-8f35-f4a7944899df/application?embed=true) (Austin, TX). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## Saliense
+- [System Security Status Reporting/Metrics Engineer](https://ats.rippling.com/saliense/jobs/4bc9e33f-5579-4138-9294-17b43e37d8b4) (Tysons, VA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## AbbVie
+- [AI Engineer](https://jobs.smartrecruiters.com/AbbVie/3743990017034256) (North Chicago, IL). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## Caesars Entertainment
+- [Enterprise Data Services Analyst 1](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92189) (Las Vegas, NV). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## Koddi
+- [Associate Software Engineer](https://job-boards.greenhouse.io/koddi/jobs/8944769002) (Fort Worth, TX). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
 
 ## Wyetech
-- [Software Engineer Level 0 - Full Stack Development](https://wyetech.applytojob.com/apply/xzmg4UGLyj/SWE-0-Software-Engineer) (Annapolis Junction, MD). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+- [Software Engineer Level 1](https://wyetech.applytojob.com/apply/Erj5wQF10w/Software-Engineer-Level-1) (Hanover, MD). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Proton
-- [Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5044422101) (London, UK). today (+2). no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
-
-## Salesforce
-- [Talent Advisor, AI Labs](https://salesforce.wd12.myworkdayjobs.com/External_Career_Site/job/California---San-Francisco/Talent-Advisor--AI-Labs_JR368057) (California - San Francisco). 5d (+1). no body, screen manually
+## Sorenson
+- [Software Engineer](https://recruiting2.ultipro.com/sor1001sore/JobBoard/1fe5e40e-4e0c-4b11-86e3-9a8e1f396263/OpportunityDetail?opportunityId=06b49418-36cf-4c00-9ff1-e3e181278d25) (Salt Lake City, UT). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
 ## LiteLLM
-- [Security Engineer](https://jobs.ashbyhq.com/litellm/93705fde-0daa-49ce-94be-4551d3ac662d) (Remote). published 2026-10-31 (Ashby original date, not freshness). 
+- [Performance Engineer, Load Testing](https://jobs.ashbyhq.com/litellm/88e821ac-6a98-446e-829e-2188c0e67f64) (San Francisco). published 2026-11-23 (Ashby original date, not freshness). 
 
-Filter drops this run. no-domain-match=5588, excluded:senior=987, excluded:staff=583, no-entry-signal(big-board)=495, excluded-company=487, excluded:manager=472, excluded:architect=244, excluded:intern=241, too-senior-yoe:3+=238, excluded:sr=236, tracker-category:Hardware=234, too-senior-yoe:5+=214, degree-no-bachelors=193, excluded:lead=147
+## CWILL
+- [R&D Trainee - Full-Stack Engineer - Backend](https://apply.workable.com/cwill-us/j/D6136D8314/apply) (Cary, NC). 41d (-1). no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+Filter drops this run. no-domain-match=5493, excluded:senior=971, excluded:staff=580, no-entry-signal(big-board)=493, excluded:manager=473, excluded-company=462, excluded:architect=241, excluded:sr=236, too-senior-yoe:3+=234, tracker-category:Hardware=234, excluded:intern=223, too-senior-yoe:5+=213, degree-no-bachelors=191, excluded:lead=143
