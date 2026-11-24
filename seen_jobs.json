@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "seeded": 235,
+    "seeded": 239,
     "seeded_at": "2026-11-24",
     "baseline_done": true,
     "last_run": "2026-11-24T15:55Z"
@@ -16421,5 +16421,33 @@
     "url": "https://jobs.lever.co/datalabusa/df8bf76b-2626-4bb2-b4f2-dbefb165228a/apply",
     "company": "Datalab USA",
     "first_seen": "2026-11-24"
+  },
+  "gatech.joinhandshake.com/jobs/12053682": {
+    "title": "2026-11-24_Capgemini_JrAINativeSWE",
+    "url": "https://gatech.joinhandshake.com/jobs/12053682",
+    "company": "Capgemini",
+    "seeded_from": "2026-11-24_Capgemini_JrAINativeSWE",
+    "status": "ready_to_apply"
+  },
+  "gh:8944760002": {
+    "title": "2026-11-24_Koddi_AssocPlatformEngineerCohort",
+    "url": "https://job-boards.greenhouse.io/koddi/jobs/8944760002",
+    "company": "Koddi",
+    "seeded_from": "2026-11-24_Koddi_AssocPlatformEngineerCohort",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12045274": {
+    "title": "2026-11-24_StandardTemplateLabs_SWE_NYC",
+    "url": "https://gatech.joinhandshake.com/jobs/12045274",
+    "company": "StandardTemplateLabs",
+    "seeded_from": "2026-11-24_StandardTemplateLabs_SWE_NYC",
+    "status": "ready_to_apply"
+  },
+  "wd:ref090196w": {
+    "title": "2026-11-24_Visa_AgenticDeveloper_Denver",
+    "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Denver-CO/Software-Engineer--Agentic-Developer_REF090196W",
+    "company": "Visa",
+    "seeded_from": "2026-11-24_Visa_AgenticDeveloper_Denver",
+    "status": "ready_to_apply"
   }
 }
