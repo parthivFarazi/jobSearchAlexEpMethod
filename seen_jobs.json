@@ -1,7 +1,7 @@
 {
   "_meta": {
-    "seeded": 220,
-    "seeded_at": "2026-11-18",
+    "seeded": 224,
+    "seeded_at": "2026-11-24",
     "baseline_done": true,
     "last_run": "2026-11-23T20:16Z"
   },
@@ -16136,5 +16136,33 @@
     "url": "https://go.vansh.nyc/1H3",
     "company": "Trend Micro",
     "first_seen": "2026-11-23"
+  },
+  "emberline.com/careers": {
+    "title": "2026-11-23_Emberline_AgenticSWE_Associate",
+    "url": "https://emberline.com/careers",
+    "company": "Emberline",
+    "seeded_from": "2026-11-23_Emberline_AgenticSWE_Associate",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/11981868": {
+    "title": "2026-11-23_Peerbound_SWE_NewGrad_NYC",
+    "url": "https://gatech.joinhandshake.com/jobs/11981868",
+    "company": "Peerbound",
+    "seeded_from": "2026-11-23_Peerbound_SWE_NewGrad_NYC",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12001404": {
+    "title": "2026-11-23_SalesPatriot_FDE_SF",
+    "url": "https://gatech.joinhandshake.com/jobs/12001404",
+    "company": "SalesPatriot",
+    "seeded_from": "2026-11-23_SalesPatriot_FDE_SF",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/11989776": {
+    "title": "2026-11-23_Waggoner_SWE_Lansing",
+    "url": "https://gatech.joinhandshake.com/jobs/11989776",
+    "company": "Waggoner",
+    "seeded_from": "2026-11-23_Waggoner_SWE_Lansing",
+    "status": "ready_to_apply"
   }
 }
