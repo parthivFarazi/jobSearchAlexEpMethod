@@ -1,6 +1,6 @@
 {
   "_meta": {
-    "seeded": 224,
+    "seeded": 235,
     "seeded_at": "2026-11-24",
     "baseline_done": true,
     "last_run": "2026-11-23T20:16Z"
@@ -16163,6 +16163,83 @@
     "url": "https://gatech.joinhandshake.com/jobs/11989776",
     "company": "Waggoner",
     "seeded_from": "2026-11-23_Waggoner_SWE_Lansing",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/11991729": {
+    "title": "2026-11-23_Arceus_FoundingProductEngineer_SF",
+    "url": "https://gatech.joinhandshake.com/jobs/11991729",
+    "company": "Arceus",
+    "seeded_from": "2026-11-23_Arceus_FoundingProductEngineer_SF",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12001916": {
+    "title": "2026-11-23_Bottomline_AssocInfraAutomationEngineer",
+    "url": "https://gatech.joinhandshake.com/jobs/12001916",
+    "company": "Bottomline",
+    "seeded_from": "2026-11-23_Bottomline_AssocInfraAutomationEngineer",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12017009": {
+    "title": "2026-11-23_DirectSupply_SWE_Milwaukee",
+    "url": "https://gatech.joinhandshake.com/jobs/12017009",
+    "company": "DirectSupply",
+    "seeded_from": "2026-11-23_DirectSupply_SWE_Milwaukee",
+    "status": "ready_to_apply"
+  },
+  "ashby:4bb1a9f1-bbad-4729-bccb-7a17f5601a79": {
+    "title": "2026-11-23_EightSleep_NewGrad_Engineering",
+    "url": "https://jobs.ashbyhq.com/eightsleep/4bb1a9f1-bbad-4729-bccb-7a17f5601a79",
+    "company": "EightSleep",
+    "seeded_from": "2026-11-23_EightSleep_NewGrad_Engineering",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12047032": {
+    "title": "2026-11-23_Fiserv_ProductSupportEngineer_Finxact_Alpharetta",
+    "url": "https://gatech.joinhandshake.com/jobs/12047032",
+    "company": "Fiserv",
+    "seeded_from": "2026-11-23_Fiserv_ProductSupportEngineer_Finxact_Alpharetta",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12047427": {
+    "title": "2026-11-23_GristLabs_SWE_Remote",
+    "url": "https://gatech.joinhandshake.com/jobs/12047427",
+    "company": "GristLabs",
+    "seeded_from": "2026-11-23_GristLabs_SWE_Remote",
+    "status": "ready_to_apply"
+  },
+  "wd:jr2027337": {
+    "title": "2026-11-23_NVIDIA_SWE_DLKernelLibraries_NCG2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
+    "company": "NVIDIA",
+    "seeded_from": "2026-11-23_NVIDIA_SWE_DLKernelLibraries_NCG2027",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12001634": {
+    "title": "2026-11-23_Novacis_AIEngineer",
+    "url": "https://gatech.joinhandshake.com/jobs/12001634",
+    "company": "Novacis",
+    "seeded_from": "2026-11-23_Novacis_AIEngineer",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12047317": {
+    "title": "2026-11-23_SAS_TechSupportEngineer_Rotational",
+    "url": "https://gatech.joinhandshake.com/jobs/12047317",
+    "company": "SAS",
+    "seeded_from": "2026-11-23_SAS_TechSupportEngineer_Rotational",
+    "status": "ready_to_apply"
+  },
+  "gatech.joinhandshake.com/jobs/12047837": {
+    "title": "2026-11-23_Stellantis_SWE_ConnectedVehicleData",
+    "url": "https://gatech.joinhandshake.com/jobs/12047837",
+    "company": "Stellantis",
+    "seeded_from": "2026-11-23_Stellantis_SWE_ConnectedVehicleData",
+    "status": "ready_to_apply"
+  },
+  "gh:8385593": {
+    "title": "2026-11-23_Twilio_SWEI_PlatformEngineering",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8385593",
+    "company": "Twilio",
+    "seeded_from": "2026-11-23_Twilio_SWEI_PlatformEngineering",
     "status": "ready_to_apply"
   }
 }
