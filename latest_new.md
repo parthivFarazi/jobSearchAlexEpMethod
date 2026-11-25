@@ -1,31 +1,50 @@
-# Job watcher, new roles, 2026-11-24 15:55 UTC
+# Job watcher, new roles, 2026-11-25 00:47 UTC
 
-## Pismo
-- [Software Engineer, Agentic Developer](https://go.vansh.nyc/1I7) (Denver, CO). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
+## Ciena
+- [New Grad: Software Engineering](https://go.vansh.nyc/1IC) (Ottawa, Canada). today (+2). entry-level title; no body, screen manually; non-US; via vanshb03 New-Grad tracker
 
-## DMC Engineering
-- [Entry Level Software Engineer](https://job-boards.greenhouse.io/dmcengineering_campus/jobs/5397642008) (Seattle, WA, Chicago, IL). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Rubrik
+- [Software Engineer - Data Protection](https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058) (Palo Alto, CA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Genesis AI
-- [Data Collection Operator](https://jobs.ashbyhq.com/genesis/3804635c-b86b-430f-9314-c9c92c85e6df/application?embed=true) (San Carlos, CA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Eide Bailly
+- [AI Engineer](https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us) (Remote in USA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Schneider Electric
-- [Engineer I - Software](https://se.jibeapply.com/jobs/141336?icims=1&lang=en-us) (Westmont, IL, Chicago, IL). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## American Council on Education
+- [Associate – Data Insights and Policy Analysis](https://recruiting.ultipro.com/AME1073/JobBoard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/OpportunityDetail?opportunityId=f1e43996-efa6-4910-8b46-cef7d4443d1d) (Washington, DC). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Serko
-- [Software Engineer 1](https://apply.workable.com/serko-ltd/j/2BD3D4F4DE/apply) (Seattle, WA). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Consolidated Edison
+- [Associate – Research & Development](https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000518) (NYC | New York, NY). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Iridium Communications
-- [Software Test Engineer I](https://go.vansh.nyc/1HZ) (Chandler, AZ). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+## Amazon
+- [Front-End Engineer](https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us) (Seattle, WA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+- [New Grad 2027: Front-End Engineer](https://go.vansh.nyc/1Iv) (Seattle, WA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
 
-## Myriad360
-- [Junior AI and Automation Engineer](https://boards.greenhouse.io/myriad360/jobs/8930382002) (Remote in USA). 19d (0). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Analog Devices
+- [Associate Engineer, Quality Engineering](https://go.vansh.nyc/1Iw) (Wilmington, MA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
 
-## Brain Co.
-- [AI Platform Engineer New Grad](https://jobs.ashbyhq.com/brainco/4d39773e-f4c3-49c1-87c3-812a9804fb15/application?embed=true) (SF). 34d (-1). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Clera
+- [Founding Engineer, AI Platform](https://jobs.ashbyhq.com/Clera/4818e130-b7b2-41bf-a7e8-38904ac7e960) (San Francisco). published 2026-11-24 (Ashby original date, not freshness). OPT/sponsor language; yoe 2+
 
-## Saalex
-- [Junior Data Integrity Engineer - Avionics Software & Data Analysis](https://apply.workable.com/saalex/j/2D1B9D4A3C/apply) (Patuxent River, MD). 35d (-1). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
-- [Computer Systems Analyst 1 - Geospatial - Technical Analyst](https://apply.workable.com/saalex/j/B90591BEE2/apply) (Camarillo, CA). 51d (-1). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## PayPal
+- [New Grad 2027: Software Engineer](https://go.vansh.nyc/1Io) (San Jose, CA, Chicago, IL, Austin, TX). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
 
-Filter drops this run. no-domain-match=5483, excluded:senior=969, excluded:staff=574, no-entry-signal(big-board)=495, excluded:manager=471, excluded-company=460, excluded:architect=244, excluded:sr=237, too-senior-yoe:3+=232, tracker-category:Hardware=232, excluded:intern=222, too-senior-yoe:5+=212, degree-no-bachelors=188, excluded:lead=140
+## Mintive
+- [Software Engineer](https://jobs.ashbyhq.com/Mintive/43247577-1b4f-45ff-abaf-dbc9c6c38090) (San Mateo, CA, San Francisco, CA). published 2026-11-24 (Ashby original date, not freshness). 
+
+## Stripe
+- [Software Engineer, Experimental Projects](https://stripe.com/jobs/search?gh_jid=8394936) (New York City ). today (+2). yoe 2+
+
+## Proton
+- [Product Engineer - Linux](https://job-boards.eu.greenhouse.io/proton/jobs/5047353101) (London, UK, Barcelona, Spain, Geneva, Switzerland). today (+2). no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
+- [Mobile Product Engineer](https://job-boards.eu.greenhouse.io/proton/jobs/5047490101) (London, UK). today (+2). no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
+
+## ServiceRocket
+- [Associate Service Delivery Engineer](https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8/apply) (Toronto, ON, Canada | Toronto, Canada). today (+2). entry-level title; no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
+
+## JP Morgan Chase
+- [Software Engineer 1 - Multiple Teams](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021) (Newark, DE). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## Howmet Aerospace
+- [AI Engineer](https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703) (Pittsburgh, PA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+Filter drops this run. no-domain-match=5480, excluded:senior=970, excluded:staff=569, no-entry-signal(big-board)=495, excluded:manager=472, excluded-company=463, excluded:architect=243, excluded:sr=239, tracker-category:Hardware=232, too-senior-yoe:3+=227, excluded:intern=221, too-senior-yoe:5+=214, degree-no-bachelors=185, excluded:lead=139

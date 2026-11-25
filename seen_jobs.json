@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-24",
     "baseline_done": true,
-    "last_run": "2026-11-24T15:55Z"
+    "last_run": "2026-11-25T00:47Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16449,5 +16449,125 @@
     "company": "Visa",
     "seeded_from": "2026-11-24_Visa_AgenticDeveloper_Denver",
     "status": "ready_to_apply"
+  },
+  "gh:8394936": {
+    "title": "Software Engineer, Experimental Projects",
+    "url": "https://stripe.com/jobs/search?gh_jid=8394936",
+    "company": "Stripe",
+    "first_seen": "2026-11-25"
+  },
+  "ashby:43247577-1b4f-45ff-abaf-dbc9c6c38090": {
+    "title": "Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Mintive/43247577-1b4f-45ff-abaf-dbc9c6c38090",
+    "company": "Mintive",
+    "first_seen": "2026-11-25"
+  },
+  "ashby:4818e130-b7b2-41bf-a7e8-38904ac7e960": {
+    "title": "Founding Engineer, AI Platform",
+    "url": "https://jobs.ashbyhq.com/Clera/4818e130-b7b2-41bf-a7e8-38904ac7e960",
+    "company": "Clera",
+    "first_seen": "2026-11-25"
+  },
+  "lever:2a00daa6-486e-4d14-8b90-5f78d5645fd8": {
+    "title": "Associate Service Delivery Engineer",
+    "url": "https://jobs.lever.co/servicerocket/2a00daa6-486e-4d14-8b90-5f78d5645fd8/apply",
+    "company": "ServiceRocket",
+    "first_seen": "2026-11-25"
+  },
+  "jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210803021": {
+    "title": "Software Engineer 1 - Multiple Teams",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210803021",
+    "company": "JP Morgan Chase",
+    "first_seen": "2026-11-25"
+  },
+  "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/120703": {
+    "title": "AI Engineer",
+    "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/120703",
+    "company": "Howmet Aerospace",
+    "first_seen": "2026-11-25"
+  },
+  "gh:5047353101": {
+    "title": "Product Engineer - Linux",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047353101",
+    "company": "Proton",
+    "first_seen": "2026-11-25"
+  },
+  "gh:5047490101": {
+    "title": "Mobile Product Engineer",
+    "url": "https://job-boards.eu.greenhouse.io/proton/jobs/5047490101",
+    "company": "Proton",
+    "first_seen": "2026-11-25"
+  },
+  "gh:8314058": {
+    "title": "Software Engineer - Data Protection",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8314058?gh_jid=8314058",
+    "company": "Rubrik",
+    "first_seen": "2026-11-25"
+  },
+  "eidebailly.jibeapply.com/jobs/10092": {
+    "title": "AI Engineer",
+    "url": "https://eidebailly.jibeapply.com/jobs/10092?icims=1&lang=en-us",
+    "company": "Eide Bailly",
+    "first_seen": "2026-11-25"
+  },
+  "recruiting.ultipro.com/ame1073/jobboard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/opportunitydetail": {
+    "title": "Associate – Data Insights and Policy Analysis",
+    "url": "https://recruiting.ultipro.com/AME1073/JobBoard/3ab22f45-0d00-7f95-def8-c8ca6a23d48f/OpportunityDetail?opportunityId=f1e43996-efa6-4910-8b46-cef7d4443d1d",
+    "company": "American Council on Education",
+    "first_seen": "2026-11-25"
+  },
+  "ejcu.fa.us6.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1033/job/1000518": {
+    "title": "Associate – Research & Development",
+    "url": "https://ejcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1033/job/1000518",
+    "company": "Consolidated Edison",
+    "first_seen": "2026-11-25"
+  },
+  "amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us": {
+    "title": "Front-End Engineer",
+    "url": "https://amazon.jobs/en/jobs/10610793/front-end-engineer-2027-us",
+    "company": "Amazon",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1io": {
+    "title": "New Grad 2027: Software Engineer",
+    "url": "https://go.vansh.nyc/1Io",
+    "company": "PayPal",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1iv": {
+    "title": "New Grad 2027: Front-End Engineer",
+    "url": "https://go.vansh.nyc/1Iv",
+    "company": "Amazon",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1iw": {
+    "title": "Associate Engineer, Quality Engineering",
+    "url": "https://go.vansh.nyc/1Iw",
+    "company": "Analog Devices",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1ic": {
+    "title": "New Grad: Software Engineering",
+    "url": "https://go.vansh.nyc/1IC",
+    "company": "Ciena",
+    "first_seen": "2026-11-25"
+  },
+  "careers.garmin.com/jobs/19953": {
+    "title": "Software Engineer 1",
+    "url": "https://careers.garmin.com/jobs/19953?icims=1&lang=en-us",
+    "company": "Garmin",
+    "first_seen": "2026-11-25"
+  },
+  "careers.eidebailly.com/jobs/10092": {
+    "title": "AI Engineer",
+    "url": "https://careers.eidebailly.com/jobs/10092?icims=1&lang=en-us",
+    "company": "Eide Bailly",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1ib": {
+    "title": "Associate, Research & Development",
+    "url": "https://go.vansh.nyc/1IB",
+    "company": "Consolidated Edison",
+    "first_seen": "2026-11-25"
   }
 }
