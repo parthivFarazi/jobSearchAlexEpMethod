@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-25T09:53Z"
+    "last_run": "2026-11-25T19:57Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16736,6 +16736,66 @@
     "title": "Software Engineer",
     "url": "https://go.vansh.nyc/1IT",
     "company": "Deloitte",
+    "first_seen": "2026-11-25"
+  },
+  "ashby:da39db6c-323b-487d-80bb-655eefd22d77": {
+    "title": "Research Engineer, AI Evals",
+    "url": "https://jobs.ashbyhq.com/Clera/da39db6c-323b-487d-80bb-655eefd22d77",
+    "company": "Clera",
+    "first_seen": "2026-11-25"
+  },
+  "ashby:ffd92178-e138-478d-93db-25a8c631873b": {
+    "title": "Research Engineer, Benchmarks",
+    "url": "https://jobs.ashbyhq.com/Clera/ffd92178-e138-478d-93db-25a8c631873b",
+    "company": "Clera",
+    "first_seen": "2026-11-25"
+  },
+  "ashby:c15663b0-8b46-485e-9ee2-0c5d8a04c0b2": {
+    "title": "Research Engineer, Synthetic Data",
+    "url": "https://jobs.ashbyhq.com/Clera/c15663b0-8b46-485e-9ee2-0c5d8a04c0b2",
+    "company": "Clera",
+    "first_seen": "2026-11-25"
+  },
+  "careers.arcfield.com/jobs/8780": {
+    "title": "Software Engineer 1",
+    "url": "https://careers.arcfield.com/jobs/8780?icims=1",
+    "company": "Arcfield",
+    "first_seen": "2026-11-25"
+  },
+  "careers.capgemini.com/job/london-ai-associate/1460717733": {
+    "title": "AI Associate",
+    "url": "https://careers.capgemini.com/job/London-AI-Associate/1460717733/?ats=successfactors",
+    "company": "Capgemini",
+    "first_seen": "2026-11-25"
+  },
+  "careers.capgemini.com/job/london-ai-engineer/1460584633": {
+    "title": "AI Engineer",
+    "url": "https://careers.capgemini.com/job/London-AI-Engineer/1460584633/?ats=successfactors",
+    "company": "Capgemini",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1j6": {
+    "title": "Software Engineer II (Master's)",
+    "url": "https://go.vansh.nyc/1J6",
+    "company": "Applied Materials",
+    "first_seen": "2026-11-25"
+  },
+  "go.vansh.nyc/1ji": {
+    "title": "New Grad: Engineering",
+    "url": "https://go.vansh.nyc/1Ji",
+    "company": "Eight Sleep",
+    "first_seen": "2026-11-25"
+  },
+  "careers.capgemini.com/job/london-ai-associate/1460719933": {
+    "title": "AI Associate",
+    "url": "https://careers.capgemini.com/job/London-AI-Associate/1460719933/?ats=successfactors",
+    "company": "Capgemini",
+    "first_seen": "2026-11-25"
+  },
+  "careers.capgemini.com/job/london-ai-associate/1460648933": {
+    "title": "AI Associate",
+    "url": "https://careers.capgemini.com/job/London-AI-Associate/1460648933/?ats=successfactors",
+    "company": "Capgemini",
     "first_seen": "2026-11-25"
   }
 }
