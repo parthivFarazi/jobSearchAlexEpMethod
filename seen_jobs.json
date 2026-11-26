@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-26T02:53Z"
+    "last_run": "2026-11-26T12:40Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16904,6 +16904,66 @@
     "title": "Junior Software Developer",
     "url": "https://go.vansh.nyc/1JU",
     "company": "WELLSTAR Technologies",
+    "first_seen": "2026-11-26"
+  },
+  "lever:cd0482f6-a482-4f56-abad-c6dc2fe40b4c": {
+    "title": "Aprio PH - Associate, CAAS | Back Office Solutions",
+    "url": "https://jobs.lever.co/Aprio/cd0482f6-a482-4f56-abad-c6dc2fe40b4c",
+    "company": "Aprio",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:ad3dd69f-f568-4a7c-abbf-280424bc63ed": {
+    "title": "AI Engineer New Grad - AI/ML and Agent Harnessing",
+    "url": "https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true",
+    "company": "Scout AI",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:7da1991b-f264-4465-8747-8cc5421a9897": {
+    "title": "Software Engineer New Grad - Core Systems",
+    "url": "https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true",
+    "company": "Scout AI",
+    "first_seen": "2026-11-26"
+  },
+  "wd:034518": {
+    "title": "Data Analyst - Business Analytics",
+    "url": "https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analyst---Missouri-Business-Analytics-_034518",
+    "company": "Ameren",
+    "first_seen": "2026-11-26"
+  },
+  "careers.cisco.com/global/en/job/2030715": {
+    "title": "Software Engineer",
+    "url": "https://careers.cisco.com/global/en/job/2030715",
+    "company": "Cisco",
+    "first_seen": "2026-11-26"
+  },
+  "gh:4717510006": {
+    "title": "Data Analyst",
+    "url": "https://job-boards.greenhouse.io/recidiviz/jobs/4717510006",
+    "company": "Recidiviz",
+    "first_seen": "2026-11-26"
+  },
+  "k1im.applytojob.com/apply/7yvsobit1i/ai-engineer": {
+    "title": "AI Engineer",
+    "url": "https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer",
+    "company": "K1",
+    "first_seen": "2026-11-26"
+  },
+  "lever:275c499e-b870-4465-91ed-1c852eae564c": {
+    "title": "Data Collection Operator",
+    "url": "https://jobs.lever.co/weloglobal/275c499e-b870-4465-91ed-1c852eae564c/apply",
+    "company": "Welo Global",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1kc": {
+    "title": "New Grad 2027: Engineer Evolve Services Rotation Program",
+    "url": "https://go.vansh.nyc/1Kc",
+    "company": "Apple",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1ka": {
+    "title": "Data Analyst, Business Analytics",
+    "url": "https://go.vansh.nyc/1Ka",
+    "company": "Ameren",
     "first_seen": "2026-11-26"
   }
 }
