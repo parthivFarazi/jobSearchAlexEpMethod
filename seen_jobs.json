@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-25T19:57Z"
+    "last_run": "2026-11-26T02:53Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16797,5 +16797,113 @@
     "url": "https://careers.capgemini.com/job/London-AI-Associate/1460648933/?ats=successfactors",
     "company": "Capgemini",
     "first_seen": "2026-11-25"
+  },
+  "gh:8942144002": {
+    "title": "Data Engineer",
+    "url": "https://job-boards.greenhouse.io/discord/jobs/8942144002",
+    "company": "Discord",
+    "first_seen": "2026-11-26"
+  },
+  "wd:r2912": {
+    "title": "Junior Software Development Engineer - Web",
+    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912",
+    "company": "Sonos",
+    "first_seen": "2026-11-26"
+  },
+  "mantech.avature.net/en_us/careers/jobdetail/67285": {
+    "title": "Junior Data Analyst",
+    "url": "https://mantech.avature.net/en_US/careers/JobDetail/67285",
+    "company": "ManTech",
+    "first_seen": "2026-11-26"
+  },
+  "gh:8209363003": {
+    "title": "Associate Software Engineer",
+    "url": "https://job-boards.greenhouse.io/vestwell/jobs/8209363003",
+    "company": "Vestwell",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:8b4ff118-444c-425a-b33b-f38d8338d87c": {
+    "title": "Early Career Software Engineer - Developer Experience",
+    "url": "https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true",
+    "company": "Parallel Web Systems",
+    "first_seen": "2026-11-26"
+  },
+  "lever:8a3408a8-6909-4b66-92c1-98a5c80ba0a9": {
+    "title": "Data Engineer",
+    "url": "https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply",
+    "company": "Bluesight",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:50e51501-4421-496f-95ea-c793aed3bd51": {
+    "title": "Software Engineer New Grad",
+    "url": "https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51/application?embed=true",
+    "company": "CodeRabbit",
+    "first_seen": "2026-11-26"
+  },
+  "gh:8962912002": {
+    "title": "Software Engineer New Grad - Computing Platform",
+    "url": "https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002",
+    "company": "XPENG Motors",
+    "first_seen": "2026-11-26"
+  },
+  "wellhealthtechnologiescorp.applytojob.com/apply/urnvv0s4yq/junior-software-developer": {
+    "title": "Junior Software Developer",
+    "url": "https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer",
+    "company": "WELLSTAR Technologies",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1jt": {
+    "title": "New Grad: Software Engineer - Computing Platform",
+    "url": "https://go.vansh.nyc/1Jt",
+    "company": "XPENG Motors",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1jh": {
+    "title": "Software Engineer - Developer Experience",
+    "url": "https://go.vansh.nyc/1JH",
+    "company": "Parallel Web Systems",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1js": {
+    "title": "New Grad: Software Engineer",
+    "url": "https://go.vansh.nyc/1JS",
+    "company": "CodeRabbit",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1jw": {
+    "title": "Machine Learning Researcher (Master's)",
+    "url": "https://go.vansh.nyc/1JW",
+    "company": "Ayo Semiconductor",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1jx": {
+    "title": "Machine Learning Engineer (Master's)",
+    "url": "https://go.vansh.nyc/1JX",
+    "company": "Ayo Semiconductor",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1k3": {
+    "title": "New Grad 2027: AI Engineer, AI/ML and Agent Harnessing",
+    "url": "https://go.vansh.nyc/1K3",
+    "company": "Scout AI",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1k4": {
+    "title": "New Grad 2027: Software Engineer, Core Systems",
+    "url": "https://go.vansh.nyc/1K4",
+    "company": "Scout AI",
+    "first_seen": "2026-11-26"
+  },
+  "wellhealthtechnologiescorp.applytojob.com/apply/5kq5ce1n76/junior-software-developer": {
+    "title": "Junior Software Developer",
+    "url": "https://wellhealthtechnologiescorp.applytojob.com/apply/5kq5CE1n76/Junior-Software-Developer",
+    "company": "WELLSTAR Technologies",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1ju": {
+    "title": "Junior Software Developer",
+    "url": "https://go.vansh.nyc/1JU",
+    "company": "WELLSTAR Technologies",
+    "first_seen": "2026-11-26"
   }
 }

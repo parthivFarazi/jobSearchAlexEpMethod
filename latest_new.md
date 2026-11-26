@@ -1,21 +1,41 @@
-# Job watcher, new roles, 2026-11-25 19:57 UTC
+# Job watcher, new roles, 2026-11-26 02:53 UTC
 
-## Eight Sleep
-- [New Grad: Engineering](https://go.vansh.nyc/1Ji) (New York, NY). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+## Scout AI
+- [New Grad 2027: AI Engineer, AI/ML and Agent Harnessing](https://go.vansh.nyc/1K3) (Sunnyvale, CA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+- [New Grad 2027: Software Engineer, Core Systems](https://go.vansh.nyc/1K4) (Sunnyvale, CA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
 
-## Clera
-- [Research Engineer, Benchmarks](https://jobs.ashbyhq.com/Clera/ffd92178-e138-478d-93db-25a8c631873b) (Singapore). published 2026-11-25 (Ashby original date, not freshness). OPT/sponsor language; yoe 2+/4+; non-US
-- [Research Engineer, Synthetic Data](https://jobs.ashbyhq.com/Clera/c15663b0-8b46-485e-9ee2-0c5d8a04c0b2) (Singapore). published 2026-11-25 (Ashby original date, not freshness). OPT/sponsor language; yoe 2+; non-US
-- [Research Engineer, AI Evals](https://jobs.ashbyhq.com/Clera/da39db6c-323b-487d-80bb-655eefd22d77) (Palo Alto). published 2026-11-25 (Ashby original date, not freshness). OPT/sponsor language; yoe 0+/3+
+## Discord
+- [Data Engineer](https://job-boards.greenhouse.io/discord/jobs/8942144002) (San Francisco Bay Area). today (+2). yoe 2+
 
-## Capgemini
-- [AI Associate](https://careers.capgemini.com/job/London-AI-Associate/1460717733/?ats=successfactors) (London, UK). today (+2). entry-level title; no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
-- [AI Engineer](https://careers.capgemini.com/job/London-AI-Engineer/1460584633/?ats=successfactors) (London, UK). today (+2). no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
+## CodeRabbit
+- [New Grad: Software Engineer](https://go.vansh.nyc/1JS) (San Francisco, CA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+- [Software Engineer New Grad](https://jobs.ashbyhq.com/coderabbit/50e51501-4421-496f-95ea-c793aed3bd51/application?embed=true) (SF). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-## Applied Materials
-- [Software Engineer II (Master's)](https://go.vansh.nyc/1J6) (Chandler, AZ). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
+## Ayo Semiconductor
+- [Machine Learning Researcher (Master's)](https://go.vansh.nyc/1JW) (Boston, MA). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
+- [Machine Learning Engineer (Master's)](https://go.vansh.nyc/1JX) (Boston, MA). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
 
-## Arcfield
-- [Software Engineer 1](https://careers.arcfield.com/jobs/8780?icims=1) (Rome, NY). 41d (-1). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Parallel Web Systems
+- [Software Engineer - Developer Experience](https://go.vansh.nyc/1JH) (Palo Alto, CA, San Francisco, CA, New York, NY). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
+- [Early Career Software Engineer - Developer Experience](https://jobs.ashbyhq.com/parallel/8b4ff118-444c-425a-b33b-f38d8338d87c/application?embed=true) (Palo Alto, CA, SF, NYC). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
 
-Filter drops this run. no-domain-match=5461, excluded:senior=960, excluded:staff=564, no-entry-signal(big-board)=495, excluded:manager=469, excluded-company=458, excluded:architect=244, excluded:sr=237, tracker-category:Hardware=233, too-senior-yoe:3+=228, excluded:intern=219, too-senior-yoe:5+=214, degree-no-bachelors=186, excluded:lead=140
+## XPENG Motors
+- [Software Engineer New Grad - Computing Platform](https://job-boards.greenhouse.io/xpengmotors/jobs/8962912002) (Santa Clara, CA). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+- [New Grad: Software Engineer - Computing Platform](https://go.vansh.nyc/1Jt) (Santa Clara, CA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+
+## WELLSTAR Technologies
+- [Junior Software Developer](https://wellhealthtechnologiescorp.applytojob.com/apply/URnVV0S4yQ/Junior-Software-Developer) (Remote in Canada | Remote, Canada). today (+2). entry-level title; no body, screen manually; non-US; via SimplifyJobs New-Grad-Positions
+
+## Sonos
+- [Junior Software Development Engineer - Web](https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Junior-Software-Development-Engineer--Web_R2912) (Boston, MA, Seattle, WA). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## Vestwell
+- [Associate Software Engineer](https://job-boards.greenhouse.io/vestwell/jobs/8209363003) (King of Prussia, PA, Austin, TX, Scottsdale, AZ, NYC). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## ManTech
+- [Junior Data Analyst](https://mantech.avature.net/en_US/careers/JobDetail/67285) (Ashburn, VA). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+## Bluesight
+- [Data Engineer](https://jobs.lever.co/bluesight/8a3408a8-6909-4b66-92c1-98a5c80ba0a9/apply) (Remote in USA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+
+Filter drops this run. no-domain-match=5460, excluded:senior=960, excluded:staff=564, no-entry-signal(big-board)=495, excluded:manager=468, excluded-company=457, excluded:architect=244, excluded:sr=236, tracker-category:Hardware=233, too-senior-yoe:3+=226, excluded:intern=219, too-senior-yoe:5+=213, degree-no-bachelors=189, excluded:lead=140
