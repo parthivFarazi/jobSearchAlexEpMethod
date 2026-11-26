@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-26T12:40Z"
+    "last_run": "2026-11-26T22:23Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -16964,6 +16964,48 @@
     "title": "Data Analyst, Business Analytics",
     "url": "https://go.vansh.nyc/1Ka",
     "company": "Ameren",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:8c2b0e2e-8dd2-4495-afaa-df2b97918f07": {
+    "title": "Founding Engineer",
+    "url": "https://jobs.ashbyhq.com/Clera/8c2b0e2e-8dd2-4495-afaa-df2b97918f07",
+    "company": "Clera",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:0ed8d996-10e3-4d70-a76b-d779eb9337d9": {
+    "title": "Talent AI Operator",
+    "url": "https://jobs.ashbyhq.com/Clera/0ed8d996-10e3-4d70-a76b-d779eb9337d9",
+    "company": "Clera",
+    "first_seen": "2026-11-26"
+  },
+  "ashby:d905d8d7-569f-44a2-954f-a593d819fe33": {
+    "title": "Research Engineer, Privacy and Anonymization",
+    "url": "https://jobs.ashbyhq.com/Clera/d905d8d7-569f-44a2-954f-a593d819fe33",
+    "company": "Clera",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1kq": {
+    "title": "Machine Learning Engineer - RL & Optimization (Master's)",
+    "url": "https://go.vansh.nyc/1Kq",
+    "company": "Keysight Technologies",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1ks": {
+    "title": "New Grad 2027: Technology Development Program - Software Engineering, Identity & Risk Technology",
+    "url": "https://go.vansh.nyc/1Ks",
+    "company": "Manufacturers and Traders Trust",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1kt": {
+    "title": "GenAI Engineer (Python)",
+    "url": "https://go.vansh.nyc/1Kt",
+    "company": "Evolver",
+    "first_seen": "2026-11-26"
+  },
+  "go.vansh.nyc/1kr": {
+    "title": "Machine Learning Engineer, RL & Optimization (Master's)",
+    "url": "https://go.vansh.nyc/1Kr",
+    "company": "Keysight Technologies",
     "first_seen": "2026-11-26"
   }
 }

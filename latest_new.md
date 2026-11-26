@@ -1,28 +1,17 @@
-# Job watcher, new roles, 2026-11-26 12:40 UTC
+# Job watcher, new roles, 2026-11-26 22:23 UTC
 
-## Welo Global
-- [Data Collection Operator](https://jobs.lever.co/weloglobal/275c499e-b870-4465-91ed-1c852eae564c/apply) (Santa Clara, CA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Manufacturers and Traders Trust
+- [New Grad 2027: Technology Development Program - Software Engineering, Identity & Risk Technology](https://go.vansh.nyc/1Ks) (Buffalo, NY). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
 
-## K1
-- [AI Engineer](https://k1im.applytojob.com/apply/7yVsObIt1i/AI-Engineer) (Manhattan Beach, CA). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Evolver
+- [GenAI Engineer (Python)](https://go.vansh.nyc/1Kt) (Palo Alto, CA). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
 
-## Recidiviz
-- [Data Analyst](https://job-boards.greenhouse.io/recidiviz/jobs/4717510006) (Oakland, CA, Remote in USA, NYC). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
+## Keysight Technologies
+- [Machine Learning Engineer - RL & Optimization (Master's)](https://go.vansh.nyc/1Kq) (Bldg, CA | Santa Rosa, CA). today (+2). no body, screen manually; via vanshb03 New-Grad tracker
 
-## Apple
-- [New Grad 2027: Engineer Evolve Services Rotation Program](https://go.vansh.nyc/1Kc) (Cupertino, CA, New York, NY, Seattle, WA). today (+2). entry-level title; no body, screen manually; via vanshb03 New-Grad tracker
+## Clera
+- [Research Engineer, Privacy and Anonymization](https://jobs.ashbyhq.com/Clera/d905d8d7-569f-44a2-954f-a593d819fe33) (Singapore). published 2026-11-26 (Ashby original date, not freshness). OPT/sponsor language; yoe 2+; non-US
+- [Talent AI Operator](https://jobs.ashbyhq.com/Clera/0ed8d996-10e3-4d70-a76b-d779eb9337d9) (San Francisco). published 2026-11-26 (Ashby original date, not freshness). yoe 2+
+- [Founding Engineer](https://jobs.ashbyhq.com/Clera/8c2b0e2e-8dd2-4495-afaa-df2b97918f07) (San Francisco). published 2026-11-26 (Ashby original date, not freshness). yoe 1+/2+
 
-## Cisco
-- [Software Engineer](https://careers.cisco.com/global/en/job/2030715) (Research Triangle Park, Durham, NC). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
-
-## Aprio
-- [Aprio PH - Associate, CAAS | Back Office Solutions](https://jobs.lever.co/Aprio/cd0482f6-a482-4f56-abad-c6dc2fe40b4c) (Clark, Pampanga). today (+2). entry-level title
-
-## Ameren
-- [Data Analyst - Business Analytics](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Data-Analyst---Missouri-Business-Analytics-_034518) (St. Louis, MO). today (+2). no body, screen manually; via SimplifyJobs New-Grad-Positions
-
-## Scout AI
-- [AI Engineer New Grad - AI/ML and Agent Harnessing](https://jobs.ashbyhq.com/scout-ai/ad3dd69f-f568-4a7c-abbf-280424bc63ed/application?embed=true) (Sunnyvale, CA). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
-- [Software Engineer New Grad - Core Systems](https://jobs.ashbyhq.com/scout-ai/7da1991b-f264-4465-8747-8cc5421a9897/application?embed=true) (Sunnyvale, CA). today (+2). entry-level title; no body, screen manually; via SimplifyJobs New-Grad-Positions
-
-Filter drops this run. no-domain-match=5463, excluded:senior=964, excluded:staff=563, no-entry-signal(big-board)=496, excluded:manager=469, excluded-company=456, excluded:architect=247, excluded:sr=236, tracker-category:Hardware=234, too-senior-yoe:3+=230, excluded:intern=220, too-senior-yoe:5+=213, degree-no-bachelors=189, excluded:lead=140
+Filter drops this run. no-domain-match=5469, excluded:senior=965, excluded:staff=564, no-entry-signal(big-board)=493, excluded:manager=468, excluded-company=443, excluded:architect=248, excluded:sr=236, tracker-category:Hardware=234, too-senior-yoe:3+=226, excluded:intern=220, too-senior-yoe:5+=210, degree-no-bachelors=188, excluded:lead=139
