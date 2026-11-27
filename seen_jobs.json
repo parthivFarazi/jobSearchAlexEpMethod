@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-26T22:23Z"
+    "last_run": "2026-11-27T05:05Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -17007,5 +17007,47 @@
     "url": "https://go.vansh.nyc/1Kr",
     "company": "Keysight Technologies",
     "first_seen": "2026-11-26"
+  },
+  "terrasense.bamboohr.com/careers/105": {
+    "title": "Data Labeler 1",
+    "url": "https://terrasense.bamboohr.com/careers/105/",
+    "company": "TerraSense Analytics",
+    "first_seen": "2026-11-27"
+  },
+  "mogo.applytojob.com/apply/ylhcvciypq/junior-full-stack-ai-engineer": {
+    "title": "Junior Full Stack AI Engineer",
+    "url": "https://mogo.applytojob.com/apply/yLhCvCiypq/Junior-Full-Stack-AI-Engineer",
+    "company": "Orion Digital",
+    "first_seen": "2026-11-27"
+  },
+  "synecsolu.applytojob.com/apply/kqt1oasgdg/software-engineer-i": {
+    "title": "Software Engineer 1",
+    "url": "https://synecsolu.applytojob.com/apply/kQT1OASGDG/Software-Engineer-I",
+    "company": "Synectic Solutions",
+    "first_seen": "2026-11-27"
+  },
+  "go.vansh.nyc/1kk": {
+    "title": "Software Developer I",
+    "url": "https://go.vansh.nyc/1KK",
+    "company": "Cisco",
+    "first_seen": "2026-11-27"
+  },
+  "go.vansh.nyc/1kl": {
+    "title": "Software Analyst",
+    "url": "https://go.vansh.nyc/1KL",
+    "company": "Hitachi",
+    "first_seen": "2026-11-27"
+  },
+  "wd:10332851": {
+    "title": "Software Engineer",
+    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10332851",
+    "company": "Toyota",
+    "first_seen": "2026-11-27"
+  },
+  "wd:10325070": {
+    "title": "Software Engineer",
+    "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070",
+    "company": "Toyota",
+    "first_seen": "2026-11-27"
   }
 }
