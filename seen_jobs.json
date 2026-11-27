@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-27T15:09Z"
+    "last_run": "2026-11-27T23:29Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -17096,6 +17096,54 @@
     "title": "New Grad 2027: AI Product & Business Associate",
     "url": "https://go.vansh.nyc/1Lo",
     "company": "LSEG",
+    "first_seen": "2026-11-27"
+  },
+  "gh:8421434": {
+    "title": "Software Engineer",
+    "url": "https://stripe.com/jobs/search?gh_jid=8421434",
+    "company": "Stripe",
+    "first_seen": "2026-11-27"
+  },
+  "ashby:07a04ecf-0fb6-4423-9fa9-95de3b3eea6f": {
+    "title": "Founding AI / Backend Engineer",
+    "url": "https://jobs.ashbyhq.com/Clera/07a04ecf-0fb6-4423-9fa9-95de3b3eea6f",
+    "company": "Clera",
+    "first_seen": "2026-11-27"
+  },
+  "ashby:30ae618c-42b8-43a4-b363-b9c232793264": {
+    "title": "Founding Security Software Engineer",
+    "url": "https://jobs.ashbyhq.com/Clera/30ae618c-42b8-43a4-b363-b9c232793264",
+    "company": "Clera",
+    "first_seen": "2026-11-27"
+  },
+  "ashby:fcfac520-17fb-4939-aabe-e85a0041f6d4": {
+    "title": "Mid-Level Product Engineer",
+    "url": "https://jobs.ashbyhq.com/Clera/fcfac520-17fb-4939-aabe-e85a0041f6d4",
+    "company": "Clera",
+    "first_seen": "2026-11-27"
+  },
+  "ashby:e184cb2e-8a13-4335-a948-e9bbe6e8d78f": {
+    "title": "Founding Engineer, Inference",
+    "url": "https://jobs.ashbyhq.com/Clera/e184cb2e-8a13-4335-a948-e9bbe6e8d78f",
+    "company": "Clera",
+    "first_seen": "2026-11-27"
+  },
+  "workable:0f641629ec": {
+    "title": "Field Researcher",
+    "url": "https://apply.workable.com/intetics-2/j/0F641629EC/apply",
+    "company": "Intetics",
+    "first_seen": "2026-11-27"
+  },
+  "tesco.avature.net/en_gb/careers/jobdetail/218753": {
+    "title": "Software Development Engineer 1",
+    "url": "https://tesco.avature.net/en_GB/careers/JobDetail/218753",
+    "company": "Tesco",
+    "first_seen": "2026-11-27"
+  },
+  "go.vansh.nyc/1lx": {
+    "title": "AI Engineer/Data Scientist",
+    "url": "https://go.vansh.nyc/1Lx",
+    "company": "Applied Materials",
     "first_seen": "2026-11-27"
   }
 }
