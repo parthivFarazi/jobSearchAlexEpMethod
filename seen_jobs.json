@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-27T05:05Z"
+    "last_run": "2026-11-27T15:09Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -17048,6 +17048,54 @@
     "title": "Software Engineer",
     "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/Software-Engineer_10325070",
     "company": "Toyota",
+    "first_seen": "2026-11-27"
+  },
+  "lever:3be1cbcf-1ab4-4309-a764-2c336d1f7f37": {
+    "title": "Intelligence Center X Engineer",
+    "url": "https://jobs.lever.co/mendix/3be1cbcf-1ab4-4309-a764-2c336d1f7f37/apply",
+    "company": "Mendix",
+    "first_seen": "2026-11-27"
+  },
+  "gh:4918549008": {
+    "title": "Junior Software Engineer",
+    "url": "https://job-boards.greenhouse.io/appodeal/jobs/4918549008",
+    "company": "Appodeal",
+    "first_seen": "2026-11-27"
+  },
+  "wd:r2227": {
+    "title": "Entry-Level Software Engineer",
+    "url": "https://starfish.wd501.myworkdayjobs.com/Careers/job/Huntsville-AL/Entry--Level-Software-Engineer_R2227",
+    "company": "Torch Technologies",
+    "first_seen": "2026-11-27"
+  },
+  "gh:8421835002": {
+    "title": "AI Applied Engineer",
+    "url": "https://job-boards.greenhouse.io/artefact/jobs/8421835002",
+    "company": "Artefact",
+    "first_seen": "2026-11-27"
+  },
+  "ashby:66203527-9373-4664-93d0-fa3078d7ca92": {
+    "title": "Forward-Deployed Engineer",
+    "url": "https://jobs.ashbyhq.com/zeit-ai/66203527-9373-4664-93d0-fa3078d7ca92/application?embed=true",
+    "company": "Zeit AI (YC S24)",
+    "first_seen": "2026-11-27"
+  },
+  "go.vansh.nyc/1lm": {
+    "title": "New Grad 2027: Technology Development Program - Software Engineering (Commercial Application Development)",
+    "url": "https://go.vansh.nyc/1Lm",
+    "company": "M&T Bank",
+    "first_seen": "2026-11-27"
+  },
+  "go.vansh.nyc/1ln": {
+    "title": "New Grad 2027: Technology Development Program - Software Engineering (AI & Engineering Platforms)",
+    "url": "https://go.vansh.nyc/1Ln",
+    "company": "M&T Bank",
+    "first_seen": "2026-11-27"
+  },
+  "go.vansh.nyc/1lo": {
+    "title": "New Grad 2027: AI Product & Business Associate",
+    "url": "https://go.vansh.nyc/1Lo",
+    "company": "LSEG",
     "first_seen": "2026-11-27"
   }
 }
