@@ -3,7 +3,7 @@
     "seeded": 239,
     "seeded_at": "2026-11-25",
     "baseline_done": true,
-    "last_run": "2026-11-27T23:29Z"
+    "last_run": "2026-11-28T07:53Z"
   },
   "jobs.ashbyhq.com/rox-data-corp": {
     "title": "2026-05-27_Rox_ProductEngineer",
@@ -17145,5 +17145,371 @@
     "url": "https://go.vansh.nyc/1Lx",
     "company": "Applied Materials",
     "first_seen": "2026-11-27"
+  },
+  "wd:587083": {
+    "title": "AI & Analytics Associate - Graduate Development Program",
+    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Full-Time--Graduate-Development-Program-AI---Analytics-Associate-Nashville--TN-or-Cambridge--MA-2026_587083",
+    "company": "Philips",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr109692": {
+    "title": "Software Engineer New Grad",
+    "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/New-College-Grad---Software-Engineer_JR109692",
+    "company": "Micron Technology",
+    "first_seen": "2026-11-28"
+  },
+  "wd:26989233": {
+    "title": "Junior Software Engineer - Generative AI Platforms",
+    "url": "https://citi.wd5.myworkdayjobs.com/2/job/London--United-Kingdom/Junior-Software-Engineer---Generative-AI-Platforms_26989233",
+    "company": "Citi",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r-10403880": {
+    "title": "Android Application Framework Developer - Device Engineering",
+    "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880",
+    "company": "Fiserv",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr-2606083": {
+    "title": "AI Enabled Device Modeling",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/AI-Enabled-Device-Modeling_JR-2606083",
+    "company": "GlobalFoundries",
+    "first_seen": "2026-11-28"
+  },
+  "wd:4966818": {
+    "title": "Associate AI Engineering",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/internaljobs/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818",
+    "company": "Pfizer",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0175096": {
+    "title": "Junior Data Engineer",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-VA-Springfield/Jr-Data-Engineer_R0175096",
+    "company": "Amentum",
+    "first_seen": "2026-11-28"
+  },
+  "ashby:dbc687b2-16f8-4c00-83f4-1f71fdac2238": {
+    "title": "Machine Learning Graduate - Futurevoices",
+    "url": "https://jobs.ashbyhq.com/speechmatics/dbc687b2-16f8-4c00-83f4-1f71fdac2238/application?embed=true",
+    "company": "Speechmatics",
+    "first_seen": "2026-11-28"
+  },
+  "ashby:143905a5-77ff-4e57-828f-6c1181b042b1": {
+    "title": "Machine Learning Graduate",
+    "url": "https://jobs.ashbyhq.com/speechmatics/143905a5-77ff-4e57-828f-6c1181b042b1/application?embed=true",
+    "company": "Speechmatics",
+    "first_seen": "2026-11-28"
+  },
+  "workable:e300ae4f78": {
+    "title": "Associate Software Engineer",
+    "url": "https://apply.workable.com/hirehawk/j/E300AE4F78/apply",
+    "company": "HireHawk",
+    "first_seen": "2026-11-28"
+  },
+  "ashby:72ab70ec-fd98-44e5-97fc-a18588c88a04": {
+    "title": "Graduate Machine Learning Engineer",
+    "url": "https://jobs.ashbyhq.com/algo1/72ab70ec-fd98-44e5-97fc-a18588c88a04/application?embed=true",
+    "company": "algo1",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r3001308": {
+    "title": "Software Engineer 1",
+    "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Huntsville-Alabama/Software-Engineer_R3001308",
+    "company": "Trinzic",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r3000437": {
+    "title": "Junior Software Engineer",
+    "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R3000437",
+    "company": "Trinzic",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r20951": {
+    "title": "Technology Data Graduate",
+    "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/Stirling/Technology-Data-Graduate--Stirling-_R20951",
+    "company": "M&G",
+    "first_seen": "2026-11-28"
+  },
+  "wd:332351-1": {
+    "title": "Associate AI Solutions & Enablement",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Dallas-TX/Associate--AI-Solutions---Enablement_332351-1",
+    "company": "S&P Global",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0159213": {
+    "title": "Edge Software Engineer",
+    "url": "https://ncr.wd1.myworkdayjobs.com/ext_non_us/job/BATH-GBR/Edge-Software-Engineer_R0159213",
+    "company": "NCR Voyix",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr26110981": {
+    "title": "Associate Data Scientist",
+    "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Associate-Data-Scientist_JR26110981",
+    "company": "Manulife Financial",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r-15401-1": {
+    "title": "Master Data Administrator",
+    "url": "https://dssmith.wd3.myworkdayjobs.com/careers/job/Caerphilly/Master-Data-Administrator_R-15401-1",
+    "company": "DS Smith",
+    "first_seen": "2026-11-28"
+  },
+  "wd:1217876": {
+    "title": "Linux Software Engineer",
+    "url": "https://hpe.wd5.myworkdayjobs.com/acjobsite/job/Roseville-California-United-States-of-America/Linux-Software-engineer_1217876",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr-202624677": {
+    "title": "Defense Modeling and Simulation Researcher",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level---Defense-Lab-Modeling-and-Simulation-Researcher_JR-202624677",
+    "company": "General Motors",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr-46395-1": {
+    "title": "Software Engineer 1",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Software-Engineer-I_JR-46395-1",
+    "company": "Northwestern Mutual",
+    "first_seen": "2026-11-28"
+  },
+  "wd:46807": {
+    "title": "Data Analyst - Dashboard Developer",
+    "url": "https://guidehouse.wd1.myworkdayjobs.com/external/job/US---Remote-Any-location/Data-Analyst--Dashboard-Developer-_46807",
+    "company": "Guidehouse",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr2026-00030592-1": {
+    "title": "Information Technology Applications Developer - Webteam Java",
+    "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Information-Technology-Applications-Developer---WebTeam-Java_JR2026-00030592-1",
+    "company": "State of Nebraska",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r2633703": {
+    "title": "AI Engineer/Data Scientist",
+    "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/AI-Engineer-Data-Scientist-NCG--Bachelor-s--Santa-Clara--CA-_R2633703",
+    "company": "Applied Materials",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0001377": {
+    "title": "Data Scientist 1",
+    "url": "https://resurgent.wd1.myworkdayjobs.com/resurgent/job/SC---Greenville/Data-Scientist-I_R0001377",
+    "company": "Resurgent Capital Services",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r260023733": {
+    "title": "Software Developer New Grad",
+    "url": "https://bmo.wd3.myworkdayjobs.com/External/job/Berkeley-Heights-NJ-USA/Software-Developer_R260023733",
+    "company": "Bank of Montreal",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r267322": {
+    "title": "Associate Engineer - Quality Engineering",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Associate-Engineer--Quality-Engineering_R267322",
+    "company": "Analog Devices",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r032171": {
+    "title": "Software Engineer New Grad",
+    "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering---New-Grad_R032171",
+    "company": "Ciena",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0141538": {
+    "title": "Junior Condition Monitoring & Analytics Engineer",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/HRERSU-London-Ludgate/Junior-Condition-Monitoring---Analytics-Engineer---12-month-FTC_R0141538",
+    "company": "Hitachi",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr-11082": {
+    "title": "Statistical and Research Analyst",
+    "url": "https://clemson.wd12.myworkdayjobs.com/Clemson_Careers/job/CLEMSON-SC/Statistical-and-Research-Analyst_JR-11082",
+    "company": "Clemson University",
+    "first_seen": "2026-11-28"
+  },
+  "tel.wd3.myworkdayjobs.com/tel-careers/job/chaska/automation-engineer_r26-02663": {
+    "title": "Automation Engineer",
+    "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/Chaska/Automation-Engineer_R26-02663",
+    "company": "Tokyo Electron",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r70860": {
+    "title": "Android Applications Developer",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer_R70860",
+    "company": "Motorola Solutions",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r70939": {
+    "title": "Graduate Software Engineer - July 2027 Intake",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Glasgow-UK-ZUK118/Graduate-Software-Engineer_R70939",
+    "company": "Motorola Solutions",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r70910": {
+    "title": "Web Interface Software Engineer",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R70910",
+    "company": "Motorola Solutions",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r92468": {
+    "title": "Technology Development Program - Software Engineering - Commercial Application Development",
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Commercial-Application-Development-_R92468",
+    "company": "M&T Bank",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr25540": {
+    "title": "Software Developer - Applications",
+    "url": "https://brambles.wd5.myworkdayjobs.com/en-US/Brambles_Careers/job/Santa-Clara-California-USA/Software-Developer---Applications_JR25540",
+    "company": "CHEP",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r92451": {
+    "title": "Technology Development Program - Software Engineering - Identity & Risk Technology",
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--Identity---Risk-Technology-_R92451",
+    "company": "M&T Bank",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r92449": {
+    "title": "Technology Development Program - Software Engineering - AI & Engineering Platforms",
+    "url": "https://mtb.wd5.myworkdayjobs.com/Campus/job/Buffalo-NY/XMLNAME-2027-Technology-Development-Program---Software-Engineering--AI---Engineering-Platforms-_R92449",
+    "company": "M&T Bank",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r-436474": {
+    "title": "Big Data Software Engineer",
+    "url": "https://humana.wd5.myworkdayjobs.com/humana_external_career_site/job/Louisville-KY/Big-Data-Software-Engineer_R-436474",
+    "company": "Humana",
+    "first_seen": "2026-11-28"
+  },
+  "wd:jr-2604458": {
+    "title": "Analyst New Grad - Data Systems and Automation",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/Analyst--Data-Systems-and-Automation--2027-New-College-Graduate--_JR-2604458",
+    "company": "GlobalFoundries",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r18947": {
+    "title": "Distribution Modeling & Analysis Engineer",
+    "url": "https://aep.wd1.myworkdayjobs.com/AEPCareerSite/job/New-Albany-OH/Distribution-Modeling---Analysis-Engineer-Senior_R18947",
+    "company": "American Electric Power",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r336908": {
+    "title": "Research Associate - Multiple Teams",
+    "url": "https://cw.wd1.myworkdayjobs.com/external/job/Denver-Colorado-USA/Research-Associate---Data-Centers--Alternatives---Practice-Groups_R336908",
+    "company": "Cushman & Wakefield",
+    "first_seen": "2026-11-28"
+  },
+  "wd:req198509": {
+    "title": "Associate Data Scientist - Delivery Data Science",
+    "url": "https://homedepot.wd5.myworkdayjobs.com/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/Associate-Data-Scientist---Delivery-Data-Science_Req198509",
+    "company": "The Home Depot",
+    "first_seen": "2026-11-28"
+  },
+  "wd:101372-1": {
+    "title": "Engineer – Software Engineer",
+    "url": "https://nationwide.wd1.myworkdayjobs.com/Nationwide_Career/job/Iowa---Des-Moines-1100-Locust-Street/Engineer--Software-Engineer_101372-1",
+    "company": "Nationwide",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r08915": {
+    "title": "AI Engineer Associate",
+    "url": "https://bcbsma.wd5.myworkdayjobs.com/bcbsma/job/Boston/AI-Engineer_R08915",
+    "company": "Blue Cross Blue Shield of Massachusetts",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r4425": {
+    "title": "Category Data Analyst",
+    "url": "https://kissusa.wd12.myworkdayjobs.com/KISS_Careers_External/job/USA-NY-Port-Washington-HQ/Category-Data-Analyst_R4425",
+    "company": "Kiss Products",
+    "first_seen": "2026-11-28"
+  },
+  "go.vansh.nyc/1lz": {
+    "title": "Data Engineer (Master's)",
+    "url": "https://go.vansh.nyc/1Lz",
+    "company": "neurohire.ai",
+    "first_seen": "2026-11-28"
+  },
+  "go.vansh.nyc/1ly": {
+    "title": "New Grad: Software Developer",
+    "url": "https://go.vansh.nyc/1LY",
+    "company": "Bank of Montreal",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r3001689": {
+    "title": "Junior Software Engineer",
+    "url": "https://trinzic.wd115.myworkdayjobs.com/Trinzic_Careers/job/Beavercreek-Ohio/Junior-Software-Engineer_R3001689",
+    "company": "Trinzic",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r20950": {
+    "title": "Technology Data Graduate",
+    "url": "https://mgpru.wd3.myworkdayjobs.com/mandgprudential/job/London/Technology-Data-Graduate--London-_R20950",
+    "company": "M&G",
+    "first_seen": "2026-11-28"
+  },
+  "wd:332349-1": {
+    "title": "Associate – AI Solutions & Enablement",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/New-York-NY/Associate--AI-Solutions---Enablement_332349-1",
+    "company": "S&P Global",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0176222": {
+    "title": "Software Engineer 1",
+    "url": "https://pae.wd1.myworkdayjobs.com/en-US/amentum_careers/job/US-MD-Hanover/Software-Engineer-1_R0176222",
+    "company": "Amentum",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r-15401": {
+    "title": "Master Data Administrator",
+    "url": "https://dssmith.wd3.myworkdayjobs.com/dss_internal/job/Caerphilly/Master-Data-Administrator_R-15401",
+    "company": "DS Smith",
+    "first_seen": "2026-11-28"
+  },
+  "wd:2030715": {
+    "title": "Software Engineer",
+    "url": "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/RTP-North-Carolina-US/Software-Engineer_2030715",
+    "company": "Cisco",
+    "first_seen": "2026-11-28"
+  },
+  "wd:4966818-2": {
+    "title": "Associate AI Engineering",
+    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Associate--AI-Engineering_4966818-2",
+    "company": "Pfizer",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r70951": {
+    "title": "Web Interface Software Engineer",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R70951",
+    "company": "Motorola Solutions",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r015079": {
+    "title": "Software Developer Graduate",
+    "url": "https://aveva.wd3.myworkdayjobs.com/en-US/AVEVA_careers/job/Cambridge-United-Kingdom/Software-Developer-Graduate--Core-AI----UK_R015079",
+    "company": "AVEVA",
+    "first_seen": "2026-11-28"
+  },
+  "wd:1217876-2": {
+    "title": "Linux Software Engineer",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Roseville-California-United-States-of-America/Linux-Software-engineer_1217876-2",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-11-28"
+  },
+  "wd:1213068-1": {
+    "title": "AI Automation Engineer Graduate",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/AI-Automation-Engineer-Graduate_1213068-1",
+    "company": "Hewlett Packard Enterprise",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0031452-1": {
+    "title": "Software Engineer 1",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Southern-Pines-NC/Software-Engineer-I--Current-Military-Fellows-Only-_R0031452-1",
+    "company": "Sierra Nevada Corporation",
+    "first_seen": "2026-11-28"
+  },
+  "wd:r0031455": {
+    "title": "Software Engineer 1",
+    "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Software-Engineer-I_R0031455",
+    "company": "Sierra Nevada Corporation",
+    "first_seen": "2026-11-28"
   }
 }
